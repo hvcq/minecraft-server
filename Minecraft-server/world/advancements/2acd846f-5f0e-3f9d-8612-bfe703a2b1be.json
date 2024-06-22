@@ -1397,6 +1397,7 @@
       "minecraft:evoker": "2024-06-02 02:09:25 -0400",
       "minecraft:phantom": "2024-04-07 00:33:44 -0400",
       "minecraft:zombified_piglin": "2024-05-31 00:05:19 -0400",
+      "minecraft:witch": "2024-06-22 02:48:21 -0400",
       "minecraft:wither_skeleton": "2024-06-04 01:42:25 -0400",
       "minecraft:husk": "2024-06-04 01:39:03 -0400",
       "minecraft:cave_spider": "2024-04-05 23:18:33 -0300",
@@ -5206,9 +5207,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-06-22 02:35:51 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-06-22 01:35:17 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_familiar_receptacle": "2024-06-22 02:48:58 -0400"
     },
     "done": true
   },
