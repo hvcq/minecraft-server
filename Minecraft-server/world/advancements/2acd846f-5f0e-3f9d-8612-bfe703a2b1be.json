@@ -5194,5 +5194,53 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-06-22 01:22:18 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/soul_eater": {
+    "criteria": {
+      "coded_trigger": "2024-06-22 01:14:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-06-22 01:35:17 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-06-22 01:53:24 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-06-22 01:51:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-06-22 01:21:12 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-06-22 02:21:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-06-22 01:35:17 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

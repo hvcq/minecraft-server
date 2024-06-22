@@ -5775,6 +5775,7 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
+      "has_prevent_cold": "2024-06-22 02:25:25 -0400",
       "has_prevent_fall": "2024-06-19 23:39:52 -0400"
     },
     "done": false
@@ -5953,15 +5954,117 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-06-22 00:35:56 -0400"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-06-22 00:42:22 -0400"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "tombstone:adventure/knowledge_wasted": {
     "criteria": {
-      "bestiary": "2024-06-22 00:35:56 -0400"
+      "coded_trigger": "2024-06-22 01:17:18 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2024-06-22 01:22:15 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_boots": {
+    "criteria": {
+      "has_item": "2024-06-22 01:31:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_leggings": {
+    "criteria": {
+      "has_item": "2024-06-22 01:31:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
+    "criteria": {
+      "has_item": "2024-06-22 01:31:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_blue_helmet": {
+    "criteria": {
+      "has_item": "2024-06-22 01:31:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
+    "criteria": {
+      "has_dragonscales_blue": "2024-06-22 01:31:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2024-06-22 01:50:23 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2024-06-22 01:50:23 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2024-06-22 01:50:23 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2024-06-22 01:50:23 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2024-06-22 01:50:23 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2024-06-22 01:56:06 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-06-22 01:56:06 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2024-06-22 01:56:06 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-06-22 02:13:12 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_cold": {
+    "criteria": {
+      "coded_trigger": "2024-06-22 02:25:25 -0400"
     },
     "done": true
   },
