@@ -5485,33 +5485,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2024-06-22 02:38:14 -0400"
-    },
-    "done": true
-  },
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2024-06-22 01:22:15 -0400"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-06-22 01:49:17 -0400"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-06-22 01:50:50 -0400"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2024-06-22 02:43:59 -0400"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2024-06-22 02:37:13 -0400"
     },
     "done": true
   },
@@ -5527,12 +5515,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-06-22 01:49:17 -0400"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2024-06-22 01:50:50 -0400"
@@ -5545,6 +5527,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-06-22 02:37:13 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-06-22 02:38:14 -0400"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2024-06-22 02:38:14 -0400"
@@ -5554,6 +5548,12 @@
   "iceandfire:recipes/combat/frost_troll_leather_leggings": {
     "criteria": {
       "has_item": "2024-06-22 02:38:14 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2024-06-22 02:43:59 -0400"
     },
     "done": true
   },

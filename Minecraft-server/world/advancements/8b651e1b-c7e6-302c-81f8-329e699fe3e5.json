@@ -6122,5 +6122,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2024-06-22 03:17:44 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
