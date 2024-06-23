@@ -5261,5 +5261,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_wishing_well": {
+    "criteria": {
+      "location0": "2024-06-23 00:57:26 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2024-06-23 01:11:14 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -11,3 +11,37 @@
 [23Jun2024 00:28:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.068422317504883) to LOW (avg. 24.583194732666016)
 [23Jun2024 00:31:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported hvice to Alphabeath]
 [23Jun2024 00:31:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.995851516723633) to VERY_LOW (avg. 16.163692474365234)
+[23Jun2024 00:34:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.961918830871582) to LOW (avg. 20.716243743896484)
+[23Jun2024 00:34:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.716243743896484) to VERY_LOW (avg. 15.288307189941406)
+[23Jun2024 00:36:07.417] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.931655883789062) to LOW (avg. 38.6819953918457)
+[23Jun2024 00:36:14.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.6819953918457) to VERY_LOW (avg. 17.532379150390625)
+[23Jun2024 00:56:58.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:04.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:06.429] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:08.777] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:17.128] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:37.679] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:38.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:49.727] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[23Jun2024 00:57:52.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.218185424804688) to LOW (avg. 21.894088745117188)
+[23Jun2024 00:58:07.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.894088745117188) to VERY_LOW (avg. 18.07183265686035)
+[23Jun2024 00:58:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.61815643310547) to LOW (avg. 22.129663467407227)
+[23Jun2024 01:00:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.47063446044922) to VERY_LOW (avg. 15.85833740234375)
+[23Jun2024 01:03:14.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.68944549560547) to LOW (avg. 23.558698654174805)
+[23Jun2024 01:03:53.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [The Heart and the Flame]
+[23Jun2024 01:06:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.462133407592773) to VERY_LOW (avg. 19.784242630004883)
+[23Jun2024 01:06:52.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.83744239807129) to LOW (avg. 20.509260177612305)
+[23Jun2024 01:07:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.220623016357422) to VERY_LOW (avg. 19.70116424560547)
+[23Jun2024 01:09:07.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.66175079345703) to LOW (avg. 22.512758255004883)
+[23Jun2024 01:09:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.79167366027832) to VERY_LOW (avg. 18.488059997558594)
+[23Jun2024 01:11:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [The Song of the Dragons]
+[23Jun2024 01:11:22.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.209585189819336) to LOW (avg. 35.588951110839844)
+[23Jun2024 01:11:43.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[23Jun2024 01:11:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.742801666259766) to VERY_LOW (avg. 18.638164520263672)
+[23Jun2024 01:11:48.611] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 32.41128469) to MEDIUM (avg. 44.92644015)
+[23Jun2024 01:12:24.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.55899429321289) to LOW (avg. 30.158584594726562)
+[23Jun2024 01:13:26.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47163, l='ServerLevel[world]', x=1953.25, y=112.00, z=-6485.72] died, message: 'Unemployed was shot by Alphabeath'
+[23Jun2024 01:15:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.93131446838379) to VERY_LOW (avg. 19.476106643676758)
+[23Jun2024 01:17:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.348865509033203) to LOW (avg. 31.381362915039062)
+[23Jun2024 01:17:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has completed the challenge [Ancient Knowledge]
+[23Jun2024 01:17:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.381362915039062) to VERY_LOW (avg. 17.115041732788086)
