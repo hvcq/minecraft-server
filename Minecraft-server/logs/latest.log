@@ -1,228 +1,487 @@
-[23Jun2024 00:07:24.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/7534, l='ServerLevel[world]', x=904.50, y=49.00, z=-1443.50]
-[23Jun2024 00:08:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.726547241210938) to LOW (avg. 22.19996452331543)
-[23Jun2024 00:08:37.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.19996452331543) to VERY_LOW (avg. 17.031545639038086)
-[23Jun2024 00:09:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.461008071899414) to LOW (avg. 20.004472732543945)
-[23Jun2024 00:10:48.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported hvice to Alphabeath]
-[23Jun2024 00:10:52.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.37944221496582) to VERY_LOW (avg. 14.29923152923584)
-[23Jun2024 00:15:30.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported hvice to Alphabeath]
-[23Jun2024 00:23:43.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported hvice to Alphabeath]
-[23Jun2024 00:27:59.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.954793930053711) to LOW (avg. 22.05786895751953)
-[23Jun2024 00:28:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.66598129272461) to VERY_LOW (avg. 19.068422317504883)
-[23Jun2024 00:28:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.068422317504883) to LOW (avg. 24.583194732666016)
-[23Jun2024 00:31:36.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported hvice to Alphabeath]
-[23Jun2024 00:31:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.995851516723633) to VERY_LOW (avg. 16.163692474365234)
-[23Jun2024 00:34:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.961918830871582) to LOW (avg. 20.716243743896484)
-[23Jun2024 00:34:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.716243743896484) to VERY_LOW (avg. 15.288307189941406)
-[23Jun2024 00:36:07.417] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.931655883789062) to LOW (avg. 38.6819953918457)
-[23Jun2024 00:36:14.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.6819953918457) to VERY_LOW (avg. 17.532379150390625)
-[23Jun2024 00:56:58.981] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:04.780] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 3 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:06.429] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:08.777] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:17.128] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:37.679] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:38.228] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 5 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:49.727] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
-[23Jun2024 00:57:52.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.218185424804688) to LOW (avg. 21.894088745117188)
-[23Jun2024 00:58:07.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.894088745117188) to VERY_LOW (avg. 18.07183265686035)
-[23Jun2024 00:58:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.61815643310547) to LOW (avg. 22.129663467407227)
-[23Jun2024 01:00:44.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.47063446044922) to VERY_LOW (avg. 15.85833740234375)
-[23Jun2024 01:03:14.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.68944549560547) to LOW (avg. 23.558698654174805)
-[23Jun2024 01:03:53.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [The Heart and the Flame]
-[23Jun2024 01:06:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.462133407592773) to VERY_LOW (avg. 19.784242630004883)
-[23Jun2024 01:06:52.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.83744239807129) to LOW (avg. 20.509260177612305)
-[23Jun2024 01:07:22.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.220623016357422) to VERY_LOW (avg. 19.70116424560547)
-[23Jun2024 01:09:07.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.66175079345703) to LOW (avg. 22.512758255004883)
-[23Jun2024 01:09:29.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.79167366027832) to VERY_LOW (avg. 18.488059997558594)
-[23Jun2024 01:11:14.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [The Song of the Dragons]
-[23Jun2024 01:11:22.390] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.209585189819336) to LOW (avg. 35.588951110839844)
-[23Jun2024 01:11:43.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
-[23Jun2024 01:11:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.742801666259766) to VERY_LOW (avg. 18.638164520263672)
-[23Jun2024 01:11:48.611] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 32.41128469) to MEDIUM (avg. 44.92644015)
-[23Jun2024 01:12:24.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.55899429321289) to LOW (avg. 30.158584594726562)
-[23Jun2024 01:13:26.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47163, l='ServerLevel[world]', x=1953.25, y=112.00, z=-6485.72] died, message: 'Unemployed was shot by Alphabeath'
-[23Jun2024 01:15:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.93131446838379) to VERY_LOW (avg. 19.476106643676758)
-[23Jun2024 01:17:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.348865509033203) to LOW (avg. 31.381362915039062)
-[23Jun2024 01:17:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has completed the challenge [Ancient Knowledge]
-[23Jun2024 01:17:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.381362915039062) to VERY_LOW (avg. 17.115041732788086)
-[23Jun2024 01:26:33.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! 155.8785211110636,7.5,209.47813606846466
-[23Jun2024 01:28:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [Forged in Flame]
-[23Jun2024 01:29:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Draconic Evolution]
-[23Jun2024 01:37:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.377519607543945) to LOW (avg. 20.047683715820312)
-[23Jun2024 01:37:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.047683715820312) to VERY_LOW (avg. 18.936086654663086)
-[23Jun2024 01:38:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.936086654663086) to LOW (avg. 20.091419219970703)
-[23Jun2024 01:38:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.122526168823242) to VERY_LOW (avg. 19.77904510498047)
-[23Jun2024 01:41:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.12185287475586) to LOW (avg. 28.867530822753906)
-[23Jun2024 01:41:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.867530822753906) to VERY_LOW (avg. 15.208578109741211)
-[23Jun2024 01:44:11.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
-[23Jun2024 01:44:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
-[23Jun2024 01:44:45.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:46817] logged in with entity id 60365 at (864.235951937054, 61.0, -1506.276648581255)
-[23Jun2024 01:44:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
-[23Jun2024 01:44:45.060] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
-[23Jun2024 01:45:16.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:43329] logged in with entity id 60719 at (894.3861889054899, 69.0625, -1284.0837630403144)
-[23Jun2024 01:45:16.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
-[23Jun2024 01:45:16.871] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
-[23Jun2024 01:47:34.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Forged in Flame]
-[23Jun2024 01:48:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Draconic Evolution]
-[23Jun2024 01:48:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.216144561767578) to LOW (avg. 20.164905548095703)
-[23Jun2024 01:48:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.164905548095703) to VERY_LOW (avg. 18.822298049926758)
-[23Jun2024 01:53:35.330] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 8a736005-3027-4cbf-84c9-40f2713388e9
-[23Jun2024 01:53:35.333] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1086 Y: 62 Z: -1424
-[23Jun2024 01:53:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was blown up by Wither
-[23Jun2024 01:53:35.345] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [Bring Home the Beacon]
-[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Bring Home the Beacon]
-[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Bring Home the Beacon]
-[23Jun2024 02:06:03.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Gave 1 [Iron Ingot] to Alphabeath]
-[23Jun2024 02:08:33.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice was kicked for floating too long!
-[23Jun2024 02:08:33.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[23Jun2024 02:08:33.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[23Jun2024 02:08:33.774] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[23Jun2024 02:08:39.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:38055] logged in with entity id 71722 at (1072.9515921794875, 69.13408642301894, -1439.1765596883943)
-[23Jun2024 02:08:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[23Jun2024 02:08:39.571] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[23Jun2024 02:11:06.577] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID a06d7d5e-7b32-4ef5-bb60-91560fcf3648
-[23Jun2024 02:11:06.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1092 Y: 64 Z: -1445
-[23Jun2024 02:11:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was killed by magic
-[23Jun2024 02:11:06.585] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
-[23Jun2024 02:16:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement ['Tis But a Scratch!]
-[23Jun2024 02:18:55.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[23Jun2024 02:18:55.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[23Jun2024 02:27:25.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69b6d03[id=<null>,name=hvice,properties={},legacy=false] (/127.195.51.58:41813) lost connection: Disconnected
-[23Jun2024 02:27:30.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:55023] logged in with entity id 79692 at (1030.6680879897874, 76.0, -1239.1969503635396)
-[23Jun2024 02:27:30.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[23Jun2024 02:27:30.805] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[23Jun2024 02:30:18.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID 35b3ec7f-34d4-4161-a5a0-e5d2db636886
-[23Jun2024 02:30:18.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1073 Y: 62 Z: -1421
-[23Jun2024 02:30:18.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was frozen to death by Wither
-[23Jun2024 02:30:18.280] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
-[23Jun2024 02:30:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has reached the goal [Strong Undead]
-[23Jun2024 02:30:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.170411109924316) to LOW (avg. 21.96874237060547)
-[23Jun2024 02:30:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.96874237060547) to VERY_LOW (avg. 16.077327728271484)
-[23Jun2024 02:31:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Spooky Scary Skeleton]
-[23Jun2024 02:33:16.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -157.2182599098859,-5.5,-206.85113577059815
-[23Jun2024 02:33:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.36890697479248) to LOW (avg. 26.481632232666016)
-[23Jun2024 02:33:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.481632232666016) to VERY_LOW (avg. 18.55906867980957)
-[23Jun2024 02:34:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Race Against The Clock]
-[23Jun2024 02:34:26.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a681d4f8-7ea6-44b2-a9ca-27653adb4df3
-[23Jun2024 02:34:26.781] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 1070 Y: 81 Z: -1472
-[23Jun2024 02:34:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Skeleton
-[23Jun2024 02:34:26.794] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[23Jun2024 02:34:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.544391632080078) to LOW (avg. 21.445343017578125)
-[23Jun2024 02:34:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.445343017578125) to VERY_LOW (avg. 19.55938720703125)
-[23Jun2024 02:36:11.377] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b939f642-354e-4579-aba1-ad22f5e34a26
-[23Jun2024 02:36:11.378] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1051 Y: 63 Z: -1454
-[23Jun2024 02:36:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic
-[23Jun2024 02:36:11.382] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[23Jun2024 02:39:52.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID aa3a1b9e-c3bc-4f9f-8a45-3a22323c8829
-[23Jun2024 02:39:52.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1090 Y: 63 Z: -1451
-[23Jun2024 02:39:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic
-[23Jun2024 02:39:52.439] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[23Jun2024 02:41:02.237] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 4de0927b-17e6-4c1c-9263-ad403dd1a0b4
-[23Jun2024 02:41:02.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1072 Y: 63 Z: -1438
-[23Jun2024 02:41:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was killed by magic
-[23Jun2024 02:41:02.241] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[23Jun2024 02:41:17.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! 177.8447301398545,-8.900000000000006,-153.7930704644391
-[23Jun2024 02:44:06.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID aeadb96a-f386-4b52-8528-648bea02201a
-[23Jun2024 02:44:06.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1077 Y: 63 Z: -1458
-[23Jun2024 02:44:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Zombie
-[23Jun2024 02:44:06.633] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[23Jun2024 02:44:29.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 69.0853213426625,-3.9000000000000057,-185.6398610018939
-[23Jun2024 02:53:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.15224266052246) to LOW (avg. 20.21291732788086)
-[23Jun2024 02:53:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.21291732788086) to VERY_LOW (avg. 18.282596588134766)
-[23Jun2024 02:55:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement ['Tis But a Scratch!]
-[23Jun2024 02:56:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.78792953491211) to LOW (avg. 21.15457534790039)
-[23Jun2024 02:56:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.15457534790039) to VERY_LOW (avg. 19.01490592956543)
-[23Jun2024 02:56:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.09848403930664) to LOW (avg. 20.232196807861328)
-[23Jun2024 02:57:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.232196807861328) to VERY_LOW (avg. 19.391386032104492)
-[23Jun2024 02:57:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.49102783203125) to LOW (avg. 20.876150131225586)
-[23Jun2024 02:57:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.069698333740234) to VERY_LOW (avg. 18.9462890625)
-[23Jun2024 02:58:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.58592414855957) to LOW (avg. 20.34126853942871)
-[23Jun2024 02:58:24.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice was kicked for floating too long!
-[23Jun2024 02:58:24.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Flying is not enabled on this server
-[23Jun2024 02:58:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[23Jun2024 02:58:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.34126853942871) to VERY_LOW (avg. 14.23233413696289)
-[23Jun2024 02:58:30.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:47737] logged in with entity id 96101 at (1052.219311180853, 76.11659534520584, -1398.4905801570965)
-[23Jun2024 02:58:30.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[23Jun2024 02:58:30.162] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[23Jun2024 02:58:39.862] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.23233413696289) to LOW (avg. 20.233110427856445)
-[23Jun2024 02:58:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.233110427856445) to VERY_LOW (avg. 17.95186424255371)
-[23Jun2024 02:59:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.840984344482422) to LOW (avg. 21.304502487182617)
-[23Jun2024 03:00:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.031904220581055) to VERY_LOW (avg. 19.51366424560547)
-[23Jun2024 03:00:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.758586883544922) to LOW (avg. 20.14948081970215)
-[23Jun2024 03:01:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.83814239501953) to VERY_LOW (avg. 19.723289489746094)
-[23Jun2024 03:01:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.723289489746094) to LOW (avg. 23.690332412719727)
-[23Jun2024 03:02:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.70953369140625) to VERY_LOW (avg. 19.867725372314453)
-[23Jun2024 03:02:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.867725372314453) to LOW (avg. 20.513879776000977)
-[23Jun2024 03:02:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.513879776000977) to VERY_LOW (avg. 18.692340850830078)
-[23Jun2024 03:03:24.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -46.46077564944437,-1.5,-198.9607328493721
-[23Jun2024 03:03:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.732173919677734) to LOW (avg. 22.94635772705078)
-[23Jun2024 03:03:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.279916763305664) to VERY_LOW (avg. 18.210887908935547)
-[23Jun2024 03:05:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.92682456970215) to LOW (avg. 21.182498931884766)
-[23Jun2024 03:05:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.182498931884766) to VERY_LOW (avg. 19.982227325439453)
-[23Jun2024 03:05:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.982227325439453) to LOW (avg. 20.402360916137695)
-[23Jun2024 03:06:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.500999450683594) to VERY_LOW (avg. 19.956335067749023)
-[23Jun2024 03:06:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.930654525756836) to LOW (avg. 20.013442993164062)
-[23Jun2024 03:06:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.013442993164062) to VERY_LOW (avg. 19.209165573120117)
-[23Jun2024 03:07:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.209165573120117) to LOW (avg. 21.22812271118164)
-[23Jun2024 03:09:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.381267547607422) to VERY_LOW (avg. 19.95841407775879)
-[23Jun2024 03:10:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.95841407775879) to LOW (avg. 21.40997314453125)
-[23Jun2024 03:10:47.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.830673217773438) to VERY_LOW (avg. 19.880109786987305)
-[23Jun2024 03:17:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.357492446899414) to LOW (avg. 21.37476348876953)
-[23Jun2024 03:18:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.37476348876953) to VERY_LOW (avg. 19.992429733276367)
-[23Jun2024 03:18:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.992429733276367) to LOW (avg. 20.1365909576416)
-[23Jun2024 03:19:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.573427200317383) to VERY_LOW (avg. 19.939674377441406)
-[23Jun2024 03:19:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.939674377441406) to LOW (avg. 21.741111755371094)
-[23Jun2024 03:20:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.549238204956055) to VERY_LOW (avg. 19.69576644897461)
-[23Jun2024 03:20:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.69576644897461) to LOW (avg. 20.900253295898438)
-[23Jun2024 03:21:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.2934627532959) to VERY_LOW (avg. 19.881145477294922)
-[23Jun2024 03:21:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.31798553466797) to LOW (avg. 20.857088088989258)
-[23Jun2024 03:23:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.720947265625) to VERY_LOW (avg. 19.669574737548828)
-[23Jun2024 03:24:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.669574737548828) to LOW (avg. 20.005126953125)
-[23Jun2024 03:24:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.005126953125) to VERY_LOW (avg. 19.757232666015625)
-[23Jun2024 03:24:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.757232666015625) to LOW (avg. 20.392831802368164)
-[23Jun2024 03:24:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.392831802368164) to VERY_LOW (avg. 19.45186996459961)
-[23Jun2024 03:25:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.422391891479492) to LOW (avg. 21.521488189697266)
-[23Jun2024 03:25:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.521488189697266) to VERY_LOW (avg. 18.527891159057617)
-[23Jun2024 03:27:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.899951934814453) to LOW (avg. 20.33100128173828)
-[23Jun2024 03:27:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.33100128173828) to VERY_LOW (avg. 17.0753231048584)
-[23Jun2024 03:34:45.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! 157.06676913237345,7.5,210.21856512196973
-[23Jun2024 03:36:27.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[23Jun2024 03:36:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[23Jun2024 03:36:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.308147430419922) to LOW (avg. 21.902708053588867)
-[23Jun2024 03:37:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.902708053588867) to VERY_LOW (avg. 15.258828163146973)
-[23Jun2024 03:44:03.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:52873] logged in with entity id 119733 at (1031.5995410625758, 76.0, -1239.2664763114813)
-[23Jun2024 03:44:03.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[23Jun2024 03:44:03.828] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[23Jun2024 03:46:27.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
-[23Jun2024 03:46:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
-[23Jun2024 03:46:30.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[23Jun2024 03:46:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[23Jun2024 03:46:34.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:38045] logged in with entity id 120857 at (860.9865285349164, 61.0, -1507.4202265121514)
-[23Jun2024 03:46:34.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
-[23Jun2024 03:46:34.054] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
-[23Jun2024 03:46:39.862] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.15461540222168) to LOW (avg. 24.579769134521484)
-[23Jun2024 03:46:57.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122167, l='ServerLevel[world]', x=1903.59, y=119.00, z=-6456.15] died, message: 'Unemployed was slain by Alphabeath'
-[23Jun2024 03:47:00.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122153, l='ServerLevel[world]', x=1904.63, y=119.00, z=-6452.59] died, message: 'Unemployed was slain by Alphabeath'
-[23Jun2024 03:47:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.065385818481445) to VERY_LOW (avg. 18.582820892333984)
-[23Jun2024 03:47:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.582820892333984) to LOW (avg. 20.27202796936035)
-[23Jun2024 03:47:30.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/122243, l='ServerLevel[world]', x=1934.12, y=118.06, z=-6471.32] died, message: 'Farmer was slain by Alphabeath'
-[23Jun2024 03:48:00.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123063, l='ServerLevel[world]', x=780.48, y=64.00, z=1045.52] died, message: 'Unemployed was slain by Alphabeath'
-[23Jun2024 03:48:03.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
-[23Jun2024 03:48:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
-[23Jun2024 03:48:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.387779235839844) to VERY_LOW (avg. 14.967562675476074)
-[23Jun2024 03:48:15.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123075, l='ServerLevel[world]', x=741.50, y=67.00, z=1067.88] died, message: 'Unemployed was slain by Alphabeath'
-[23Jun2024 03:48:34.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/123064, l='ServerLevel[world]', x=788.18, y=68.00, z=1047.04] died, message: 'Shepherd was shot by Alphabeath'
-[23Jun2024 03:48:39.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
-[23Jun2024 03:48:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
-[23Jun2024 03:48:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[23Jun2024 03:48:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[23Jun2024 03:48:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[23Jun2024 03:48:47.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23Jun2024 03:48:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23Jun2024 03:48:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23Jun2024 03:48:48.646] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2024 15:04:49.783] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.21, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23Jun2024 15:04:49.787] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.11 by Ubuntu; OS Linux arch amd64 version 5.15.153.1-microsoft-standard-WSL2
+[23Jun2024 15:04:50.268] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Jun2024 15:04:50.300] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/bryan/Minecraft/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Jun2024 15:04:50.329] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 0 skipped entries ...
+[23Jun2024 15:04:50.345] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /home/bryan/Minecraft/Minecraft-server/config/adaptive_performance_tweaks/client_side_mods.list
+[23Jun2024 15:04:50.346] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 3 skipped entries ...
+[23Jun2024 15:04:50.351] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /home/bryan/Minecraft/Minecraft-server and mods dir /home/bryan/Minecraft/Minecraft-server/mods for target SERVER
+[23Jun2024 15:04:50.352] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
+[23Jun2024 15:04:50.353] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~95 mods in /home/bryan/Minecraft/Minecraft-server/mods for duplication with file extension .jar ...
+[23Jun2024 15:04:50.459] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
+[23Jun2024 15:04:50.742] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.21/fmlcore-1.20.1-47.2.21.jar is missing mods.toml file
+[23Jun2024 15:04:50.743] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.21/javafmllanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[23Jun2024 15:04:50.743] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.21/lowcodelanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[23Jun2024 15:04:50.744] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.21/mclanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[23Jun2024 15:04:50.858] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[23Jun2024 15:04:50.859] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[23Jun2024 15:04:52.162] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Jun2024 15:04:52.220] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
+[23Jun2024 15:04:52.320] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[23Jun2024 15:04:52.322] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23Jun2024 15:04:52.334] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[23Jun2024 15:04:52.346] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[23Jun2024 15:04:52.408] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.15.0+mc1.20.1: 77 options available, 0 override(s) found
+[23Jun2024 15:04:52.409] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[23Jun2024 15:04:52.421] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[23Jun2024 15:04:52.445] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 125 options available, 0 override(s) found
+[23Jun2024 15:04:52.508] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[23Jun2024 15:04:52.570] [main/INFO] [Puzzles Lib/]: All mods {/home/bryan/Minecraft/Minecraft-server/mods/memorysettings-1.20.1-5.4.jar#219!/=fuzs.puzzleslib.impl.core.ForgeModContainer@53314f76, /home/bryan/Minecraft/Minecraft-server/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar#183!/=fuzs.puzzleslib.impl.core.ForgeModContainer@62a6674f, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar#252!/=fuzs.puzzleslib.impl.core.ForgeModContainer@70881123, /home/bryan/Minecraft/Minecraft-server/mods/YungsApi-1.20-Forge-4.0.4.jar#245!/=fuzs.puzzleslib.impl.core.ForgeModContainer@703fa45, /home/bryan/Minecraft/Minecraft-server/mods/BenefitsofReading-Forge-1.20.X-1.0.0.jar#187!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5e905f2c, /home/bryan/Minecraft/Minecraft-server/mods/music_player-forge-1.20.1-2.7.0.236.jar#222!/=fuzs.puzzleslib.impl.core.ForgeModContainer@fddd7ae, /home/bryan/Minecraft/Minecraft-server/mods/TravelersBackpack-1.20.1-9.1.12.jar#239!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3f6cce7f, /home/bryan/Minecraft/Minecraft-server/mods/gpumemleakfix-1.20.1-1.8.jar#206!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2725ca05, /home/bryan/Minecraft/Minecraft-server/mods/tombstone-1.20.1-8.6.6.jar#237!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7b9088f2, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar#248!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1a914089, /home/bryan/Minecraft/Minecraft-server/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar#218!/=fuzs.puzzleslib.impl.core.ForgeModContainer@43d76a92, /home/bryan/Minecraft/Minecraft-server/mods/BetterBurning-Forge-1.20.1-9.0.2.jar#188!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4a2bf50f, /home/bryan/Minecraft/Minecraft-server/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar#235!/=fuzs.puzzleslib.impl.core.ForgeModContainer@350323a0, /home/bryan/Minecraft/Minecraft-server/mods/alexsmobs-1.22.8.jar#182!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2506b881, /home/bryan/Minecraft/Minecraft-server/mods/citadel-2.5.4-1.20.1.jar#194!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5d7dd549, /home/bryan/Minecraft/Minecraft-server/mods/spark-1.10.53-forge.jar#232!/=fuzs.puzzleslib.impl.core.ForgeModContainer@486bd064, /home/bryan/Minecraft/Minecraft-server/mods/trashslot-forge-1.20-15.1.0.jar#238!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6459f4ea, /home/bryan/Minecraft/Minecraft-server/mods/accommodation_-1.1.0.jar#179!/=fuzs.puzzleslib.impl.core.ForgeModContainer@740b9a50, /home/bryan/Minecraft/Minecraft-server/mods/Fastload-Reforged-mc1.20.1-3.4.0.jar#204!/=fuzs.puzzleslib.impl.core.ForgeModContainer@476fde05, /home/bryan/Minecraft/Minecraft-server/mods/Searchables-forge-1.20.1-1.0.2.jar#230!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5111de7c, /home/bryan/Minecraft/Minecraft-server/mods/saturn-mc1.20.1-0.1.3.jar#229!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7ac48e10, /home/bryan/Minecraft/Minecraft-server/mods/stealing_villagers-forge-1.20.1-1.0.0.jar#233!/=fuzs.puzzleslib.impl.core.ForgeModContainer@52354202, /home/bryan/Minecraft/Minecraft-server/mods/iceandfire-2.1.13-1.20.1-beta-4.jar#207!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6b1321b7, /home/bryan/Minecraft/Minecraft-server/mods/bettervillage-forge-1.20.1-3.2.0.jar#191!/=fuzs.puzzleslib.impl.core.ForgeModContainer@342ee097, /home/bryan/Minecraft/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227_/META-INF/jarjar/puzzlesaccessapi-forge-8.0.7.jar#276!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6ac45c0c, /home/bryan/Minecraft/Minecraft-server/mods/YungsBridges-1.20-Forge-4.0.3.jar#255!/=fuzs.puzzleslib.impl.core.ForgeModContainer@12192604, /home/bryan/Minecraft/Minecraft-server/mods/JustEnoughResources-1.20.1-1.4.0.247.jar#215!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6075b369, /home/bryan/Minecraft/Minecraft-server/mods/modernfix-forge-5.15.0+mc1.20.1.jar#220!/=fuzs.puzzleslib.impl.core.ForgeModContainer@231cdda8, /home/bryan/Minecraft/Minecraft-server/mods/DungeonsArise-1.20.x-2.1.58-release.jar#200!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6b70d1fb, /home/bryan/Minecraft/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3002e397, /home/bryan/Minecraft/Minecraft-server/mods/alexscaves-1.1.4.jar#181!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7da1e005, /home/bryan/Minecraft/Minecraft-server/mods/libraryferret-forge-1.20.1-4.0.0.jar#216!/=fuzs.puzzleslib.impl.core.ForgeModContainer@38159384, /home/bryan/Minecraft/Minecraft-server/mods/improvedmobs-1.20.1-1.12.4-forge.jar#211!/=fuzs.puzzleslib.impl.core.ForgeModContainer@55877274, /home/bryan/Minecraft/Minecraft-server/mods/extremesoundmuffler-3.41-forge-1.20.jar#202!/=fuzs.puzzleslib.impl.core.ForgeModContainer@723e2d08, /home/bryan/Minecraft/Minecraft-server/mods/okzoomer-forge-1.20-3.0.1.jar#223!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6d4a82, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar#246!/=fuzs.puzzleslib.impl.core.ForgeModContainer@14f060b8, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar#253!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7a0ab480, /home/bryan/Minecraft/Minecraft-server/mods/Iceberg-1.20.1-forge-1.1.21.jar#208!/=fuzs.puzzleslib.impl.core.ForgeModContainer@79df80a4, /home/bryan/Minecraft/Minecraft-server/mods/Prism-1.20.1-forge-1.0.5.jar#226!/=fuzs.puzzleslib.impl.core.ForgeModContainer@130cfc47, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar#251!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4eeab3e, /home/bryan/Minecraft/Minecraft-server/mods/Bookshelf-Forge-1.20.1-20.1.9.jar#192!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2b6fb197, /home/bryan/Minecraft/Minecraft-server/mods/u_team_core-forge-1.20.1-5.1.4.269.jar#240!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2eb0cefe, /home/bryan/Minecraft/Minecraft-server/mods/journeymap-1.20.1-5.9.20-forge.jar#214!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5a2ae1ab, /home/bryan/Minecraft/Minecraft-server/mods/connectivity-1.20.1-5.5.jar#196!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2bec068b, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar#250!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7d59e968, /home/bryan/Minecraft/Minecraft-server/mods/Jade-1.20.1-forge-11.7.1.jar#212!/=fuzs.puzzleslib.impl.core.ForgeModContainer@55361f03, /home/bryan/Minecraft/Minecraft-server/mods/AnvilNeverTooExpensive-1.20.1-1.1.jar#184!/=fuzs.puzzleslib.impl.core.ForgeModContainer@581c9bb7, /home/bryan/Minecraft/Minecraft-server/mods/embeddium-0.3.9+mc1.20.1.jar#201!/=fuzs.puzzleslib.impl.core.ForgeModContainer@138f0661, /home/bryan/Minecraft/Minecraft-server/mods/SimpleRPC-forge-1.20-3.2.4.jar#231!/=fuzs.puzzleslib.impl.core.ForgeModContainer@212fafd1, /home/bryan/Minecraft/Minecraft-server/mods/appleskin-forge-mc1.20.1-2.5.1.jar#185!/=fuzs.puzzleslib.impl.core.ForgeModContainer@448462f0, /home/bryan/Minecraft/Minecraft-server/mods/portablemobs-1.2.0-forge-mc1.20.jar#225!/=fuzs.puzzleslib.impl.core.ForgeModContainer@787988f4, /home/bryan/Minecraft/Minecraft-server/mods/repurposed_structures-7.1.15+1.20.1-forge.jar#228!/=fuzs.puzzleslib.impl.core.ForgeModContainer@132e3594, /home/bryan/Minecraft/Minecraft-server/mods/clientcrafting-1.20.1-1.8.jar#195!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4f235107, /home/bryan/Minecraft/Minecraft-server/mods/workers-1.20.1-1.7.7.jar#243!/=fuzs.puzzleslib.impl.core.ForgeModContainer@28d739f1, /home/bryan/Minecraft/Minecraft-server/mods/tenshilib-1.20.1-1.7.6-forge.jar#236!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1c5d3a37, /home/bryan/Minecraft/Minecraft-server/mods/balm-forge-1.20.1-7.2.2.jar#186!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7e3d2ebd, /home/bryan/Minecraft/Minecraft-server/mods/jei-1.20.1-forge-15.3.0.4.jar#213!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2b43f314, /home/bryan/Minecraft/Minecraft-server/mods/canary-mc1.20.1-0.3.3.jar#193!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3a4a5f3c, /home/bryan/Minecraft/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209_/META-INF/jars/mixinextras-forge-0.3.5.jar#272!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4f3356c0, /home/bryan/Minecraft/Minecraft-server/mods/majrusz-library-forge-1.20.1-7.0.8.jar#217!/=fuzs.puzzleslib.impl.core.ForgeModContainer@586cc15d, /home/bryan/Minecraft/Minecraft-server/mods/CraterLib-Forge-1.20-1.1.1.jar#197!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6c835217, /home/bryan/Minecraft/Minecraft-server/mods/worldedit-mod-7.2.15.jar#244!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4584304, /home/bryan/Minecraft/Minecraft-server/mods/Placebo-1.20.1-8.6.1.jar#224!/=fuzs.puzzleslib.impl.core.ForgeModContainer@51888019, /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar#257!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6f50d55c, /home/bryan/Minecraft/Minecraft-server/mods/FallingTree-1.20.1-4.3.4.jar#203!/=fuzs.puzzleslib.impl.core.ForgeModContainer@19b5214b, /home/bryan/Minecraft/Minecraft-server/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar#234!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5fb3111a, /home/bryan/Minecraft/Minecraft-server/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar#180!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4aaecabd, /home/bryan/Minecraft/Minecraft-server/mods/BetterPingDisplay-1.20.1-1.1.jar#190!/=fuzs.puzzleslib.impl.core.ForgeModContainer@23bd0c81, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar#247!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1332dec4, /home/bryan/Minecraft/Minecraft-server/mods/betterfoliage-5.0.2.jar#189!/=fuzs.puzzleslib.impl.core.ForgeModContainer@544e3679, /home/bryan/Minecraft/Minecraft-server/mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar#241!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6889f56f, /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-universal.jar#262!/=fuzs.puzzleslib.impl.core.ForgeModContainer@231b35fb, /home/bryan/Minecraft/Minecraft-server/mods/immersive_aircraft-0.7.5+1.20.1-forge.jar#210!/=fuzs.puzzleslib.impl.core.ForgeModContainer@26da1ba2, /home/bryan/Minecraft/Minecraft-server/mods/ferritecore-6.0.1-forge.jar#205!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3820cfe, /home/bryan/Minecraft/Minecraft-server/mods/waystones-forge-1.20-14.1.3.jar#242!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2407a36c, /home/bryan/Minecraft/Minecraft-server/mods/cupboard-1.20.1-2.6.jar#199!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5ec9eefa, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar#254!/=fuzs.puzzleslib.impl.core.ForgeModContainer@28b8f98a, /home/bryan/Minecraft/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3b4ef59f, /home/bryan/Minecraft/Minecraft-server/mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar#198!/=fuzs.puzzleslib.impl.core.ForgeModContainer@22cb3d59, /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar#249!/=fuzs.puzzleslib.impl.core.ForgeModContainer@33e4b9c4, /home/bryan/Minecraft/Minecraft-server/mods/movingelevators-1.4.7-forge-mc1.20.1.jar#221!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5cff729b}
+[23Jun2024 15:04:52.571] [main/INFO] [Puzzles Lib/]: Scheme for memorysettings: /home/bryan/Minecraft/Minecraft-server/mods/memorysettings-1.20.1-5.4.jar#219!/
+[23Jun2024 15:04:52.571] [main/INFO] [Puzzles Lib/]: Scheme for ambientenvironment: /home/bryan/Minecraft/Minecraft-server/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar#183!/
+[23Jun2024 15:04:52.571] [main/INFO] [Puzzles Lib/]: Scheme for betteroceanmonuments: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar#252!/
+[23Jun2024 15:04:52.571] [main/INFO] [Puzzles Lib/]: Scheme for yungsapi: /home/bryan/Minecraft/Minecraft-server/mods/YungsApi-1.20-Forge-4.0.4.jar#245!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for benefitsofreading: /home/bryan/Minecraft/Minecraft-server/mods/BenefitsofReading-Forge-1.20.X-1.0.0.jar#187!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for musicplayer: /home/bryan/Minecraft/Minecraft-server/mods/music_player-forge-1.20.1-2.7.0.236.jar#222!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for travelersbackpack: /home/bryan/Minecraft/Minecraft-server/mods/TravelersBackpack-1.20.1-9.1.12.jar#239!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for gpumemleakfix: /home/bryan/Minecraft/Minecraft-server/mods/gpumemleakfix-1.20.1-1.8.jar#206!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for tombstone: /home/bryan/Minecraft/Minecraft-server/mods/tombstone-1.20.1-8.6.6.jar#237!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for betterendisland: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar#248!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for majruszsdifficulty: /home/bryan/Minecraft/Minecraft-server/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar#218!/
+[23Jun2024 15:04:52.572] [main/INFO] [Puzzles Lib/]: Scheme for betterburning: /home/bryan/Minecraft/Minecraft-server/mods/BetterBurning-Forge-1.20.1-9.0.2.jar#188!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for supermartijn642corelib: /home/bryan/Minecraft/Minecraft-server/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar#235!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for alexsmobs: /home/bryan/Minecraft/Minecraft-server/mods/alexsmobs-1.22.8.jar#182!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for citadel: /home/bryan/Minecraft/Minecraft-server/mods/citadel-2.5.4-1.20.1.jar#194!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for spark: /home/bryan/Minecraft/Minecraft-server/mods/spark-1.10.53-forge.jar#232!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for trashslot: /home/bryan/Minecraft/Minecraft-server/mods/trashslot-forge-1.20-15.1.0.jar#238!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for accommodation_: /home/bryan/Minecraft/Minecraft-server/mods/accommodation_-1.1.0.jar#179!/
+[23Jun2024 15:04:52.573] [main/INFO] [Puzzles Lib/]: Scheme for fastload: /home/bryan/Minecraft/Minecraft-server/mods/Fastload-Reforged-mc1.20.1-3.4.0.jar#204!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for searchables: /home/bryan/Minecraft/Minecraft-server/mods/Searchables-forge-1.20.1-1.0.2.jar#230!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for saturn: /home/bryan/Minecraft/Minecraft-server/mods/saturn-mc1.20.1-0.1.3.jar#229!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for stealing_villagers: /home/bryan/Minecraft/Minecraft-server/mods/stealing_villagers-forge-1.20.1-1.0.0.jar#233!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for iceandfire: /home/bryan/Minecraft/Minecraft-server/mods/iceandfire-2.1.13-1.20.1-beta-4.jar#207!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for bettervillage: /home/bryan/Minecraft/Minecraft-server/mods/bettervillage-forge-1.20.1-3.2.0.jar#191!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for puzzlesaccessapi: /home/bryan/Minecraft/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/
+[23Jun2024 15:04:52.574] [main/INFO] [Puzzles Lib/]: Scheme for yungsbridges: /home/bryan/Minecraft/Minecraft-server/mods/YungsBridges-1.20-Forge-4.0.3.jar#255!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for jeresources: /home/bryan/Minecraft/Minecraft-server/mods/JustEnoughResources-1.20.1-1.4.0.247.jar#215!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for modernfix: /home/bryan/Minecraft/Minecraft-server/mods/modernfix-forge-5.15.0+mc1.20.1.jar#220!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for dungeons_arise: /home/bryan/Minecraft/Minecraft-server/mods/DungeonsArise-1.20.x-2.1.58-release.jar#200!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for immediatelyfast: /home/bryan/Minecraft/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for alexscaves: /home/bryan/Minecraft/Minecraft-server/mods/alexscaves-1.1.4.jar#181!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for libraryferret: /home/bryan/Minecraft/Minecraft-server/mods/libraryferret-forge-1.20.1-4.0.0.jar#216!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for improvedmobs: /home/bryan/Minecraft/Minecraft-server/mods/improvedmobs-1.20.1-1.12.4-forge.jar#211!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for extremesoundmuffler: /home/bryan/Minecraft/Minecraft-server/mods/extremesoundmuffler-3.41-forge-1.20.jar#202!/
+[23Jun2024 15:04:52.575] [main/INFO] [Puzzles Lib/]: Scheme for okzoomer: /home/bryan/Minecraft/Minecraft-server/mods/okzoomer-forge-1.20-3.0.1.jar#223!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for betterdeserttemples: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar#246!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for betterstrongholds: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar#253!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for iceberg: /home/bryan/Minecraft/Minecraft-server/mods/Iceberg-1.20.1-forge-1.1.21.jar#208!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for prism: /home/bryan/Minecraft/Minecraft-server/mods/Prism-1.20.1-forge-1.0.5.jar#226!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for betterfortresses: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar#251!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for bookshelf: /home/bryan/Minecraft/Minecraft-server/mods/Bookshelf-Forge-1.20.1-20.1.9.jar#192!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for uteamcore: /home/bryan/Minecraft/Minecraft-server/mods/u_team_core-forge-1.20.1-5.1.4.269.jar#240!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for journeymap: /home/bryan/Minecraft/Minecraft-server/mods/journeymap-1.20.1-5.9.20-forge.jar#214!/
+[23Jun2024 15:04:52.576] [main/INFO] [Puzzles Lib/]: Scheme for connectivity: /home/bryan/Minecraft/Minecraft-server/mods/connectivity-1.20.1-5.5.jar#196!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for bettermineshafts: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar#250!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for jade: /home/bryan/Minecraft/Minecraft-server/mods/Jade-1.20.1-forge-11.7.1.jar#212!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for ante: /home/bryan/Minecraft/Minecraft-server/mods/AnvilNeverTooExpensive-1.20.1-1.1.jar#184!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for embeddium: /home/bryan/Minecraft/Minecraft-server/mods/embeddium-0.3.9+mc1.20.1.jar#201!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for simplerpc: /home/bryan/Minecraft/Minecraft-server/mods/SimpleRPC-forge-1.20-3.2.4.jar#231!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for appleskin: /home/bryan/Minecraft/Minecraft-server/mods/appleskin-forge-mc1.20.1-2.5.1.jar#185!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for portablemobs: /home/bryan/Minecraft/Minecraft-server/mods/portablemobs-1.2.0-forge-mc1.20.jar#225!/
+[23Jun2024 15:04:52.577] [main/INFO] [Puzzles Lib/]: Scheme for repurposed_structures: /home/bryan/Minecraft/Minecraft-server/mods/repurposed_structures-7.1.15+1.20.1-forge.jar#228!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for clientcrafting: /home/bryan/Minecraft/Minecraft-server/mods/clientcrafting-1.20.1-1.8.jar#195!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for workers: /home/bryan/Minecraft/Minecraft-server/mods/workers-1.20.1-1.7.7.jar#243!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for tenshilib: /home/bryan/Minecraft/Minecraft-server/mods/tenshilib-1.20.1-1.7.6-forge.jar#236!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for balm: /home/bryan/Minecraft/Minecraft-server/mods/balm-forge-1.20.1-7.2.2.jar#186!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for jei: /home/bryan/Minecraft/Minecraft-server/mods/jei-1.20.1-forge-15.3.0.4.jar#213!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for canary: /home/bryan/Minecraft/Minecraft-server/mods/canary-mc1.20.1-0.3.3.jar#193!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for mixinextras: /home/bryan/Minecraft/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for majruszlibrary: /home/bryan/Minecraft/Minecraft-server/mods/majrusz-library-forge-1.20.1-7.0.8.jar#217!/
+[23Jun2024 15:04:52.578] [main/INFO] [Puzzles Lib/]: Scheme for craterlib: /home/bryan/Minecraft/Minecraft-server/mods/CraterLib-Forge-1.20-1.1.1.jar#197!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for worldedit: /home/bryan/Minecraft/Minecraft-server/mods/worldedit-mod-7.2.15.jar#244!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for placebo: /home/bryan/Minecraft/Minecraft-server/mods/Placebo-1.20.1-8.6.1.jar#224!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for minecraft: /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar#257!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for fallingtree: /home/bryan/Minecraft/Minecraft-server/mods/FallingTree-1.20.1-4.3.4.jar#203!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for supermartijn642configlib: /home/bryan/Minecraft/Minecraft-server/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar#234!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for adaptive_performance_tweaks_core: /home/bryan/Minecraft/Minecraft-server/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar#180!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for betterpingdisplay: /home/bryan/Minecraft/Minecraft-server/mods/BetterPingDisplay-1.20.1-1.1.jar#190!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for betterdungeons: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar#247!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for betterfoliage: /home/bryan/Minecraft/Minecraft-server/mods/betterfoliage-5.0.2.jar#189!/
+[23Jun2024 15:04:52.579] [main/INFO] [Puzzles Lib/]: Scheme for universalenchants: /home/bryan/Minecraft/Minecraft-server/mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar#241!/
+[23Jun2024 15:04:52.580] [main/INFO] [Puzzles Lib/]: Scheme for forge: /home/bryan/Minecraft/Minecraft-server/libraries/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-universal.jar#262!/
+[23Jun2024 15:04:52.580] [main/INFO] [Puzzles Lib/]: Scheme for immersive_aircraft: /home/bryan/Minecraft/Minecraft-server/mods/immersive_aircraft-0.7.5+1.20.1-forge.jar#210!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for ferritecore: /home/bryan/Minecraft/Minecraft-server/mods/ferritecore-6.0.1-forge.jar#205!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for waystones: /home/bryan/Minecraft/Minecraft-server/mods/waystones-forge-1.20-14.1.3.jar#242!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for cupboard: /home/bryan/Minecraft/Minecraft-server/mods/cupboard-1.20.1-2.6.jar#199!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for betterwitchhuts: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar#254!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for puzzleslib: /home/bryan/Minecraft/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for creativecore: /home/bryan/Minecraft/Minecraft-server/mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar#198!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for betterjungletemples: /home/bryan/Minecraft/Minecraft-server/mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar#249!/
+[23Jun2024 15:04:52.581] [main/INFO] [Puzzles Lib/]: Scheme for movingelevators: /home/bryan/Minecraft/Minecraft-server/mods/movingelevators-1.4.7-forge-mc1.20.1.jar#221!/
+[23Jun2024 15:04:52.584] [main/INFO] [Puzzles Lib/]: Loading 81 mods:
+	- accommodation_ 1.0.0
+	- adaptive_performance_tweaks_core 10.2.0
+	- alexscaves 1.1.4
+	- alexsmobs 1.22.8
+	- ambientenvironment 11.0.0.1
+	- ante 1.1
+	- appleskin 2.5.1+mc1.20.1
+	- balm 7.2.2
+	- benefitsofreading 1.0.0
+	- betterburning 9.0.2
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.3
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfoliage 5.0.2
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.4
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterpingdisplay 1.1
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.1.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- bookshelf 20.1.9
+	- canary 0.3.3
+	- citadel 2.5.4
+	- clientcrafting 1.20.1-1.8
+	- connectivity 1.20.1-5.5
+	- craterlib 1.1.1
+	- creativecore 2.11.25
+	- cupboard 1.20.1-2.6
+	- dungeons_arise 2.1.58-1.20.x
+	- embeddium 0.3.9+mc1.20.1
+		\-- rubidium 0.7.1
+	- extremesoundmuffler 3.41-forge-1.20
+	- fallingtree 4.3.4
+	- fastload 3.4.0
+	- ferritecore 6.0.1
+	- forge 47.2.21
+	- gpumemleakfix 1.20.1-1.8
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- iceberg 1.1.21
+	- immediatelyfast 1.2.10+1.20.4
+		\-- mixinextras 0.3.5
+	- immersive_aircraft 0.7.5+1.20.1
+	- improvedmobs 1.20.1-1.12.4
+	- jade 11.7.1
+	- jei 15.3.0.4
+	- jeresources 1.4.0.247
+	- journeymap 5.9.20
+	- libraryferret 4.0.0
+	- majruszlibrary 7.0.8
+	- majruszsdifficulty 1.9.10
+	- memorysettings 1.20.1-5.4
+	- minecraft 1.20.1
+	- modernfix 5.15.0+mc1.20.1
+	- movingelevators 1.4.7
+	- musicplayer 2.7.0.236
+	- okzoomer 3.0.1
+	- placebo 8.6.1
+	- portablemobs 1.2.0
+	- prism 1.0.5
+	- puzzleslib 8.1.20
+		\-- puzzlesaccessapi 8.0.7
+	- repurposed_structures 7.1.15+1.20.1-forge
+	- saturn 0.1.3
+	- searchables 1.0.2
+	- simplerpc 3.2.4
+	- spark 1.10.53
+	- stealing_villagers 1.0.0
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17
+	- tenshilib 1.20.1-1.7.6
+	- tombstone 8.6.6
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.12
+	- universalenchants 8.0.0
+	- uteamcore 5.1.4.269
+	- waystones 14.1.3
+	- workers 1.7.7
+	- worldedit 7.2.15+6463-5ca4dff
+	- yungsapi 1.20-Forge-4.0.4
+	- yungsbridges 1.20-Forge-4.0.3
+[23Jun2024 15:04:53.154] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:53.167] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:53.488] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AnvilScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.AnvilScreen)
+[23Jun2024 15:04:53.488] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AnvilScreen was not found ante.mixins.json:AnvilScreenMixin
+[23Jun2024 15:04:53.555] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[23Jun2024 15:04:53.603] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[23Jun2024 15:04:53.603] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[23Jun2024 15:04:53.603] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found movingelevators.mixins.json:sodium.LevelRendererMixinSodium
+[23Jun2024 15:04:53.605] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/MultiBufferSource$BufferSource (java.lang.ClassNotFoundException: net.minecraft.client.renderer.MultiBufferSource$BufferSource)
+[23Jun2024 15:04:53.645] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[23Jun2024 15:04:54.236] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (5.950 s after launch)
+[23Jun2024 15:04:54.300] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Jun2024 15:04:54.300] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Jun2024 15:04:54.367] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[23Jun2024 15:04:54.367] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[23Jun2024 15:04:54.495] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:54.495] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:55.068] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 830 milliseconds
+[23Jun2024 15:04:55.428] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:55.428] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[23Jun2024 15:04:56.894] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by com.abdelaziz.saturn.mixin.leaks.biome_temperature_cache.BiomeMixin. Skipping method.
+[23Jun2024 15:04:57.203] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[23Jun2024 15:04:57.204] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
+[23Jun2024 15:04:57.204] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
+[23Jun2024 15:04:57.205] [modloading-worker-0/INFO] [APTweaks(Core)/]: Thanks for using Adaptive Performance Tweaks: Core (https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core). I hope you enjoy the mod. :)
+[23Jun2024 15:04:57.218] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[23Jun2024 15:04:57.226] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
+[23Jun2024 15:04:57.231] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[23Jun2024 15:04:57.312] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.312] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.312] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.313] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.313] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.313] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.313] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[23Jun2024 15:04:57.328] [modloading-worker-0/INFO] [Simple RPC/]: Loading config file from /home/bryan/Minecraft/Minecraft-server/config/simple-rpc-server.toml
+[23Jun2024 15:04:57.333] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[23Jun2024 15:04:57.337] [modloading-worker-0/INFO] [CraterLib/]: Registered simple-rpc-server.toml successfully!
+[23Jun2024 15:04:57.338] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
+[23Jun2024 15:04:57.360] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.21, for MC 1.20.1 with MCP 20230612.114412
+[23Jun2024 15:04:57.360] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.21 Initialized
+[23Jun2024 15:04:57.380] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[23Jun2024 15:04:57.380] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:100) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.<init>(SodiumClientMod.java:41) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.2.21.jar%23259!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jun2024 15:04:57.495] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: memorysettings.json
+[23Jun2024 15:04:57.496] [modloading-worker-0/WARN] [com.memorysettings.MemorysettingsMod/]: You have less more memory allocated than recommended for your system, the recommended amount for your system is: 6989 mb.
+
+[23Jun2024 15:04:57.504] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:miner_block]
+[23Jun2024 15:04:57.507] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:lumberjack_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:farmer_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:merchant_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:shepherd_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:fisherman_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:cattle_farmer_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:chicken_farmer_block]
+[23Jun2024 15:04:57.512] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:swineherd_block]
+[23Jun2024 15:04:57.514] [modloading-worker-0/INFO] [workers/]: Registering profession for miner with POI net.minecraftforge.registries.RegistryObject@84ce06a
+[23Jun2024 15:04:57.514] [modloading-worker-0/INFO] [workers/]: Registering profession for lumberjack with POI net.minecraftforge.registries.RegistryObject@2324e55
+[23Jun2024 15:04:57.514] [modloading-worker-0/INFO] [workers/]: Registering profession for farmer with POI net.minecraftforge.registries.RegistryObject@b5b6294e
+[23Jun2024 15:04:57.515] [modloading-worker-0/INFO] [workers/]: Registering profession for merchant with POI net.minecraftforge.registries.RegistryObject@e3fd43b3
+[23Jun2024 15:04:57.515] [modloading-worker-0/INFO] [workers/]: Registering profession for shepherd with POI net.minecraftforge.registries.RegistryObject@dc7f439a
+[23Jun2024 15:04:57.515] [modloading-worker-0/INFO] [workers/]: Registering profession for fisherman with POI net.minecraftforge.registries.RegistryObject@2b647820
+[23Jun2024 15:04:57.515] [modloading-worker-0/INFO] [workers/]: Registering profession for cattle_farmer with POI net.minecraftforge.registries.RegistryObject@2fbf1d36
+[23Jun2024 15:04:57.516] [modloading-worker-0/INFO] [workers/]: Registering profession for chicken_farmer with POI net.minecraftforge.registries.RegistryObject@8de71318
+[23Jun2024 15:04:57.516] [modloading-worker-0/INFO] [workers/]: Registering profession for swineherd with POI net.minecraftforge.registries.RegistryObject@5a68aad6
+[23Jun2024 15:04:57.599] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalenchants:main
+[23Jun2024 15:04:57.625] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[23Jun2024 15:04:57.728] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[23Jun2024 15:05:00.198] [main/INFO] [Puzzles Lib/]: Loading common config for universalenchants
+[23Jun2024 15:05:00.356] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[23Jun2024 15:05:00.356] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[23Jun2024 15:05:00.381] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[23Jun2024 15:05:00.393] [modloading-worker-0/INFO] [workers/]: Messages registered
+[23Jun2024 15:05:00.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Found status: AHEAD Current: 0.1.3 Target: null
+[23Jun2024 15:05:00.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[23Jun2024 15:05:00.734] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[23Jun2024 15:05:00.734] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@4efb7b23]
+[23Jun2024 15:05:00.737] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[23Jun2024 15:05:00.760] [main/INFO] [journeymap/]: Initializing Packet Registries
+[23Jun2024 15:05:00.779] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[23Jun2024 15:05:00.779] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[23Jun2024 15:05:00.780] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[23Jun2024 15:05:00.780] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[23Jun2024 15:05:00.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[23Jun2024 15:05:00.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[23Jun2024 15:05:00.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[23Jun2024 15:05:00.811] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
+[23Jun2024 15:05:00.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: OUTDATED Current: 2.7.0.236 Target: 2.7.0.256
+[23Jun2024 15:05:00.912] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[23Jun2024 15:05:01.237] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[23Jun2024 15:05:01.241] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[23Jun2024 15:05:01.250] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[23Jun2024 15:05:01.252] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[23Jun2024 15:05:01.253] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[23Jun2024 15:05:01.375] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.20 Target: 5.10.0
+[23Jun2024 15:05:01.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[23Jun2024 15:05:01.815] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Jun2024 15:05:02.066] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/bryan/Minecraft/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/assets/.mcassetsroot' uses unexpected schema
+[23Jun2024 15:05:02.066] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/bryan/Minecraft/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/data/.mcassetsroot' uses unexpected schema
+[23Jun2024 15:05:03.446] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[23Jun2024 15:05:03.484] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[23Jun2024 15:05:03.520] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[23Jun2024 15:05:04.046] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[23Jun2024 15:05:04.135] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2306 advancements
+[23Jun2024 15:05:04.140] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[23Jun2024 15:05:04.151] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[23Jun2024 15:05:04.172] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[23Jun2024 15:05:04.249] [main/ERROR] [Puzzles Lib/]: Calling server config when it is not yet available! This is a bug! Message: Config data is missing
+java.lang.Exception: Config not yet available
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.lambda$testAvailable$2(ConfigDataHolderImpl.java:88) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at com.mojang.datafixers.util.Either$Right.ifRight(Either.java:109) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.testAvailable(ConfigDataHolderImpl.java:87) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.getOrCreateDefaultConfig(ConfigDataHolderImpl.java:54) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.getConfig(ConfigDataHolderImpl.java:49) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.api.config.v3.ConfigHolder.get(ConfigHolder.java:42) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigHolderRegistry.get(ConfigHolderRegistry.java:16) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at net.minecraft.world.item.HorseArmorItem.m_6473_(HorseArmorItem.java:527) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at ovh.corail.tombstone.ModTombstone.lambda$static$3(ModTombstone.java:73) ~[tombstone-1.20.1-8.6.6.jar%23237!/:8.6.6]
+	at net.minecraft.world.item.enchantment.EnchantmentCategory.m_7454_(EnchantmentCategory.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at fuzs.universalenchants.core.ForgeAbstractions.defaultEnchantmentDataBuilder(ForgeAbstractions.java:44) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at fuzs.universalenchants.world.item.enchantment.data.AdditionalEnchantmentDataProvider.getEnchantmentDataEntries(AdditionalEnchantmentDataProvider.java:50) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.universalenchants.world.item.enchantment.serialize.EnchantmentHoldersManager.loadAll(EnchantmentHoldersManager.java:42) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.universalenchants.UniversalEnchants.lambda$registerHandlers$1(UniversalEnchants.java:48) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.puzzleslib.impl.event.ForgeEventInvokerRegistryImpl.lambda$registerEventHandlers$44(ForgeEventInvokerRegistryImpl.java:389) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.api.event.v1.core.ForgeEventInvokerRegistry.lambda$register$0(ForgeEventInvokerRegistry.java:25) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.event.ForgeEventInvokerRegistryImpl$ForgeEventInvoker.lambda$register$1(ForgeEventInvokerRegistryImpl.java:725) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.server.ReloadableServerResources.m_206868_(ReloadableServerResources.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.WorldLoader.m_244809_(WorldLoader.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[23Jun2024 15:05:04.338] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 6 milliseconds
+[23Jun2024 15:05:04.339] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[23Jun2024 15:05:04.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Jun2024 15:05:04.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Jun2024 15:05:04.506] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Jun2024 15:05:04.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Jun2024 15:05:04.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Jun2024 15:05:04.595] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Jun2024 15:05:04.660] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Jun2024 15:05:04.661] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Jun2024 15:05:04.661] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Jun2024 15:05:04.661] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Jun2024 15:05:04.673] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[23Jun2024 15:05:04.678] [Server thread/INFO] [Puzzles Lib/]: Loading server config for universalenchants
+[23Jun2024 15:05:04.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
+[23Jun2024 15:05:04.737] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 16.439 sec to load ...
+[23Jun2024 15:05:04.804] [Server thread/INFO] [spark/]: Starting background profiler...
+[23Jun2024 15:05:05.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Jun2024 15:05:05.882] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to HARD with a 2.0 factor.
+[23Jun2024 15:05:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Jun2024 15:05:05.889] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[23Jun2024 15:05:07.602] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3008368 ms
+[23Jun2024 15:05:07.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.931s)! For help, type "help"
+[23Jun2024 15:05:07.628] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Jun2024 15:05:07.650] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
+[23Jun2024 15:05:07.651] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 19.353 sec to starting (∆: 2.914 secs)...
+[23Jun2024 15:05:07.667] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[23Jun2024 15:05:07.667] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 19.369 sec to be available and ready to play (∆: 0.016 secs) ...
+[23Jun2024 15:05:07.667] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:overworld
+[23Jun2024 15:05:07.668] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:the_nether
+[23Jun2024 15:05:07.668] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:the_end
+[23Jun2024 15:05:07.668] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[23Jun2024 15:05:07.668] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[23Jun2024 15:05:07.697] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[23Jun2024 15:05:09.148] [Server thread/WARN] [ModernFix/]: Dedicated server took 20.862 seconds to load
+[23Jun2024 15:05:10.025] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 33.59011459350586)
+[23Jun2024 15:05:11.050] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to LOW (avg. 15.275367220000001)
+[23Jun2024 15:05:11.051] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.05353632)
+[23Jun2024 15:05:11.052] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.03677903)
+[23Jun2024 15:05:16.380] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:571) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+[23Jun2024 15:05:16.380] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[23Jun2024 15:05:16.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.12 Target: 9.1.14
+[23Jun2024 15:05:16.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[23Jun2024 15:05:17.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.9 Target: 20.2.13
+[23Jun2024 15:05:17.067] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[23Jun2024 15:05:17.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 5.1.4.269 Target: 5.1.4.299
+[23Jun2024 15:05:17.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[23Jun2024 15:05:17.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[23Jun2024 15:05:17.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Jun2024 15:05:17.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.21 Target: 47.3.0
+[23Jun2024 15:05:17.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[23Jun2024 15:05:24.799] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.59011459350586) to VERY_LOW (avg. 1.5897741317749023)
+[23Jun2024 15:05:32.355] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:571) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:123) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+[23Jun2024 15:05:32.356] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [workers] Starting version check at https://raw.githubusercontent.com/talhanation/workers/main/update.json
+[23Jun2024 15:05:32.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [workers] Found status: OUTDATED Current: 1.7.7 Target: 1.7.8
+[23Jun2024 15:05:32.667] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[23Jun2024 15:05:32.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA_OUTDATED Current: 1.0.2 Target: 1.0.3
+[23Jun2024 15:05:32.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[23Jun2024 15:05:33.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[23Jun2024 15:05:33.093] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[23Jun2024 15:05:33.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.6.6 Target: null
+[23Jun2024 15:05:33.107] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalenchants] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalenchants.json
+[23Jun2024 15:05:33.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalenchants] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[23Jun2024 15:05:33.364] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Starting version check at https://updates.blamejared.com/get?n=AmbientEnvironment&gv=1.20.1
+[23Jun2024 15:05:33.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Found status: BETA Current: 11.0.0.1 Target: 11.0.0.1
+[23Jun2024 15:05:33.571] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[23Jun2024 15:05:33.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.20 Target: null
+[23Jun2024 15:05:33.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterburning] Starting version check at https://updates.blamejared.com/get?n=betterburning&gv=1.20.1
+[23Jun2024 15:05:33.791] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterburning] Found status: BETA Current: 9.0.2 Target: 9.0.2
+[23Jun2024 15:05:33.792] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[23Jun2024 15:05:33.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[23Jun2024 15:05:54.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:48907] logged in with entity id 967 at (862.400803879034, 63.0, -1438.1948496414454)
+[23Jun2024 15:05:54.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
+[23Jun2024 15:05:54.536] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
+[23Jun2024 15:05:54.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.1472132205963135) to LOW (avg. 24.082000732421875)
+[23Jun2024 15:06:02.299] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.082000732421875) to VERY_LOW (avg. 15.835044860839844)
+[23Jun2024 15:09:48.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[23Jun2024 15:09:48.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[23Jun2024 15:09:57.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jun2024 15:09:57.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jun2024 15:09:57.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jun2024 15:09:57.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jun2024 15:09:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jun2024 15:09:58.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jun2024 15:09:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jun2024 15:09:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jun2024 15:09:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jun2024 15:09:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jun2024 15:09:58.407] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
