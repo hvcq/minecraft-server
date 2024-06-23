@@ -200,7 +200,7 @@ def repeat_get_users():
 
 # Inicia un hilo para ejecutar repeat_get_users() en segundo plano
 user_thread = threading.Thread(target=repeat_get_users)
-user_thread.start()
+#user_thread.start()
 
 
 #Obtener el archivo de configuracion
@@ -238,7 +238,7 @@ if colabconfig["server_type"] == "forge":
     pathtoforge = glob.glob(path_actual_str + "/Minecraft-server/libraries/net/minecraftforge/forge/" + forgeversionchecked + "/unix_args.txt")
 
     if pathtoforge: # Checa si la lista no esta vacia
-        
+        print('\033[91m' + "Se encontro el archivo unix_args.txt y se procedera a ejecutar el servidor.")
         path = pathtoforge[0] # Obtiene la primera ruta de la lista
         print(path,"\\n")
         # !java @user_jvm_args.txt "@{path}" "$@"
