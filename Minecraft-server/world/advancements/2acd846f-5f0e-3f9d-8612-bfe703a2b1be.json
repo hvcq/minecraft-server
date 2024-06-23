@@ -5309,5 +5309,11 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_healed": {
+    "criteria": {
+      "bleeding_healed": "2024-06-23 02:55:56 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

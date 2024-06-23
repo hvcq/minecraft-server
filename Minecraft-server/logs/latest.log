@@ -128,3 +128,101 @@
 [23Jun2024 02:44:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Zombie
 [23Jun2024 02:44:06.633] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [23Jun2024 02:44:29.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 69.0853213426625,-3.9000000000000057,-185.6398610018939
+[23Jun2024 02:53:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.15224266052246) to LOW (avg. 20.21291732788086)
+[23Jun2024 02:53:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.21291732788086) to VERY_LOW (avg. 18.282596588134766)
+[23Jun2024 02:55:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement ['Tis But a Scratch!]
+[23Jun2024 02:56:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.78792953491211) to LOW (avg. 21.15457534790039)
+[23Jun2024 02:56:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.15457534790039) to VERY_LOW (avg. 19.01490592956543)
+[23Jun2024 02:56:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.09848403930664) to LOW (avg. 20.232196807861328)
+[23Jun2024 02:57:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.232196807861328) to VERY_LOW (avg. 19.391386032104492)
+[23Jun2024 02:57:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.49102783203125) to LOW (avg. 20.876150131225586)
+[23Jun2024 02:57:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.069698333740234) to VERY_LOW (avg. 18.9462890625)
+[23Jun2024 02:58:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.58592414855957) to LOW (avg. 20.34126853942871)
+[23Jun2024 02:58:24.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice was kicked for floating too long!
+[23Jun2024 02:58:24.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Flying is not enabled on this server
+[23Jun2024 02:58:24.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[23Jun2024 02:58:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.34126853942871) to VERY_LOW (avg. 14.23233413696289)
+[23Jun2024 02:58:30.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:47737] logged in with entity id 96101 at (1052.219311180853, 76.11659534520584, -1398.4905801570965)
+[23Jun2024 02:58:30.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[23Jun2024 02:58:30.162] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[23Jun2024 02:58:39.862] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.23233413696289) to LOW (avg. 20.233110427856445)
+[23Jun2024 02:58:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.233110427856445) to VERY_LOW (avg. 17.95186424255371)
+[23Jun2024 02:59:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.840984344482422) to LOW (avg. 21.304502487182617)
+[23Jun2024 03:00:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.031904220581055) to VERY_LOW (avg. 19.51366424560547)
+[23Jun2024 03:00:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.758586883544922) to LOW (avg. 20.14948081970215)
+[23Jun2024 03:01:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.83814239501953) to VERY_LOW (avg. 19.723289489746094)
+[23Jun2024 03:01:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.723289489746094) to LOW (avg. 23.690332412719727)
+[23Jun2024 03:02:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.70953369140625) to VERY_LOW (avg. 19.867725372314453)
+[23Jun2024 03:02:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.867725372314453) to LOW (avg. 20.513879776000977)
+[23Jun2024 03:02:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.513879776000977) to VERY_LOW (avg. 18.692340850830078)
+[23Jun2024 03:03:24.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -46.46077564944437,-1.5,-198.9607328493721
+[23Jun2024 03:03:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.732173919677734) to LOW (avg. 22.94635772705078)
+[23Jun2024 03:03:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.279916763305664) to VERY_LOW (avg. 18.210887908935547)
+[23Jun2024 03:05:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.92682456970215) to LOW (avg. 21.182498931884766)
+[23Jun2024 03:05:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.182498931884766) to VERY_LOW (avg. 19.982227325439453)
+[23Jun2024 03:05:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.982227325439453) to LOW (avg. 20.402360916137695)
+[23Jun2024 03:06:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.500999450683594) to VERY_LOW (avg. 19.956335067749023)
+[23Jun2024 03:06:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.930654525756836) to LOW (avg. 20.013442993164062)
+[23Jun2024 03:06:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.013442993164062) to VERY_LOW (avg. 19.209165573120117)
+[23Jun2024 03:07:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.209165573120117) to LOW (avg. 21.22812271118164)
+[23Jun2024 03:09:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.381267547607422) to VERY_LOW (avg. 19.95841407775879)
+[23Jun2024 03:10:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.95841407775879) to LOW (avg. 21.40997314453125)
+[23Jun2024 03:10:47.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.830673217773438) to VERY_LOW (avg. 19.880109786987305)
+[23Jun2024 03:17:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.357492446899414) to LOW (avg. 21.37476348876953)
+[23Jun2024 03:18:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.37476348876953) to VERY_LOW (avg. 19.992429733276367)
+[23Jun2024 03:18:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.992429733276367) to LOW (avg. 20.1365909576416)
+[23Jun2024 03:19:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.573427200317383) to VERY_LOW (avg. 19.939674377441406)
+[23Jun2024 03:19:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.939674377441406) to LOW (avg. 21.741111755371094)
+[23Jun2024 03:20:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.549238204956055) to VERY_LOW (avg. 19.69576644897461)
+[23Jun2024 03:20:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.69576644897461) to LOW (avg. 20.900253295898438)
+[23Jun2024 03:21:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.2934627532959) to VERY_LOW (avg. 19.881145477294922)
+[23Jun2024 03:21:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.31798553466797) to LOW (avg. 20.857088088989258)
+[23Jun2024 03:23:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.720947265625) to VERY_LOW (avg. 19.669574737548828)
+[23Jun2024 03:24:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.669574737548828) to LOW (avg. 20.005126953125)
+[23Jun2024 03:24:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.005126953125) to VERY_LOW (avg. 19.757232666015625)
+[23Jun2024 03:24:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.757232666015625) to LOW (avg. 20.392831802368164)
+[23Jun2024 03:24:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.392831802368164) to VERY_LOW (avg. 19.45186996459961)
+[23Jun2024 03:25:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.422391891479492) to LOW (avg. 21.521488189697266)
+[23Jun2024 03:25:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.521488189697266) to VERY_LOW (avg. 18.527891159057617)
+[23Jun2024 03:27:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.899951934814453) to LOW (avg. 20.33100128173828)
+[23Jun2024 03:27:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.33100128173828) to VERY_LOW (avg. 17.0753231048584)
+[23Jun2024 03:34:45.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! 157.06676913237345,7.5,210.21856512196973
+[23Jun2024 03:36:27.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[23Jun2024 03:36:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[23Jun2024 03:36:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.308147430419922) to LOW (avg. 21.902708053588867)
+[23Jun2024 03:37:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.902708053588867) to VERY_LOW (avg. 15.258828163146973)
+[23Jun2024 03:44:03.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:52873] logged in with entity id 119733 at (1031.5995410625758, 76.0, -1239.2664763114813)
+[23Jun2024 03:44:03.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[23Jun2024 03:44:03.828] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[23Jun2024 03:46:27.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[23Jun2024 03:46:27.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[23Jun2024 03:46:30.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[23Jun2024 03:46:30.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[23Jun2024 03:46:34.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:38045] logged in with entity id 120857 at (860.9865285349164, 61.0, -1507.4202265121514)
+[23Jun2024 03:46:34.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
+[23Jun2024 03:46:34.054] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
+[23Jun2024 03:46:39.862] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.15461540222168) to LOW (avg. 24.579769134521484)
+[23Jun2024 03:46:57.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122167, l='ServerLevel[world]', x=1903.59, y=119.00, z=-6456.15] died, message: 'Unemployed was slain by Alphabeath'
+[23Jun2024 03:47:00.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/122153, l='ServerLevel[world]', x=1904.63, y=119.00, z=-6452.59] died, message: 'Unemployed was slain by Alphabeath'
+[23Jun2024 03:47:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.065385818481445) to VERY_LOW (avg. 18.582820892333984)
+[23Jun2024 03:47:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.582820892333984) to LOW (avg. 20.27202796936035)
+[23Jun2024 03:47:30.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/122243, l='ServerLevel[world]', x=1934.12, y=118.06, z=-6471.32] died, message: 'Farmer was slain by Alphabeath'
+[23Jun2024 03:48:00.197] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123063, l='ServerLevel[world]', x=780.48, y=64.00, z=1045.52] died, message: 'Unemployed was slain by Alphabeath'
+[23Jun2024 03:48:03.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[23Jun2024 03:48:03.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[23Jun2024 03:48:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.387779235839844) to VERY_LOW (avg. 14.967562675476074)
+[23Jun2024 03:48:15.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/123075, l='ServerLevel[world]', x=741.50, y=67.00, z=1067.88] died, message: 'Unemployed was slain by Alphabeath'
+[23Jun2024 03:48:34.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/123064, l='ServerLevel[world]', x=788.18, y=68.00, z=1047.04] died, message: 'Shepherd was shot by Alphabeath'
+[23Jun2024 03:48:39.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[23Jun2024 03:48:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[23Jun2024 03:48:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Jun2024 03:48:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Jun2024 03:48:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Jun2024 03:48:47.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Jun2024 03:48:48.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Jun2024 03:48:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Jun2024 03:48:48.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Jun2024 03:48:48.646] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
