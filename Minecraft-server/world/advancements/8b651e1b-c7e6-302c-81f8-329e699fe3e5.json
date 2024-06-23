@@ -6128,6 +6128,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-06-22 21:34:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/standard_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-22 21:37:07 -0400"
@@ -6272,12 +6278,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2024-06-22 21:34:12 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/bee_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-22 21:37:07 -0400"
@@ -6389,6 +6389,54 @@
   "minecraft:recipes/tools/villager_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2024-06-22 21:37:07 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2024-06-22 23:56:35 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-06-22 23:53:36 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-06-22 23:50:03 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-06-22 23:53:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2024-06-22 23:54:28 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-06-22 23:53:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-06-22 23:53:36 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-06-22 23:53:36 -0400"
     },
     "done": true
   },
