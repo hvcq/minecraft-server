@@ -45,3 +45,86 @@
 [23Jun2024 01:17:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.348865509033203) to LOW (avg. 31.381362915039062)
 [23Jun2024 01:17:24.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has completed the challenge [Ancient Knowledge]
 [23Jun2024 01:17:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.381362915039062) to VERY_LOW (avg. 17.115041732788086)
+[23Jun2024 01:26:33.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! 155.8785211110636,7.5,209.47813606846466
+[23Jun2024 01:28:26.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [Forged in Flame]
+[23Jun2024 01:29:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Draconic Evolution]
+[23Jun2024 01:37:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.377519607543945) to LOW (avg. 20.047683715820312)
+[23Jun2024 01:37:54.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.047683715820312) to VERY_LOW (avg. 18.936086654663086)
+[23Jun2024 01:38:02.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.936086654663086) to LOW (avg. 20.091419219970703)
+[23Jun2024 01:38:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.122526168823242) to VERY_LOW (avg. 19.77904510498047)
+[23Jun2024 01:41:09.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.12185287475586) to LOW (avg. 28.867530822753906)
+[23Jun2024 01:41:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.867530822753906) to VERY_LOW (avg. 15.208578109741211)
+[23Jun2024 01:44:11.527] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[23Jun2024 01:44:11.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[23Jun2024 01:44:45.033] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:46817] logged in with entity id 60365 at (864.235951937054, 61.0, -1506.276648581255)
+[23Jun2024 01:44:45.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
+[23Jun2024 01:44:45.060] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
+[23Jun2024 01:45:16.840] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:43329] logged in with entity id 60719 at (894.3861889054899, 69.0625, -1284.0837630403144)
+[23Jun2024 01:45:16.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[23Jun2024 01:45:16.871] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[23Jun2024 01:47:34.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Forged in Flame]
+[23Jun2024 01:48:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Draconic Evolution]
+[23Jun2024 01:48:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.216144561767578) to LOW (avg. 20.164905548095703)
+[23Jun2024 01:48:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.164905548095703) to VERY_LOW (avg. 18.822298049926758)
+[23Jun2024 01:53:35.330] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 8a736005-3027-4cbf-84c9-40f2713388e9
+[23Jun2024 01:53:35.333] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1086 Y: 62 Z: -1424
+[23Jun2024 01:53:35.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was blown up by Wither
+[23Jun2024 01:53:35.345] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [Bring Home the Beacon]
+[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Bring Home the Beacon]
+[23Jun2024 02:04:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Bring Home the Beacon]
+[23Jun2024 02:06:03.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Gave 1 [Iron Ingot] to Alphabeath]
+[23Jun2024 02:08:33.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice was kicked for floating too long!
+[23Jun2024 02:08:33.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[23Jun2024 02:08:33.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[23Jun2024 02:08:33.774] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jun2024 02:08:39.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:38055] logged in with entity id 71722 at (1072.9515921794875, 69.13408642301894, -1439.1765596883943)
+[23Jun2024 02:08:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[23Jun2024 02:08:39.571] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[23Jun2024 02:11:06.577] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID a06d7d5e-7b32-4ef5-bb60-91560fcf3648
+[23Jun2024 02:11:06.579] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1092 Y: 64 Z: -1445
+[23Jun2024 02:11:06.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was killed by magic
+[23Jun2024 02:11:06.585] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
+[23Jun2024 02:16:21.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement ['Tis But a Scratch!]
+[23Jun2024 02:18:55.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[23Jun2024 02:18:55.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[23Jun2024 02:27:25.876] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69b6d03[id=<null>,name=hvice,properties={},legacy=false] (/127.195.51.58:41813) lost connection: Disconnected
+[23Jun2024 02:27:30.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.195.51.58:55023] logged in with entity id 79692 at (1030.6680879897874, 76.0, -1239.1969503635396)
+[23Jun2024 02:27:30.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[23Jun2024 02:27:30.805] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[23Jun2024 02:30:18.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID 35b3ec7f-34d4-4161-a5a0-e5d2db636886
+[23Jun2024 02:30:18.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1073 Y: 62 Z: -1421
+[23Jun2024 02:30:18.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was frozen to death by Wither
+[23Jun2024 02:30:18.280] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
+[23Jun2024 02:30:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has reached the goal [Strong Undead]
+[23Jun2024 02:30:24.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.170411109924316) to LOW (avg. 21.96874237060547)
+[23Jun2024 02:30:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.96874237060547) to VERY_LOW (avg. 16.077327728271484)
+[23Jun2024 02:31:54.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Spooky Scary Skeleton]
+[23Jun2024 02:33:16.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -157.2182599098859,-5.5,-206.85113577059815
+[23Jun2024 02:33:17.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.36890697479248) to LOW (avg. 26.481632232666016)
+[23Jun2024 02:33:32.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.481632232666016) to VERY_LOW (avg. 18.55906867980957)
+[23Jun2024 02:34:16.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Race Against The Clock]
+[23Jun2024 02:34:26.779] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a681d4f8-7ea6-44b2-a9ca-27653adb4df3
+[23Jun2024 02:34:26.781] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: 1070 Y: 81 Z: -1472
+[23Jun2024 02:34:26.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Skeleton
+[23Jun2024 02:34:26.794] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[23Jun2024 02:34:39.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.544391632080078) to LOW (avg. 21.445343017578125)
+[23Jun2024 02:34:47.361] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.445343017578125) to VERY_LOW (avg. 19.55938720703125)
+[23Jun2024 02:36:11.377] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b939f642-354e-4579-aba1-ad22f5e34a26
+[23Jun2024 02:36:11.378] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1051 Y: 63 Z: -1454
+[23Jun2024 02:36:11.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic
+[23Jun2024 02:36:11.382] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[23Jun2024 02:39:52.435] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID aa3a1b9e-c3bc-4f9f-8a45-3a22323c8829
+[23Jun2024 02:39:52.436] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1090 Y: 63 Z: -1451
+[23Jun2024 02:39:52.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic
+[23Jun2024 02:39:52.439] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[23Jun2024 02:41:02.237] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 4de0927b-17e6-4c1c-9263-ad403dd1a0b4
+[23Jun2024 02:41:02.238] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1072 Y: 63 Z: -1438
+[23Jun2024 02:41:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was killed by magic
+[23Jun2024 02:41:02.241] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[23Jun2024 02:41:17.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! 177.8447301398545,-8.900000000000006,-153.7930704644391
+[23Jun2024 02:44:06.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID aeadb96a-f386-4b52-8528-648bea02201a
+[23Jun2024 02:44:06.631] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1077 Y: 63 Z: -1458
+[23Jun2024 02:44:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Zombie
+[23Jun2024 02:44:06.633] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[23Jun2024 02:44:29.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 69.0853213426625,-3.9000000000000057,-185.6398610018939
