@@ -5345,5 +5345,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/trade_grave_guardian": {
+    "criteria": {
+      "coded_trigger": "2024-06-30 01:22:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
