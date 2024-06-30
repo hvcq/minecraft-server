@@ -605,3 +605,107 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jun2024 01:27:09.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [30Jun2024 01:27:11.602] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.06534957885742) to VERY_HIGH (avg. 176.47853088378906)
 [30Jun2024 01:27:12.979] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.8054646) to VERY_HIGH (avg. 76.06611201999999)
+[30Jun2024 01:27:21.805] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 176.47853088378906) to NORMAL (avg. 45.825843811035156)
+[30Jun2024 01:27:34.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10024ms or 200 ticks behind
+[30Jun2024 01:27:35.197] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.825843811035156) to VERY_HIGH (avg. 84.4460220336914)
+[30Jun2024 01:27:49.914] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 84.4460220336914) to LOW (avg. 35.76323318481445)
+[30Jun2024 01:28:13.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.14836883544922) to VERY_HIGH (avg. 60.43976593017578)
+[30Jun2024 01:28:27.414] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.43976593017578) to LOW (avg. 36.779048919677734)
+[30Jun2024 01:28:43.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.779048919677734) to NORMAL (avg. 40.71784973144531)
+[30Jun2024 01:29:06.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.18814468383789) to LOW (avg. 39.75603485107422)
+[30Jun2024 01:29:21.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.75603485107422) to NORMAL (avg. 40.66730499267578)
+[30Jun2024 01:30:21.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.64974594116211) to LOW (avg. 39.67290115356445)
+[30Jun2024 01:30:28.644] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.67290115356445) to NORMAL (avg. 43.17887496948242)
+[30Jun2024 01:30:51.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.39229202270508) to LOW (avg. 39.1389045715332)
+[30Jun2024 01:31:36.138] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.55701446533203) to NORMAL (avg. 42.386940002441406)
+[30Jun2024 01:31:58.637] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.92434310913086) to LOW (avg. 37.454833984375)
+[30Jun2024 01:33:06.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.11402893066406) to NORMAL (avg. 40.889373779296875)
+[30Jun2024 01:33:28.636] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.13538360595703) to LOW (avg. 39.7110595703125)
+[30Jun2024 01:33:58.639] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.69694137573242) to NORMAL (avg. 42.041316986083984)
+[30Jun2024 01:34:06.478] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.041316986083984) to VERY_HIGH (avg. 93.14790344238281)
+[30Jun2024 01:34:21.137] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 93.14790344238281) to LOW (avg. 36.29460144042969)
+[30Jun2024 01:34:43.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.93474197387695) to NORMAL (avg. 42.73272705078125)
+[30Jun2024 01:34:51.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.73272705078125) to LOW (avg. 39.79408264160156)
+[30Jun2024 01:35:28.645] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.705528259277344) to NORMAL (avg. 42.99650573730469)
+[30Jun2024 01:35:43.636] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.99650573730469) to LOW (avg. 34.82754898071289)
+[30Jun2024 01:36:39.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[30Jun2024 01:36:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[30Jun2024 01:36:58.636] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.641284942626953) to VERY_LOW (avg. 4.096182823181152)
+[30Jun2024 01:40:57.492] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@271d7adb[id=<null>,name=narum0000,properties={},legacy=false] (/127.68.183.159:47739) lost connection: Disconnected
+[30Jun2024 01:41:23.542] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c65fc9b[id=<null>,name=narum0000,properties={},legacy=false] (/127.68.183.159:37681) lost connection: Disconnected
+[30Jun2024 01:42:28.496] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@760d062a[id=<null>,name=narum0000,properties={},legacy=false] (/127.68.183.159:39147) lost connection: Disconnected
+[30Jun2024 01:48:18.323] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 132.30015262) to VERY_LOW (avg. 10.49062811)
+[30Jun2024 01:51:47.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.54.99.187:38233] logged in with entity id 12458 at (1018.5647139578227, 76.0, -1251.0638296817688)
+[30Jun2024 01:51:47.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[30Jun2024 01:51:47.511] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[30Jun2024 01:51:52.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.251216888427734) to LOW (avg. 32.24261474609375)
+[30Jun2024 01:51:54.079] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 7.9779604299999995) to NORMAL (avg. 38.13089685)
+[30Jun2024 01:52:00.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:38327] logged in with entity id 12663 at (887.576814335098, 76.5, -1250.8866232844762)
+[30Jun2024 01:52:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 01:52:01.286] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 01:52:02.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 38.13089685) to HIGH (avg. 47.78275982)
+[30Jun2024 01:52:14.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.927696228027344) to NORMAL (avg. 40.62903594970703)
+[30Jun2024 01:53:15.331] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.05938720703125) to LOW (avg. 35.604957580566406)
+[30Jun2024 01:53:22.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.604957580566406) to NORMAL (avg. 42.52591323852539)
+[30Jun2024 01:54:29.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.97139358520508) to LOW (avg. 36.39085006713867)
+[30Jun2024 01:54:44.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.39085006713867) to NORMAL (avg. 41.29133605957031)
+[30Jun2024 01:55:15.005] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.851322174072266) to MEDIUM (avg. 46.00319290161133)
+[30Jun2024 01:55:22.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.00319290161133) to NORMAL (avg. 42.08514404296875)
+[30Jun2024 01:55:52.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.01483917236328) to LOW (avg. 39.12093734741211)
+[30Jun2024 01:56:14.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.814308166503906) to NORMAL (avg. 40.949127197265625)
+[30Jun2024 01:57:22.687] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.1031494140625) to VERY_HIGH (avg. 63.571739196777344)
+[30Jun2024 01:57:37.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.571739196777344) to NORMAL (avg. 41.865291595458984)
+[30Jun2024 02:00:56.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 1d41a20c-1f2e-4c80-b446-33e510921d94
+[30Jun2024 02:00:56.965] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 887 Y: 63 Z: -1242
+[30Jun2024 02:00:56.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 fell from a high place
+[30Jun2024 02:00:57.024] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[30Jun2024 02:03:22.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.67464065551758) to LOW (avg. 39.737388610839844)
+[30Jun2024 02:03:37.499] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.737388610839844) to NORMAL (avg. 44.06462097167969)
+[30Jun2024 02:05:52.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.5234375) to LOW (avg. 39.970794677734375)
+[30Jun2024 02:06:07.496] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.970794677734375) to NORMAL (avg. 43.537994384765625)
+[30Jun2024 02:08:49.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alphabeath[/127.222.11.159:49569] logged in with entity id 16836 at (856.6773614253473, 61.0, -1509.2754010622466)
+[30Jun2024 02:08:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath joined the game
+[30Jun2024 02:08:49.331] [Server thread/INFO] [Jade/]: Syncing config to Alphabeath (8b651e1b-c7e6-302c-81f8-329e699fe3e5)
+[30Jun2024 02:08:52.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.68992614746094) to HIGH (avg. 50.047149658203125)
+[30Jun2024 02:09:00.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.047149658203125) to MEDIUM (avg. 47.60517883300781)
+[30Jun2024 02:09:22.915] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.74221420288086) to HIGH (avg. 50.77452087402344)
+[30Jun2024 02:09:30.353] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.77452087402344) to MEDIUM (avg. 47.11194610595703)
+[30Jun2024 02:09:38.017] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.11194610595703) to HIGH (avg. 50.9569206237793)
+[30Jun2024 02:09:58.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[30Jun2024 02:10:03.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.780677795410156) to VERY_HIGH (avg. 63.46112823486328)
+[30Jun2024 02:10:05.123] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.15312815) to VERY_HIGH (avg. 63.26065992)
+[30Jun2024 02:10:07.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17518, l='ServerLevel[world]', x=1881.33, y=121.00, z=-6453.86] died, message: 'Unemployed was shot by Alphabeath'
+[30Jun2024 02:10:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath has made the advancement [Crime in Town]
+[30Jun2024 02:10:07.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17519, l='ServerLevel[world]', x=1881.70, y=121.00, z=-6453.30] died, message: 'Unemployed bled to death'
+[30Jun2024 02:10:07.801] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17519, l='ServerLevel[world]', x=1881.70, y=121.00, z=-6453.30] died, message: 'Unemployed was shot by Alphabeath'
+[30Jun2024 02:10:17.063] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/17578, l='ServerLevel[world]', x=1880.18, y=119.00, z=-6460.18] died, message: 'Toolsmith was shot by Alphabeath'
+[30Jun2024 02:10:21.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7838ms or 156 ticks behind
+[30Jun2024 02:10:25.155] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/17617, l='ServerLevel[world]', x=1923.49, y=118.00, z=-6456.14] died, message: 'Nitwit was shot by Alphabeath'
+[30Jun2024 02:10:44.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8029ms or 160 ticks behind
+[30Jun2024 02:10:47.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/17595, l='ServerLevel[world]', x=1913.84, y=119.00, z=-6429.83] died, message: 'Armorer was shot by Alphabeath'
+[30Jun2024 02:11:04.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5384ms or 107 ticks behind
+[30Jun2024 02:11:22.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
+[30Jun2024 02:11:30.026] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18553, l='ServerLevel[world]', x=4931.47, y=66.00, z=-176.46] died, message: 'Nitwit was shot by Alphabeath'
+[30Jun2024 02:11:32.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/18520, l='ServerLevel[world]', x=4941.04, y=62.49, z=-182.05] died, message: 'Scribe was shot by Alphabeath'
+[30Jun2024 02:11:42.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5137ms or 102 ticks behind
+[30Jun2024 02:11:48.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! 9.713721489218187,1.4554677395850177,-2.9322671847519075
+[30Jun2024 02:12:08.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11169ms or 223 ticks behind
+[30Jun2024 02:12:11.784] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/18556, l='ServerLevel[world]', x=4929.19, y=67.00, z=-230.01] died, message: 'Nitwit was shot by Alphabeath'
+[30Jun2024 02:12:13.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18527, l='ServerLevel[world]', x=4926.41, y=67.00, z=-228.58] died, message: 'Unemployed was burnt to a crisp whilst fighting Alphabeath'
+[30Jun2024 02:12:16.002] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18559, l='ServerLevel[world]', x=4925.80, y=67.00, z=-231.75] died, message: 'Unemployed was shot by Alphabeath'
+[30Jun2024 02:12:18.004] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18557, l='ServerLevel[world]', x=4927.00, y=67.52, z=-230.28] died, message: 'Unemployed was shot by Alphabeath'
+[30Jun2024 02:12:28.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4405ms or 88 ticks behind
+[30Jun2024 02:12:48.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5316ms or 106 ticks behind
+[30Jun2024 02:13:03.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -9.90859629622355,1.130906499714527,1.248476902690669
+[30Jun2024 02:13:03.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 2.16860130542932,2.258056094256176,-9.65276455047092
+[30Jun2024 02:13:13.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10142ms or 202 ticks behind
+[30Jun2024 02:13:33.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4986ms or 99 ticks behind
+[30Jun2024 02:13:55.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7032ms or 140 ticks behind
+[30Jun2024 02:14:15.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5316ms or 106 ticks behind
+[30Jun2024 02:14:37.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6958ms or 139 ticks behind
+[30Jun2024 02:15:01.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8926ms or 178 ticks behind
+[30Jun2024 02:15:09.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[30Jun2024 02:15:09.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[30Jun2024 02:15:20.442] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.07395935058594) to NORMAL (avg. 41.60202407836914)
+[30Jun2024 02:15:35.344] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.60202407836914) to MEDIUM (avg. 47.085750579833984)
+[30Jun2024 02:15:42.745] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.085750579833984) to NORMAL (avg. 45.12842559814453)
