@@ -52,3 +52,99 @@
 [30Jun2024 00:34:54.586] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1075 Y: 64 Z: -1435
 [30Jun2024 00:34:54.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by Wither Skeleton using magic
 [30Jun2024 00:34:54.589] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[30Jun2024 00:35:08.089] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 5cc09701-a778-44dc-8376-b7f4f084080d
+[30Jun2024 00:35:08.090] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1088 Y: 64 Z: -1410
+[30Jun2024 00:35:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Stray
+[30Jun2024 00:35:08.093] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[30Jun2024 00:35:12.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.386198043823242) to LOW (avg. 21.07656478881836)
+[30Jun2024 00:35:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported narum0000 to hvice]
+[30Jun2024 00:35:42.314] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.609277725219727) to VERY_LOW (avg. 13.941755294799805)
+[30Jun2024 00:36:16.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has completed the challenge [Eye of the Tiger]
+[30Jun2024 00:42:10.471] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 2567d457-9bd9-423f-b3dd-cb45d773634a
+[30Jun2024 00:42:10.471] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1078 Y: 64 Z: -1407
+[30Jun2024 00:42:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Skeleton
+[30Jun2024 00:42:10.474] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[30Jun2024 00:43:43.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Timed out
+[30Jun2024 00:43:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 00:47:57.061] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76dbf3e3[id=<null>,name=narum0000,properties={},legacy=false] (/127.68.183.159:37569) lost connection: Disconnected
+[30Jun2024 00:48:01.520] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:49715] logged in with entity id 138626 at (1078.953063971793, 64.0, -1407.29369060683)
+[30Jun2024 00:48:01.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 00:48:01.564] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 00:48:02.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[30Jun2024 00:48:02.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 00:48:04.062] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID 1bd5bd41-8acd-477a-9201-a7438fcd38aa
+[30Jun2024 00:48:04.062] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1069 Y: 65 Z: -1402
+[30Jun2024 00:48:04.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was killed by magic
+[30Jun2024 00:48:04.067] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
+[30Jun2024 00:48:19.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:60261] logged in with entity id 138849 at (1078.953063971793, 64.0, -1407.29369060683)
+[30Jun2024 00:48:19.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 00:48:20.008] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 00:48:22.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! -1075.453063971793,58.0,1416.79369060683
+[30Jun2024 00:48:27.296] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.572198867797852) to LOW (avg. 31.554258346557617)
+[30Jun2024 00:48:51.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/571, l='ServerLevel[world]', x=48.28, y=122.17, z=58.68] died, message: 'Cleric was shot by Skeleton'
+[30Jun2024 00:48:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported narum0000 to Alphabeath]
+[30Jun2024 00:49:04.795] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.074386596679688) to VERY_LOW (avg. 14.37468147277832)
+[30Jun2024 00:49:20.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Set the weather to clear]
+[30Jun2024 00:49:28.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[30Jun2024 00:49:28.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 00:49:43.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:60923] logged in with entity id 140358 at (1084.8995068699576, 64.0, -1412.5618131836707)
+[30Jun2024 00:49:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 00:49:43.818] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 00:50:23.957] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 2ccd9b12-ab95-4cb8-a80e-1bd5a8b9b5ef
+[30Jun2024 00:50:23.958] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1084 Y: 64 Z: -1412
+[30Jun2024 00:50:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
+[30Jun2024 00:50:23.967] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[30Jun2024 00:50:26.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dd7b16b[id=<null>,name=narum0000,properties={},legacy=false] (/127.68.183.159:56015) lost connection: Disconnected
+[30Jun2024 00:50:32.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: You logged in from another location
+[30Jun2024 00:50:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 00:50:32.125] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:43531] logged in with entity id 141105 at (1084.8995068699576, 64.0, -1412.5618131836707)
+[30Jun2024 00:50:32.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 00:50:32.175] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 00:50:33.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['narum0000'/141002, l='ServerLevel[world]', x=1075.88, y=64.00, z=-1421.71] died: narum0000 was shot by hvice
+[30Jun2024 00:50:42.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.28529167175293) to LOW (avg. 22.889171600341797)
+[30Jun2024 00:50:56.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alphabeath: Teleported narum0000 to hvice]
+[30Jun2024 00:51:04.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.28076171875) to VERY_LOW (avg. 17.82248878479004)
+[30Jun2024 00:51:34.790] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.162595748901367) to LOW (avg. 20.150978088378906)
+[30Jun2024 00:52:32.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[30Jun2024 00:52:32.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 00:52:34.788] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.593782424926758) to VERY_LOW (avg. 17.30239486694336)
+[30Jun2024 00:53:03.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: narum0000[/127.68.183.159:35731] logged in with entity id 142832 at (895.5871528611353, 69.0625, -1277.0387993504455)
+[30Jun2024 00:53:03.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 joined the game
+[30Jun2024 00:53:03.342] [Server thread/INFO] [Jade/]: Syncing config to narum0000 (0e5562b2-bac2-35be-8be2-74ad739b658a)
+[30Jun2024 00:53:04.787] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.277502059936523) to LOW (avg. 21.315908432006836)
+[30Jun2024 00:53:12.286] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.315908432006836) to VERY_LOW (avg. 17.90981101989746)
+[30Jun2024 00:54:54.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! 2.76943539504623,1.0,-9.705920957804437
+[30Jun2024 00:55:25.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! -9.629547484944396,0.0,3.1504911593253837
+[30Jun2024 00:56:24.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! -3.206122058631763,0.41290928041701136,9.79164173694312
+[30Jun2024 00:56:42.947] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Alphabeath with unique ID 6c7162e9-269a-4f47-ad67-eddf5d544e38
+[30Jun2024 00:56:42.947] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1022 Y: 66 Z: -1329
+[30Jun2024 00:56:42.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath was killed by magic whilst trying to escape hvice
+[30Jun2024 00:56:42.950] [Server thread/INFO] [tombstone/]: The player Alphabeath has successfully been saved
+[30Jun2024 00:56:44.945] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID c9edcf78-a706-4f17-92f8-ce9a61a8bc2e
+[30Jun2024 00:56:44.946] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1032 Y: 66 Z: -1340
+[30Jun2024 00:56:44.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was killed by magic whilst trying to escape Alphabeath
+[30Jun2024 00:56:44.948] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[30Jun2024 00:56:57.330] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.543777465820312) to NORMAL (avg. 40.91691589355469)
+[30Jun2024 00:57:04.780] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.91691589355469) to VERY_LOW (avg. 17.126693725585938)
+[30Jun2024 00:57:39.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath moved too quickly! -156.4099708230499,-5.5,-207.61733554549778
+[30Jun2024 00:57:42.278] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.432515144348145) to LOW (avg. 20.842960357666016)
+[30Jun2024 00:57:49.778] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.842960357666016) to VERY_LOW (avg. 19.79886245727539)
+[30Jun2024 00:58:03.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[30Jun2024 00:58:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 01:00:12.273] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.799724578857422) to LOW (avg. 21.44179916381836)
+[30Jun2024 01:00:27.273] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.44179916381836) to VERY_LOW (avg. 17.47509765625)
+[30Jun2024 01:10:14.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[30Jun2024 01:10:14.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[30Jun2024 01:10:18.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alphabeath lost connection: Disconnected
+[30Jun2024 01:10:18.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alphabeath left the game
+[30Jun2024 01:10:24.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Jun2024 01:10:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Jun2024 01:10:24.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Jun2024 01:10:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Jun2024 01:10:26.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Jun2024 01:10:26.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Jun2024 01:10:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Jun2024 01:10:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Jun2024 01:10:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Jun2024 01:10:26.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Jun2024 01:10:26.855] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -586,7 +586,8 @@
       "potato": "2024-05-18 00:56:19 -0400",
       "bread": "2024-04-02 23:12:41 -0300",
       "golden_apple": "2024-04-06 01:15:55 -0300",
-      "cooked_rabbit": "2024-04-02 23:52:00 -0300"
+      "cooked_rabbit": "2024-04-02 23:52:00 -0300",
+      "cooked_chicken": "2024-06-30 00:41:28 -0400"
     },
     "done": false
   },
@@ -5696,15 +5697,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-06-30 00:27:05 -0400"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-06-30 00:28:24 -0400"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
-      "bestiary": "2024-06-30 00:27:05 -0400"
+      "all_effects": "2024-06-30 00:36:16 -0400"
     },
     "done": true
   },
