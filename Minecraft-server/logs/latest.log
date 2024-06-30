@@ -709,3 +709,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [30Jun2024 02:15:20.442] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.07395935058594) to NORMAL (avg. 41.60202407836914)
 [30Jun2024 02:15:35.344] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.60202407836914) to MEDIUM (avg. 47.085750579833984)
 [30Jun2024 02:15:42.745] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.085750579833984) to NORMAL (avg. 45.12842559814453)
+[30Jun2024 02:16:00.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2817ms or 56 ticks behind
+[30Jun2024 02:16:00.545] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.12842559814453) to VERY_HIGH (avg. 330.9231262207031)
+[30Jun2024 02:16:09.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[30Jun2024 02:16:09.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[30Jun2024 02:16:13.536] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[30Jun2024 02:16:13.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[30Jun2024 02:16:15.545] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 330.9231262207031) to VERY_LOW (avg. 16.882068634033203)
+[30Jun2024 02:16:33.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
+[30Jun2024 02:17:11.965] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.882068634033203) to VERY_HIGH (avg. 151.43211364746094)
+[30Jun2024 02:17:18.190] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 151.43211364746094) to VERY_LOW (avg. 17.195480346679688)
+[30Jun2024 02:17:21.291] [LanServerPinger #1/WARN] [net.minecraft.client.server.LanServerPinger/]: LanServerPinger: Function not implemented
