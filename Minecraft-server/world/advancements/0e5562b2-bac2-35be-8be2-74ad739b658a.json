@@ -5696,5 +5696,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-06-30 00:28:24 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2024-06-30 00:27:05 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
