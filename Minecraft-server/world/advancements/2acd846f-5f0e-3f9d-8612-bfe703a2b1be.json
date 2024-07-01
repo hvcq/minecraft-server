@@ -5107,7 +5107,8 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
-      "has_prevent_cold": "2024-06-21 05:56:52 +0000"
+      "has_prevent_cold": "2024-06-21 05:56:52 +0000",
+      "has_prevent_fall": "2024-07-01 04:34:51 +0000"
     },
     "done": false
   },
@@ -5384,6 +5385,18 @@
   "tombstone:adventure/magic_siphoner": {
     "criteria": {
       "coded_trigger": "2024-06-30 03:38:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2024-07-01 04:36:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2024-07-01 04:34:51 +0000"
     },
     "done": true
   },

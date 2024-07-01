@@ -731,3 +731,61 @@ java.net.http.HttpTimeoutException: request timed out
 [01Jul2024 04:27:23.449] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.33319091796875) to HIGH (avg. 49.17136001586914)
 [01Jul2024 04:27:38.444] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.17136001586914) to MEDIUM (avg. 46.859107971191406)
 [01Jul2024 04:28:17.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
+[01Jul2024 04:28:20.942] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.071205139160156) to NORMAL (avg. 43.462371826171875)
+[01Jul2024 04:28:35.953] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.462371826171875) to MEDIUM (avg. 48.39935302734375)
+[01Jul2024 04:28:41.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[01Jul2024 04:28:59.365] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.6949462890625) to VERY_HIGH (avg. 84.56918334960938)
+[01Jul2024 04:29:03.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6566ms or 131 ticks behind
+[01Jul2024 04:29:14.546] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 84.56918334960938) to MEDIUM (avg. 46.34223937988281)
+[01Jul2024 04:29:47.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/48505, l='ServerLevel[world]', x=-3412.17, y=98.00, z=-3721.13] died, message: 'Farmer bled to death'
+[01Jul2024 04:29:52.042] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.840553283691406) to NORMAL (avg. 45.62800216674805)
+[01Jul2024 04:30:07.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.62800216674805) to HIGH (avg. 49.18254852294922)
+[01Jul2024 04:30:29.546] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.073638916015625) to MEDIUM (avg. 46.104949951171875)
+[01Jul2024 04:30:59.574] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.194271087646484) to HIGH (avg. 51.67738723754883)
+[01Jul2024 04:31:07.044] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.67738723754883) to MEDIUM (avg. 46.74758529663086)
+[01Jul2024 04:31:22.042] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.74758529663086) to NORMAL (avg. 45.81206512451172)
+[01Jul2024 04:31:29.548] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.81206512451172) to MEDIUM (avg. 47.80901336669922)
+[01Jul2024 04:31:59.586] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.57062530517578) to HIGH (avg. 51.411460876464844)
+[01Jul2024 04:32:15.092] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.411460876464844) to NORMAL (avg. 43.72431182861328)
+[01Jul2024 04:32:29.670] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.72431182861328) to MEDIUM (avg. 47.324981689453125)
+[01Jul2024 04:32:52.220] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.010902404785156) to HIGH (avg. 51.61583709716797)
+[01Jul2024 04:33:52.154] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.04014587402344) to NORMAL (avg. 45.17857360839844)
+[01Jul2024 04:33:59.668] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.17857360839844) to HIGH (avg. 50.656211853027344)
+[01Jul2024 04:34:07.194] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.656211853027344) to MEDIUM (avg. 46.698551177978516)
+[01Jul2024 04:34:22.192] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.698551177978516) to HIGH (avg. 53.921905517578125)
+[01Jul2024 04:34:29.682] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.921905517578125) to MEDIUM (avg. 48.97365188598633)
+[01Jul2024 04:34:44.675] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.97365188598633) to HIGH (avg. 49.746116638183594)
+[01Jul2024 04:34:51.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [I slipped]
+[01Jul2024 04:34:59.662] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.746116638183594) to MEDIUM (avg. 46.209922790527344)
+[01Jul2024 04:35:22.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.87725067138672) to HIGH (avg. 50.33995056152344)
+[01Jul2024 04:35:52.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.13340759277344) to NORMAL (avg. 43.649330139160156)
+[01Jul2024 04:36:19.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Versatility]
+[01Jul2024 04:36:52.154] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.79319763183594) to LOW (avg. 39.50128173828125)
+[01Jul2024 04:37:22.154] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.868953704833984) to NORMAL (avg. 41.309051513671875)
+[01Jul2024 04:38:14.654] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.21962356567383) to LOW (avg. 38.906681060791016)
+[01Jul2024 04:38:22.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.906681060791016) to NORMAL (avg. 44.201480865478516)
+[01Jul2024 04:40:14.710] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.155662536621094) to HIGH (avg. 52.1766471862793)
+[01Jul2024 04:40:22.154] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.1766471862793) to NORMAL (avg. 42.47924041748047)
+[01Jul2024 04:41:37.155] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.29784393310547) to LOW (avg. 39.79966354370117)
+[01Jul2024 04:41:44.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.79966354370117) to NORMAL (avg. 45.762020111083984)
+[01Jul2024 04:42:29.654] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.38438034057617) to LOW (avg. 36.81190490722656)
+[01Jul2024 04:42:37.160] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.81190490722656) to NORMAL (avg. 43.41011047363281)
+[01Jul2024 04:44:14.655] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.18914794921875) to LOW (avg. 39.88478088378906)
+[01Jul2024 04:44:29.660] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.88478088378906) to NORMAL (avg. 42.200931549072266)
+[01Jul2024 04:46:23.690] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[01Jul2024 04:46:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[01Jul2024 04:46:29.654] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.08705520629883) to LOW (avg. 34.346832275390625)
+[01Jul2024 04:47:14.252] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.346832275390625) to VERY_HIGH (avg. 83.35537719726562)
+[01Jul2024 04:48:14.243] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 83.35537719726562) to VERY_LOW (avg. 3.9721555709838867)
+[01Jul2024 04:48:15.493] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 50.59846872999999) to VERY_LOW (avg. 5.17396929)
+[01Jul2024 04:48:22.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Jul2024 04:48:22.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Jul2024 04:48:22.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Jul2024 04:48:22.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Jul2024 04:48:22.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01Jul2024 04:48:22.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01Jul2024 04:48:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Jul2024 04:48:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Jul2024 04:48:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Jul2024 04:48:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01Jul2024 04:48:22.501] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
