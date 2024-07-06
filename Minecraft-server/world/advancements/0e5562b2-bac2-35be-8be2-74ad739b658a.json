@@ -5728,5 +5728,35 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
+    "criteria": {
+      "has_item": "2024-07-06 02:32:37 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_leggings": {
+    "criteria": {
+      "has_item": "2024-07-06 02:32:37 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_helmet": {
+    "criteria": {
+      "has_item": "2024-07-06 02:32:37 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
+    "criteria": {
+      "has_sea_serpent_scales_teal": "2024-07-06 02:32:37 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_teal_boots": {
+    "criteria": {
+      "has_item": "2024-07-06 02:32:37 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

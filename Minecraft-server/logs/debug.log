@@ -5607,3 +5607,46 @@ java.net.http.HttpTimeoutException: request timed out
 [06Jul2024 02:12:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
 [06Jul2024 02:12:55.265] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:981, y:68, z:-1220, dim:minecraft:overworld]
 [06Jul2024 02:12:55.270] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[06Jul2024 02:14:53.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:14:53.358] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:19:53.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:19:53.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:20:42.270] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a2a16518-dd5a-4940-a350-28712676983f
+[06Jul2024 02:20:42.272] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 982 Y: 70 Z: -1233
+[06Jul2024 02:20:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Cerberus
+[06Jul2024 02:20:42.276] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:982, y:70, z:-1234, dim:minecraft:overworld]
+[06Jul2024 02:20:42.280] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[06Jul2024 02:21:40.669] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 71d24d58-8a29-478a-9c59-5371969dd2b3
+[06Jul2024 02:21:40.671] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 970 Y: 61 Z: -1333
+[06Jul2024 02:21:40.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Cerberus
+[06Jul2024 02:21:40.673] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:975, y:61, z:-1331, dim:minecraft:overworld]
+[06Jul2024 02:21:40.680] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[06Jul2024 02:23:09.727] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 1b338a4b-3720-4084-a8b0-c661c30de1f6
+[06Jul2024 02:23:09.728] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 991 Y: 69 Z: -1225
+[06Jul2024 02:23:09.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Illusioner
+[06Jul2024 02:23:09.731] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:992, y:69, z:-1226, dim:minecraft:overworld]
+[06Jul2024 02:23:09.732] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[06Jul2024 02:24:53.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:24:53.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:29:53.346] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:29:53.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:34:53.350] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:34:53.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:38:55.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[06Jul2024 02:38:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[06Jul2024 02:39:39.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[06Jul2024 02:39:39.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[06Jul2024 02:39:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2024 02:39:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2024 02:39:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2024 02:39:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2024 02:39:50.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2024 02:39:50.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2024 02:39:50.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 02:39:50.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 02:39:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2024 02:39:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2024 02:39:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2024 02:39:50.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2024 02:39:50.226] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[06Jul2024 02:39:50.227] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
