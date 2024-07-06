@@ -5406,5 +5406,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2024-07-06 01:13:48 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

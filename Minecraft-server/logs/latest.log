@@ -11,3 +11,9 @@
 [06Jul2024 01:05:07.466] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [06Jul2024 01:05:33.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/76940, l='ServerLevel[world]', x=1026.69, y=76.60, z=-1236.11] died: hvice was slain by hvice using [hielo potente]
 [06Jul2024 01:13:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Vanishing]
+[06Jul2024 01:23:03.643] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[06Jul2024 01:23:03.643] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[06Jul2024 01:23:04.341] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 019916d7-051c-441e-94d6-c49154372e7b
+[06Jul2024 01:23:04.358] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ffd32b26-4301-4dfd-b3bc-b66a3f29ca34
+[06Jul2024 01:23:04.359] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /home/hernan/juegos/minecraft-server/Minecraft-server/./crash-reports/crash-2024-07-06_01.23.04-server.txt
+[06Jul2024 01:23:06.590] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics

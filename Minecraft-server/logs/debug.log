@@ -5648,3 +5648,60 @@ java.net.http.HttpTimeoutException: request timed out
 [06Jul2024 01:10:07.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2024 01:10:07.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2024 01:13:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Vanishing]
+[06Jul2024 01:15:07.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 01:15:07.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 01:20:07.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2024 01:20:07.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2024 01:22:03.700] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[06Jul2024 01:23:03.643] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: A single server tick took 60.00 seconds (should be max 0.05)
+[06Jul2024 01:23:03.643] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[06Jul2024 01:23:03.867] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[06Jul2024 01:23:03.867] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[06Jul2024 01:23:03.868] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[06Jul2024 01:23:03.869] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[06Jul2024 01:23:03.870] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/cpu_capacity
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/cpu_capacity
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/cpu_capacity
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[06Jul2024 01:23:03.871] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/cpu_capacity
+[06Jul2024 01:23:03.872] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[06Jul2024 01:23:04.111] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[06Jul2024 01:23:04.112] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@6042d663
+[06Jul2024 01:23:04.120] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[06Jul2024 01:23:04.225] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[06Jul2024 01:23:04.225] [Server Watchdog/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[06Jul2024 01:23:04.341] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 019916d7-051c-441e-94d6-c49154372e7b
+[06Jul2024 01:23:04.358] [Server Watchdog/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID ffd32b26-4301-4dfd-b3bc-b66a3f29ca34
+[06Jul2024 01:23:04.359] [Server Watchdog/ERROR] [net.minecraft.server.dedicated.ServerWatchdog/]: This crash report has been saved to: /home/hernan/juegos/minecraft-server/Minecraft-server/./crash-reports/crash-2024-07-06_01.23.04-server.txt
+[06Jul2024 01:23:06.590] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
