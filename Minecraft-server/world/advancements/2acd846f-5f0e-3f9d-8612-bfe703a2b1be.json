@@ -5400,5 +5400,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/resistor_shield": {
+    "criteria": {
+      "resistor_shield": "2024-07-05 23:17:31 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

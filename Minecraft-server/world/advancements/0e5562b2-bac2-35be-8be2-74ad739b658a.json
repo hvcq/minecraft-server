@@ -1612,6 +1612,7 @@
       "minecraft:pillager": "2024-04-07 22:54:56 -0400",
       "minecraft:blaze": "2024-06-08 01:27:20 -0400",
       "minecraft:skeleton": "2024-04-05 22:58:16 -0300",
+      "minecraft:guardian": "2024-07-05 23:39:41 -0400",
       "minecraft:vindicator": "2024-06-14 01:11:21 -0400",
       "minecraft:spider": "2024-04-05 22:58:44 -0300",
       "minecraft:creeper": "2024-05-19 01:48:09 -0400",
@@ -5712,6 +5713,12 @@
   "alexsmobs:alexsmobs/tigers_blessing": {
     "criteria": {
       "all_effects": "2024-06-30 00:36:16 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-07-05 23:14:58 -0400"
     },
     "done": true
   },

@@ -5551,3 +5551,38 @@ java.net.http.HttpTimeoutException: request timed out
 [05Jul2024 22:57:38.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
 [05Jul2024 22:57:54.500] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [05Jul2024 22:59:30.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20975, l='ServerLevel[world]', x=135.76, y=102.42, z=-764.28] died, message: 'Unemployed was slain by Zombie'
+[05Jul2024 22:59:41.058] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20976, l='ServerLevel[world]', x=144.58, y=106.00, z=-754.00] died, message: 'Unemployed was slain by Zombie Villager'
+[05Jul2024 23:00:07.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:00:07.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:00:10.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[05Jul2024 23:03:19.138] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jul2024 23:05:07.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:05:07.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:10:07.694] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:10:07.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:14:58.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [An Ear-Shattering Roar]
+[05Jul2024 23:15:07.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:15:07.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:17:31.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Come on and Slam]
+[05Jul2024 23:20:07.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:20:07.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:20:38.503] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 5438e0a5-52db-426a-ae7b-1e558f7c513b
+[05Jul2024 23:20:38.505] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1080 Y: 64 Z: -1437
+[05Jul2024 23:20:38.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
+[05Jul2024 23:20:38.508] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:1080, y:64, z:-1438, dim:minecraft:overworld]
+[05Jul2024 23:20:38.513] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[05Jul2024 23:20:41.179] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[05Jul2024 23:20:52.104] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID ae747826-0906-4978-88f1-697654cc3993
+[05Jul2024 23:20:52.105] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1072 Y: 63 Z: -1432
+[05Jul2024 23:20:52.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by narum0000
+[05Jul2024 23:20:52.106] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:1072, y:63, z:-1433, dim:minecraft:overworld]
+[05Jul2024 23:20:52.111] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[05Jul2024 23:25:07.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:25:07.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:29:59.549] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['narum0000'/35336, l='ServerLevel[world]', x=1071.53, y=61.25, z=-1428.57] died: narum0000 suffocated in a wall
+[05Jul2024 23:30:07.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:30:07.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:35:07.675] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:35:07.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2024 23:40:07.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2024 23:40:07.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
