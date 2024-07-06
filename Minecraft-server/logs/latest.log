@@ -5,3 +5,9 @@
 [06Jul2024 00:03:01.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 63.80000001192093,-12.899999999999999,-176.06867220303184
 [06Jul2024 00:03:42.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/53641, l='ServerLevel[world]', x=1085.94, y=64.00, z=-1445.53] died: hvice was shot by narum0000
 [06Jul2024 00:03:47.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [A Lighthouse in Your Eyes]
+[06Jul2024 01:05:07.456] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 74eb2a3d-3d44-45d4-b771-a4d3eeedcdf6
+[06Jul2024 01:05:07.460] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1024 Y: 76 Z: -1236
+[06Jul2024 01:05:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was blown up by Zombie
+[06Jul2024 01:05:07.466] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[06Jul2024 01:05:33.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/76940, l='ServerLevel[world]', x=1026.69, y=76.60, z=-1236.11] died: hvice was slain by hvice using [hielo potente]
+[06Jul2024 01:13:48.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Vanishing]
