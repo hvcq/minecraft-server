@@ -5604,6 +5604,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/knowledge_wasted": {
+    "criteria": {
+      "coded_trigger": "2024-07-12 02:15:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/nether_smithing_gold": {
     "criteria": {
       "has_gold_tier_upgrade": "2024-07-12 01:57:34 -0400"

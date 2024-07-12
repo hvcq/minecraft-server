@@ -482,3 +482,16 @@ java.lang.Exception: Config not yet available
 [12Jul2024 02:12:33.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
 [12Jul2024 02:12:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
 [12Jul2024 02:15:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has reached the goal [Knowledge Wasted]
+[12Jul2024 02:21:07.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[12Jul2024 02:21:07.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[12Jul2024 02:21:17.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jul2024 02:21:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jul2024 02:21:17.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jul2024 02:21:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jul2024 02:21:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jul2024 02:21:17.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jul2024 02:21:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jul2024 02:21:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2024 02:21:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2024 02:21:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jul2024 02:21:17.394] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
