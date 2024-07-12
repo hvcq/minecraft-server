@@ -5424,5 +5424,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2024-07-11 23:49:47 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-07-12 00:01:15 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

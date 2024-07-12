@@ -6611,5 +6611,11 @@
     },
     "done": true
   },
+  "majruszsdifficulty:bleeding_cactus": {
+    "criteria": {
+      "bleeding_applied": "2024-07-12 00:32:42 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

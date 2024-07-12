@@ -38,7 +38,7 @@
 	#You can also define it as a triple x-y-z instead where z is the increase per block in for that area.
 	#E.g. ["0-0-0.1","1000-5-1"] the difficulty increases between 0-1000 by 0.1 per block and >= 1000 by 1 per block with a starting value of 5
 	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN, DISTANCE, DISTANCESPAWN
-	"Difficulty type" = "GLOBAL"
+	"Difficulty type" = "PLAYERMEAN"
 	#Position used for DISTANCE difficulty type
 	"Center Position" = "0-0"
 
