@@ -478,3 +478,7 @@ java.lang.Exception: Config not yet available
 [12Jul2024 01:22:08.248] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1076 Y: 64 Z: -1443
 [12Jul2024 01:22:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Tank
 [12Jul2024 01:22:08.257] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[12Jul2024 01:50:17.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has reached the goal [Guardian of Eternity]
+[12Jul2024 02:12:33.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[12Jul2024 02:12:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[12Jul2024 02:15:06.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has reached the goal [Knowledge Wasted]
