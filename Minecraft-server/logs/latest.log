@@ -484,3 +484,19 @@ java.net.http.HttpTimeoutException: request timed out
 [13Jul2024 18:20:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Enchanter]
 [13Jul2024 18:28:57.422] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
 [13Jul2024 18:28:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[13Jul2024 18:52:52.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.36.76.193:34023] logged in with entity id 21711 at (1023.5, 80.0, -1243.5)
+[13Jul2024 18:52:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[13Jul2024 18:52:52.854] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[13Jul2024 19:06:04.580] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b0191521-561d-49ce-a0e8-da4d56a6bac9
+[13Jul2024 19:06:04.584] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1084 Y: 64 Z: -1422
+[13Jul2024 19:06:04.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Husk
+[13Jul2024 19:06:04.599] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[13Jul2024 19:06:39.820] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['hvice'/26025, l='ServerLevel[world]', x=1089.70, y=64.00, z=-1429.30] died: hvice was shot by hvice
+[13Jul2024 19:10:28.570] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 22447b09-371f-4f91-b2f8-c15be7a5aa5a
+[13Jul2024 19:10:28.570] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1088 Y: 64 Z: -1425
+[13Jul2024 19:10:28.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Cerberus
+[13Jul2024 19:10:28.577] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[13Jul2024 19:20:41.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 8f7e3089-a357-4308-8afd-79cfdf07e132
+[13Jul2024 19:20:41.480] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1084 Y: 64 Z: -1435
+[13Jul2024 19:20:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Stray
+[13Jul2024 19:20:41.483] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
