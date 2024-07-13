@@ -6258,5 +6258,17 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-07-13 18:20:14 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2024-07-13 17:57:31 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
