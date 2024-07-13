@@ -35,3 +35,15 @@
 [13Jul2024 01:48:30.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/70364, l='ServerLevel[world]', x=-1947.30, y=121.00, z=-3011.54] died, message: 'Farmer was slain by Zombie Villager'
 [13Jul2024 01:49:27.629] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/70363, l='ServerLevel[world]', x=-1916.64, y=120.00, z=-3001.39] died, message: 'Weaponsmith was slain by Zombie Villager'
 [13Jul2024 01:49:58.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/70392, l='ServerLevel[world]', x=-1915.34, y=117.00, z=-2980.19] died, message: 'Farmer was slain by Zombie'
+[13Jul2024 01:56:05.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.380413055419922) to LOW (avg. 20.047130584716797)
+[13Jul2024 01:56:20.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.047130584716797) to VERY_LOW (avg. 16.701435089111328)
+[13Jul2024 02:06:10.927] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 116884d8-d00e-484e-97d0-80bad8b91b9c
+[13Jul2024 02:06:10.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 876 Y: 63 Z: -1274
+[13Jul2024 02:06:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Spider
+[13Jul2024 02:06:10.939] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[13Jul2024 02:30:22.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a743e865-4eb3-4095-84ce-0e507de24e4a
+[13Jul2024 02:30:22.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1060 Y: 64 Z: -1395
+[13Jul2024 02:30:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[13Jul2024 02:30:22.388] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[13Jul2024 02:30:51.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/90154, l='ServerLevel[world]', x=1072.34, y=64.00, z=-1388.25] died: hvice was shot by hvice
+[13Jul2024 02:31:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Smitty WerbenJagerManJensen]

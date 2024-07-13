@@ -5831,3 +5831,39 @@ java.net.http.HttpTimeoutException: request timed out
 [13Jul2024 01:52:38.158] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
 [13Jul2024 01:55:34.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2024 01:55:34.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 01:56:05.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.380413055419922) to LOW (avg. 20.047130584716797)
+[13Jul2024 01:56:20.565] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.047130584716797) to VERY_LOW (avg. 16.701435089111328)
+[13Jul2024 02:00:34.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:00:34.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:02:47.843] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Jul2024 02:02:47.902] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[13Jul2024 02:05:34.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:05:34.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:06:10.927] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 116884d8-d00e-484e-97d0-80bad8b91b9c
+[13Jul2024 02:06:10.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 876 Y: 63 Z: -1274
+[13Jul2024 02:06:10.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Spider
+[13Jul2024 02:06:10.932] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:880, y:63, z:-1269, dim:minecraft:overworld]
+[13Jul2024 02:06:10.939] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[13Jul2024 02:06:12.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Jul2024 02:10:34.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:10:34.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:15:34.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:15:34.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:20:34.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:20:34.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:25:34.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:25:34.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:27:29.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Jul2024 02:30:22.379] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a743e865-4eb3-4095-84ce-0e507de24e4a
+[13Jul2024 02:30:22.380] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1060 Y: 64 Z: -1395
+[13Jul2024 02:30:22.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[13Jul2024 02:30:22.382] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:1060, y:64, z:-1396, dim:minecraft:overworld]
+[13Jul2024 02:30:22.388] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[13Jul2024 02:30:34.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:30:34.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:30:51.478] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/90154, l='ServerLevel[world]', x=1072.34, y=64.00, z=-1388.25] died: hvice was shot by hvice
+[13Jul2024 02:31:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Smitty WerbenJagerManJensen]
+[13Jul2024 02:35:34.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:35:34.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 02:40:34.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 02:40:34.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
