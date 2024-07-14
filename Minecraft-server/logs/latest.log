@@ -500,3 +500,18 @@ java.net.http.HttpTimeoutException: request timed out
 [13Jul2024 19:20:41.480] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1084 Y: 64 Z: -1435
 [13Jul2024 19:20:41.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Stray
 [13Jul2024 19:20:41.483] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[13Jul2024 19:55:34.635] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.05553913116455) to LOW (avg. 22.845211029052734)
+[13Jul2024 19:55:42.111] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.845211029052734) to VERY_LOW (avg. 9.781892776489258)
+[13Jul2024 20:04:56.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[13Jul2024 20:04:56.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[13Jul2024 20:05:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2024 20:05:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jul2024 20:05:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jul2024 20:05:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jul2024 20:05:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jul2024 20:05:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jul2024 20:05:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jul2024 20:05:16.266] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -5722,3 +5722,38 @@ java.net.http.HttpTimeoutException: request timed out
 [13Jul2024 19:21:26.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [13Jul2024 19:26:26.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2024 19:26:26.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:31:26.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:31:26.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:36:26.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:36:26.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:41:26.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:41:26.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:46:26.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:46:26.540] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:51:26.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:51:26.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 19:55:34.635] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.05553913116455) to LOW (avg. 22.845211029052734)
+[13Jul2024 19:55:37.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[13Jul2024 19:55:37.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[13Jul2024 19:55:42.111] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.845211029052734) to VERY_LOW (avg. 9.781892776489258)
+[13Jul2024 19:56:17.453] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[13Jul2024 19:56:26.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 19:56:26.539] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 20:01:26.536] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 20:01:26.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 20:04:56.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[13Jul2024 20:04:56.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[13Jul2024 20:05:16.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Jul2024 20:05:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Jul2024 20:05:16.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Jul2024 20:05:16.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Jul2024 20:05:16.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Jul2024 20:05:16.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Jul2024 20:05:16.223] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2024 20:05:16.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Jul2024 20:05:16.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Jul2024 20:05:16.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Jul2024 20:05:16.264] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[13Jul2024 20:05:16.266] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
