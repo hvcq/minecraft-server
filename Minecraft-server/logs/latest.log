@@ -31,3 +31,28 @@
 [15Jul2024 00:50:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
 [15Jul2024 00:50:37.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.14552116394043) to LOW (avg. 24.616195678710938)
 [15Jul2024 00:50:52.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.616195678710938) to VERY_LOW (avg. 11.678309440612793)
+[15Jul2024 01:43:22.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.119434356689453) to LOW (avg. 34.06080627441406)
+[15Jul2024 01:43:37.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 34.06080627441406) to VERY_LOW (avg. 9.48071002960205)
+[15Jul2024 01:43:55.920] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.36.76.193:38757] logged in with entity id 43640 at (1281.2072861212405, 65.0, -1280.9058022418785)
+[15Jul2024 01:43:55.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[15Jul2024 01:43:55.946] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[15Jul2024 01:44:06.492] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43975, l='ServerLevel[world]', x=1381.70, y=73.00, z=-1240.30] died, message: 'Unemployed was slain by Zombie'
+[15Jul2024 01:44:10.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43976, l='ServerLevel[world]', x=1382.23, y=70.50, z=-1244.38] died, message: 'Unemployed was slain by Zombie'
+[15Jul2024 01:44:31.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [What an excellent day for an exorcism]
+[15Jul2024 01:46:29.875] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.08317756652832) to LOW (avg. 20.475908279418945)
+[15Jul2024 01:46:44.875] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.475908279418945) to VERY_LOW (avg. 12.02389144897461)
+[15Jul2024 01:52:15.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[15Jul2024 01:52:15.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[15Jul2024 01:59:52.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[15Jul2024 01:59:52.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[15Jul2024 02:00:44.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2024 02:00:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2024 02:00:44.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2024 02:00:44.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jul2024 02:00:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jul2024 02:00:45.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jul2024 02:00:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2024 02:00:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2024 02:00:45.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2024 02:00:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Jul2024 02:00:45.219] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

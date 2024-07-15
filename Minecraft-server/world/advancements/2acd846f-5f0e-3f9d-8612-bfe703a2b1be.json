@@ -6270,5 +6270,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2024-07-15 01:44:31 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
