@@ -5654,3 +5654,375 @@ java.net.http.HttpTimeoutException: request timed out
 [15Jul2024 00:05:34.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Jul2024 00:10:34.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Jul2024 00:10:34.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:15:34.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:15:34.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:20:34.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:20:34.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:25:34.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:25:34.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:30:34.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:30:34.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:34:06.778] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[15Jul2024 00:34:06.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[15Jul2024 00:34:06.876] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[15Jul2024 00:34:06.908] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[15Jul2024 00:34:06.932] [Worker-Main-23/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[15Jul2024 00:34:06.951] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_5
+[15Jul2024 00:34:06.954] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_2
+[15Jul2024 00:34:06.956] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_15
+[15Jul2024 00:34:06.956] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_3
+[15Jul2024 00:34:06.957] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_9
+[15Jul2024 00:34:06.957] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_4
+[15Jul2024 00:34:06.958] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_2
+[15Jul2024 00:34:06.958] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_7
+[15Jul2024 00:34:06.959] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_6
+[15Jul2024 00:34:06.959] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_13
+[15Jul2024 00:34:06.960] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_14
+[15Jul2024 00:34:06.960] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_16
+[15Jul2024 00:34:06.960] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_17
+[15Jul2024 00:34:06.961] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_10
+[15Jul2024 00:34:06.961] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_12
+[15Jul2024 00:34:06.962] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_11
+[15Jul2024 00:34:06.963] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_8
+[15Jul2024 00:34:06.963] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_furniture_0
+[15Jul2024 00:34:06.964] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_1
+[15Jul2024 00:34:06.966] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_4
+[15Jul2024 00:34:06.967] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_stairs_0
+[15Jul2024 00:34:06.968] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_2
+[15Jul2024 00:34:06.970] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_4
+[15Jul2024 00:34:06.971] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_5
+[15Jul2024 00:34:06.972] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_1
+[15Jul2024 00:34:06.973] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_0
+[15Jul2024 00:34:06.974] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_6
+[15Jul2024 00:34:06.975] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_0
+[15Jul2024 00:34:06.976] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_2
+[15Jul2024 00:34:06.977] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_room_3
+[15Jul2024 00:34:06.979] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_hallway_3
+[15Jul2024 00:34:06.979] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_terminator_0
+[15Jul2024 00:34:06.981] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_0
+[15Jul2024 00:34:06.986] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_spawner_1
+[15Jul2024 00:34:07.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[15Jul2024 00:34:07.019] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[15Jul2024 00:34:07.029] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[15Jul2024 00:34:07.042] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[15Jul2024 00:34:07.044] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[15Jul2024 00:34:07.047] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[15Jul2024 00:34:07.048] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[15Jul2024 00:34:07.049] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[15Jul2024 00:34:07.051] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[15Jul2024 00:34:07.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[15Jul2024 00:34:07.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[15Jul2024 00:34:07.064] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[15Jul2024 00:34:07.068] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[15Jul2024 00:34:07.088] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[15Jul2024 00:34:07.098] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[15Jul2024 00:34:07.106] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[15Jul2024 00:34:07.109] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_0 is being run through DFU (hash 2b547d239388e0eb8fd8040780a38a0a3da7c931a373b80cca729cef06dd6d9e), this will cause launch time delays
+[15Jul2024 00:34:07.269] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_tower is being run through DFU (hash 1e955fc596f3b485b90ff0140594d0752667721a8e2bd3bf9062b88e59bfd233), this will cause launch time delays
+[15Jul2024 00:34:07.286] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_1 is being run through DFU (hash b8f28ad9e1cfd236ae193a019f8865360be850d000af02970faa6a2b2a9edc33), this will cause launch time delays
+[15Jul2024 00:34:07.299] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_1 is being run through DFU (hash 468fbcac7fa194bb12b8fabeb5ebda2d31426066f5f23c2ed70564b9cbbbf70f), this will cause launch time delays
+[15Jul2024 00:34:07.324] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_0_main is being run through DFU (hash e6624f80f72fa3676beb8d0be9eea6e31f0e2b61268eca22949954e725b1a9e5), this will cause launch time delays
+[15Jul2024 00:34:07.340] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_2 is being run through DFU (hash 177d1d6f80e09c2e860eeec7a45a480ace442e555b7819a982771037cc8d6d4c), this will cause launch time delays
+[15Jul2024 00:34:07.355] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_1_small_terminator is being run through DFU (hash 11c0e78c12fd58e12e33bec70ef8dd82e72a0bced08c6b33bff1247255a1b70f), this will cause launch time delays
+[15Jul2024 00:34:07.358] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_1 is being run through DFU (hash 94b6c76aff3d00ebc7166d94420a4be61f22e3785876404546dbe88d8758205d), this will cause launch time delays
+[15Jul2024 00:34:07.374] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_2_tower is being run through DFU (hash c3030a4d3e6cba3a1131585a6597e2c33da2dcd0aea48e45f390812ab2382267), this will cause launch time delays
+[15Jul2024 00:34:07.386] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_1_broken is being run through DFU (hash 45541e09b3e555457704d88eed1c069c12ad7cb8201f04e9eaa89a0ecd931d6e), this will cause launch time delays
+[15Jul2024 00:34:07.406] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_roof_0 is being run through DFU (hash b1453eefe9fe5d2fcb8cb824eb32fadd5135c7912a75e73bcf7fd3c9058cd538), this will cause launch time delays
+[15Jul2024 00:34:07.427] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_part_1_support is being run through DFU (hash 4f7f810cf939a890bb4b32e34167f81ea04a577dcff291f172cf62917655d9ca), this will cause launch time delays
+[15Jul2024 00:34:07.448] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_bridge_2_terminator is being run through DFU (hash 4c0385480aa572ddeb8ce09046d5498323b15bfdcd374b9c210e6f8436c5cc79), this will cause launch time delays
+[15Jul2024 00:34:07.450] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_top is being run through DFU (hash 6da0377dd10d6289c253445eddc2769f618447f9d04f280fda441830f42ebcd8), this will cause launch time delays
+[15Jul2024 00:34:07.460] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_big_bottom is being run through DFU (hash 9170499fda863c43f8a6e86acf965a7f243abb8ff34c1e857053ee7c934a0008), this will cause launch time delays
+[15Jul2024 00:34:07.465] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_0 is being run through DFU (hash 4a785ac9b5fa70e5c5234147ac8a926a554fb1fbf975b36af07a3fa647ed8098), this will cause launch time delays
+[15Jul2024 00:34:07.473] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_medium_0 is being run through DFU (hash a7af0175c7cd1930eb98bafb2ec195a9e02e67887feb5a18a4e4b47538c8caff), this will cause launch time delays
+[15Jul2024 00:34:07.484] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_small_2 is being run through DFU (hash ff9b3355f235952236a63127ffb6c51054ad072ec299d432390cd262d2cfac40), this will cause launch time delays
+[15Jul2024 00:34:07.492] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_hanging_bridge_0_small is being run through DFU (hash 463216b9566337e5b052dcb5b4f32427b54e3ea9fe0d0e09ea94b95788bb2621), this will cause launch time delays
+[15Jul2024 00:34:07.493] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_phantom_0 is being run through DFU (hash fce82562a7d01bf6066ef0f9f0e1fa925e0ff8f734bae5e85273d018e36d09c8), this will cause launch time delays
+[15Jul2024 00:34:07.611] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_juggernaut_0 is being run through DFU (hash 847273b60978f5ce5b6994818888dbe2dad4ad5e663777c73e0cc957410ebce1), this will cause launch time delays
+[15Jul2024 00:34:07.622] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_ranged_0 is being run through DFU (hash cd6068f01900209645d6014ce3ae526efc80e57902085f2df7593e67abfc43e2), this will cause launch time delays
+[15Jul2024 00:34:07.632] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_5 is being run through DFU (hash 5fbcb18a3532751d49fbe33451677e198ce28a5d5e0240c50fdb41c712a9c9ae), this will cause launch time delays
+[15Jul2024 00:34:07.658] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_top_skeleton_ranged_0 is being run through DFU (hash a27ba48cef2f61f0ea23b997bbef6bc37b438f77d82daba1234dfa8efebc5a14), this will cause launch time delays
+[15Jul2024 00:34:07.666] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_0 is being run through DFU (hash 8d46d982fdb95c3bb9f24627c6ddd89345c1a344ba0c9e9d26aa85eb6af9111d), this will cause launch time delays
+[15Jul2024 00:34:07.672] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_skeleton_juggernaut_1 is being run through DFU (hash 0ceea9e380ec4d5694214df5430b48cd4ffcecd41717f34ebc5365268ca002d1), this will cause launch time delays
+[15Jul2024 00:34:07.679] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_witch_0 is being run through DFU (hash 16c54db650aada13f4bd51639ed76af958381de145d0a99d928825ce5cd9ef79), this will cause launch time delays
+[15Jul2024 00:34:07.683] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_2 is being run through DFU (hash 64e73649b5c4c2ceec30791970ee5841dcb99c8cf97cc51a5d0a3665a48e98ba), this will cause launch time delays
+[15Jul2024 00:34:07.691] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_4 is being run through DFU (hash 733765f3fe42d05854d16482362b4ba3f798419df69e56e282336d01e6775dd4), this will cause launch time delays
+[15Jul2024 00:34:07.700] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_3 is being run through DFU (hash cdd42b7ad3a91a84b244dd890a53eac3368c7fbee27c45ac18fced742117f86a), this will cause launch time delays
+[15Jul2024 00:34:07.709] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_0 is being run through DFU (hash 2934969fc51ffa8d6e35d4ef46383ba4af678237ab0965e859947ba418839cea), this will cause launch time delays
+[15Jul2024 00:34:07.718] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:thornborn_towers/thornborn_towers_room_1 is being run through DFU (hash 53bf0dd65c9acac44c1d91ea6ada46a9ce25659447de6c90588a2b86915cc19f), this will cause launch time delays
+[15Jul2024 00:34:07.971] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[15Jul2024 00:34:07.999] [Server thread/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[15Jul2024 00:34:08.072] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[15Jul2024 00:34:08.089] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_turn_0
+[15Jul2024 00:34:08.093] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_0
+[15Jul2024 00:34:08.105] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_descent_0
+[15Jul2024 00:34:08.166] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[15Jul2024 00:34:08.169] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_3
+[15Jul2024 00:34:08.170] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_1
+[15Jul2024 00:34:08.171] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_spawner_skeleton_2
+[15Jul2024 00:34:08.259] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[15Jul2024 00:34:08.270] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_0 is being run through DFU (hash 743b98ed67dc8d4fa6895ef863e2fd15aeefec076f98784628a49a6f1b57d6eb), this will cause launch time delays
+[15Jul2024 00:34:08.331] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_melee_0 is being run through DFU (hash a0e72b4097fde5418b6f9cf8fd344d7daa2847aa565502b1357c0f45785d099b), this will cause launch time delays
+[15Jul2024 00:34:08.339] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_husk_0 is being run through DFU (hash 5f68ab39c1cb14a4114477af61576bd5f6e525508cd2a227b181530e6c94d0b7), this will cause launch time delays
+[15Jul2024 00:34:08.343] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_mounted_skeleton_0 is being run through DFU (hash 70a90e8c18ab6c070683eb4b74586eeb5a9fff618e1bf05559f2e79d06e382be), this will cause launch time delays
+[15Jul2024 00:34:08.371] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_3
+[15Jul2024 00:34:08.380] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_7 is being run through DFU (hash 9cd1d4b11c269bf11f5f5ef9a9ad48ec4834d6639326442efbd57cdaf37e847e), this will cause launch time delays
+[15Jul2024 00:34:08.413] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_5 is being run through DFU (hash 932538a089ddc38719b508440e7ebda0a8ffe97ab0459509cd799e7e77fe5758), this will cause launch time delays
+[15Jul2024 00:34:08.447] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_4 is being run through DFU (hash e4e2ac3dbc54f6aa23720b182d0821748a01b073d7c346cab7be1507253a123d), this will cause launch time delays
+[15Jul2024 00:34:08.490] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[15Jul2024 00:34:08.501] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_2 is being run through DFU (hash 3b98e8aeaf403e69a3fad7de7f17c48bf822826c5e01fcfd693001b357c0af8a), this will cause launch time delays
+[15Jul2024 00:34:08.571] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_rider/heavenly_rider_part_6 is being run through DFU (hash f4356fb8f275788a589554bf241b86713195775fa70fe48c170a215033f5115d), this will cause launch time delays
+[15Jul2024 00:34:08.621] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_2 is being run through DFU (hash 5356c0191c8d9d3ae03d544870c6204cca9701b0538d300cd23d377dda1cf3ca), this will cause launch time delays
+[15Jul2024 00:34:08.711] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_2 is being run through DFU (hash c4fc7d3a63861c81be423b6bbf151d9b2ab1905e3a95759dafafac875a37d737), this will cause launch time delays
+[15Jul2024 00:34:08.721] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_0 is being run through DFU (hash 8fa5a44dba83b2e521ff5c062b3fe31d1ca90bbb2963f240c8373ba8497c68f5), this will cause launch time delays
+[15Jul2024 00:34:08.726] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_phantom_rider_1 is being run through DFU (hash d73979b8202a24d6eb7e494d9d89f53516c4f2b644b0131d4b5f82c30d3a1dd8), this will cause launch time delays
+[15Jul2024 00:34:08.731] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_0 is being run through DFU (hash 032ce8fbfe59cfcc7ad911973d34108e5f9e6d56e3d24c0b1bf139f0b2aee16c), this will cause launch time delays
+[15Jul2024 00:34:08.737] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_1 is being run through DFU (hash f4b3a59727ff42cf7ac87ad332129ca8963bc60f7f6ea9fd28525fb68b38ba04), this will cause launch time delays
+[15Jul2024 00:34:08.741] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_juggernaut_0 is being run through DFU (hash 182b7b0c03c08234c59298b0a4be1dec4495b5258fcc032273170c1b7bcfa1b5), this will cause launch time delays
+[15Jul2024 00:34:08.745] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_skeleton_theater_3_main is being run through DFU (hash ac776f2a583c6e27bcdc0165a41f89fa798b0f4411f874043e95c831da2b5725), this will cause launch time delays
+[15Jul2024 00:34:08.758] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_4 is being run through DFU (hash 78c773c124ff839eb7379a07f6bf264e74598bbd1de18f0d94135393510e5c80), this will cause launch time delays
+[15Jul2024 00:34:08.853] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_5 is being run through DFU (hash a11f3cb96dfe230d7e581cbd2d1066f188184c45486300d588d0f2e0d4645fe2), this will cause launch time delays
+[15Jul2024 00:34:08.946] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_3
+[15Jul2024 00:34:08.965] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_0 is being run through DFU (hash 115b537d7d99c49fb6d19ffb554faa27c41dc43ade2d87254034647a3ab747fe), this will cause launch time delays
+[15Jul2024 00:34:09.055] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_part_1 is being run through DFU (hash ab8c67af0e24d52a59769a697563eced996332d4f0c80342afe506ab0ec266d8), this will cause launch time delays
+[15Jul2024 00:34:09.149] [Worker-Main-2/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_challenger/heavenly_challenger_hoglin_rider_0 is being run through DFU (hash 8e22f1995ddeddae8fb5553c310b09d6f3560cf1fa6374648e3ca930682e74b5), this will cause launch time delays
+[15Jul2024 00:34:09.170] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[15Jul2024 00:34:09.183] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_0
+[15Jul2024 00:34:09.195] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_part_1
+[15Jul2024 00:34:09.198] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_0
+[15Jul2024 00:34:09.198] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_1
+[15Jul2024 00:34:09.199] [Worker-Main-23/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_skeleton_2
+[15Jul2024 00:34:09.208] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[15Jul2024 00:34:09.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[15Jul2024 00:34:09.298] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[15Jul2024 00:34:09.330] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[15Jul2024 00:34:09.358] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3
+[15Jul2024 00:34:09.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1
+[15Jul2024 00:34:09.367] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0
+[15Jul2024 00:34:09.368] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0
+[15Jul2024 00:34:09.368] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0
+[15Jul2024 00:34:09.405] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[15Jul2024 00:34:09.409] [Worker-Main-7/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
+[15Jul2024 00:34:09.417] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[15Jul2024 00:34:09.427] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[15Jul2024 00:34:09.431] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[15Jul2024 00:34:09.440] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[15Jul2024 00:34:09.444] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[15Jul2024 00:34:09.449] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[15Jul2024 00:34:09.454] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[15Jul2024 00:34:09.459] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[15Jul2024 00:34:09.462] [Worker-Main-7/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[15Jul2024 00:34:09.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[15Jul2024 00:34:16.125] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 20.60608177) to VERY_LOW (avg. 9.52042557)
+[15Jul2024 00:35:36.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:35:36.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:39:22.153] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[15Jul2024 00:39:22.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[15Jul2024 00:39:22.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[15Jul2024 00:39:22.285] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[15Jul2024 00:39:22.334] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, fastload, wi_zoom, supermartijn642configlib, betterwitchhuts, trashslot, jei, majruszsdifficulty, stealing_villagers, betteroceanmonuments, libraryferret, connectivity, immersive_aircraft, waystones, fallingleaves, clumps, journeymap, controlling, prism, placebo, darkzoom, citadel, alexsmobs, travelersbackpack, yungsapi, mixinextras, clientcrafting, bookshelf, craterlib, uteamcore, starlight, betterdeserttemples, iceandfire, balm, toastcontrol, darktimer, jeresources, puzzlesaccessapi, betterfortresses, forge, tlskincape, embeddium, rubidium, logbegone, betterpingdisplay, minecraft, tenshilib, alexscaves, enchdesc, mousetweaks, getittogetherdrops, jade, creativecore, benefitsofreading, supermartijn642corelib, movingelevators, yungsbridges, highlighter, portablemobs, darkrtp, notenoughanimations, iceberg, legendarytooltips, oculus, workers, searchables, entityculling, bettervillage, canary, betterstrongholds, tombstone, universalenchants, ambientenvironment, worldedit, immediatelyfast, accommodation_, appleskin, ferritecore, aiimprovements, embeddium_extra, cupboard, betterendisland, puzzleslib, fallingtree, betterburning, ante, textrues_embeddium_options, reeses_sodium_options, bettermineshafts, gamemenumodoption, nebs, majruszlibrary, betterfoliage, betterjungletemples]
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'workers:default' : Version test of '1.0.0' from client : ACCEPTED
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.351] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'okzoomer:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'accommodation_:accommodation_' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszsdifficulty:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'okzoomer:exists' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tenshilib:packets' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'improvedmobs:packets' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'movingelevators:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Version test of '1.0.0' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'majruszlibrary:main' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.6.6' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simple-rpc:crater_network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '1' from client : ACCEPTED
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[15Jul2024 00:39:22.352] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[15Jul2024 00:39:22.373] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[15Jul2024 00:39:22.374] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.374] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.384] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[15Jul2024 00:39:22.385] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[15Jul2024 00:39:22.385] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.385] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[15Jul2024 00:39:22.484] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.484] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.533] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[15Jul2024 00:39:22.533] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.533] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.534] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[15Jul2024 00:39:22.585] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[15Jul2024 00:39:22.605] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[15Jul2024 00:39:22.606] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.606] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.635] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[15Jul2024 00:39:22.636] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[15Jul2024 00:39:22.636] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.636] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.683] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[15Jul2024 00:39:22.683] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.683] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.685] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[15Jul2024 00:39:22.714] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[15Jul2024 00:39:22.714] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.714] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.734] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[15Jul2024 00:39:22.785] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[15Jul2024 00:39:22.793] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[15Jul2024 00:39:22.793] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.793] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.833] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[15Jul2024 00:39:22.833] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.833] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.834] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[15Jul2024 00:39:22.885] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[15Jul2024 00:39:22.894] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[15Jul2024 00:39:22.894] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.894] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.935] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[15Jul2024 00:39:22.935] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[15Jul2024 00:39:22.935] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.935] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.983] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[15Jul2024 00:39:22.983] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:22.983] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:22.985] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[15Jul2024 00:39:23.015] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[15Jul2024 00:39:23.015] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.015] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 17
+[15Jul2024 00:39:23.064] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[15Jul2024 00:39:23.064] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.064] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[15Jul2024 00:39:23.123] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[15Jul2024 00:39:23.123] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.123] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.133] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[15Jul2024 00:39:23.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[15Jul2024 00:39:23.198] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[15Jul2024 00:39:23.198] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.198] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.233] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[15Jul2024 00:39:23.239] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[15Jul2024 00:39:23.239] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.239] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.286] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 22
+[15Jul2024 00:39:23.339] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 23
+[15Jul2024 00:39:23.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config okzoomer-sever.toml' to 'fml:handshake' sequence 24
+[15Jul2024 00:39:23.436] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config universalenchants-server.toml' to 'fml:handshake' sequence 25
+[15Jul2024 00:39:23.494] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[15Jul2024 00:39:23.535] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 27
+[15Jul2024 00:39:23.804] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[15Jul2024 00:39:23.804] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.804] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.810] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[15Jul2024 00:39:23.810] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.810] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.812] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[15Jul2024 00:39:23.812] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.812] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.812] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[15Jul2024 00:39:23.812] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.813] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.813] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[15Jul2024 00:39:23.813] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.813] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[15Jul2024 00:39:23.815] [Netty Epoll Server IO #10/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[15Jul2024 00:39:23.834] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[15Jul2024 00:39:23.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.36.76.193:43851] logged in with entity id 26081 at (1009.5920215537019, 68.0, -1261.3791110043048)
+[15Jul2024 00:39:23.929] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@26ae5844 into net.minecraft.network.Connection@13ce8209
+[15Jul2024 00:39:23.929] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 294 classes
+[15Jul2024 00:39:23.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[15Jul2024 00:39:23.994] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[15Jul2024 00:39:38.625] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 13.93593682) to LOW (avg. 15.30370049)
+[15Jul2024 00:40:36.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:40:36.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:42:07.257] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[15Jul2024 00:42:12.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has reached the goal [Impregnator]
+[15Jul2024 00:42:42.642] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID c7952c3f-3160-4296-bf95-fb58c29eea3e
+[15Jul2024 00:42:42.644] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1086 Y: 63 Z: -1395
+[15Jul2024 00:42:42.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Enderman
+[15Jul2024 00:42:42.647] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:1088, y:62, z:-1396, dim:minecraft:overworld]
+[15Jul2024 00:42:42.654] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[15Jul2024 00:43:53.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[15Jul2024 00:44:04.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/28913, l='ServerLevel[world]', x=1303.50, y=63.00, z=-1237.86] died, message: 'Unemployed was shot by Skeleton'
+[15Jul2024 00:44:15.909] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[15Jul2024 00:45:36.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:45:36.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:47:38.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/28918, l='ServerLevel[world]', x=1352.19, y=64.00, z=-1225.24] died, message: 'Mason was slain by Zombie'
+[15Jul2024 00:48:01.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/28932, l='ServerLevel[world]', x=1351.50, y=63.00, z=-1243.79] died, message: 'Cleric was slain by Zombie'
+[15Jul2024 00:48:11.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/28931, l='ServerLevel[world]', x=1339.19, y=64.00, z=-1245.46] died, message: 'Cleric was slain by Zombie'
+[15Jul2024 00:48:19.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/28875, l='ServerLevel[world]', x=1329.56, y=67.00, z=-1316.65] died, message: 'Farmer was slain by Husk'
+[15Jul2024 00:48:37.646] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 2e5cbfc2-e2f9-4876-9f5c-c08b93483873
+[15Jul2024 00:48:37.647] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1279 Y: 64 Z: -1273
+[15Jul2024 00:48:37.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[15Jul2024 00:48:37.649] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:1278, y:64, z:-1273, dim:minecraft:overworld]
+[15Jul2024 00:48:37.652] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[15Jul2024 00:48:53.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/31660, l='ServerLevel[world]', x=1281.70, y=67.59, z=-1272.47] died: hvice was burnt to a crisp whilst fighting hvice
+[15Jul2024 00:49:04.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/31723, l='ServerLevel[world]', x=1319.93, y=67.00, z=-1228.35] died, message: 'Mason was slain by Zombie Villager'
+[15Jul2024 00:49:19.844] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 8d8e9d69-2b0f-405a-a420-9678bded6ab6
+[15Jul2024 00:49:19.846] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1276 Y: 64 Z: -1276
+[15Jul2024 00:49:19.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice bled to death
+[15Jul2024 00:49:19.847] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:1276, y:64, z:-1277, dim:minecraft:overworld]
+[15Jul2024 00:49:19.848] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[15Jul2024 00:49:42.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32612, l='ServerLevel[world]', x=1347.32, y=73.00, z=-1227.65] died, message: 'Unemployed was slain by Zombie'
+[15Jul2024 00:49:42.792] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/32468, l='ServerLevel[world]', x=1275.66, y=64.00, z=-1275.97] died: hvice was shot by hvice
+[15Jul2024 00:50:05.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32676, l='ServerLevel[world]', x=1376.41, y=63.00, z=-1235.59] died, message: 'Unemployed was slain by Zombie'
+[15Jul2024 00:50:10.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[15Jul2024 00:50:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[15Jul2024 00:50:36.840] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:50:36.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 00:50:37.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.14552116394043) to LOW (avg. 24.616195678710938)
+[15Jul2024 00:50:52.375] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.616195678710938) to VERY_LOW (avg. 11.678309440612793)
+[15Jul2024 00:55:36.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 00:55:36.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Jul2024 01:00:36.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Jul2024 01:00:36.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
