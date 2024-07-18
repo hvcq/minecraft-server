@@ -504,3 +504,58 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jul2024 21:00:40.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.178.15.40:50851] logged in with entity id 14846 at (1031.70578296859, 76.0, -1239.745742443881)
 [17Jul2024 21:00:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
 [17Jul2024 21:00:40.396] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[17Jul2024 21:17:14.724] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID d5a7f335-7993-4423-8a49-a0ef10cc5b50
+[17Jul2024 21:17:14.724] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 227 Y: 88 Z: -142
+[17Jul2024 21:17:14.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Crimson Mosquito
+[17Jul2024 21:17:14.735] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 21:17:34.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: You logged in from another location
+[17Jul2024 21:17:34.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[17Jul2024 21:17:34.726] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jul2024 21:17:34.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.178.15.40:43245] logged in with entity id 19342 at (229.69999998807907, 88.0, -142.49582468954932)
+[17Jul2024 21:17:34.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[17Jul2024 21:17:34.744] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[17Jul2024 21:17:45.068] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 0.9410954117774963) to LOW (avg. 23.540729522705078)
+[17Jul2024 21:17:52.567] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.540729522705078) to VERY_LOW (avg. 10.588224411010742)
+[17Jul2024 21:22:12.801] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 1a8ce0ff-59c8-4aed-a691-a529f5cf72c3
+[17Jul2024 21:22:12.802] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 272 Y: 45 Z: -214
+[17Jul2024 21:22:12.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice fell from a high place
+[17Jul2024 21:22:12.806] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 21:30:10.025] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:10.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:11.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:12.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:12.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:12.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:30:12.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:34:42.277] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 7345506b-e9e6-44de-b94a-a3f83ff77196
+[17Jul2024 21:34:42.278] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 414 Y: 70 Z: -520
+[17Jul2024 21:34:42.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[17Jul2024 21:34:42.288] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 21:34:59.127] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/24218, l='ServerLevel[world]', x=415.60, y=71.00, z=-522.45] died: hvice was shot by hvice
+[17Jul2024 21:42:40.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 504cba5a-3450-428c-bf40-6c443a5760bc
+[17Jul2024 21:42:40.126] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 403 Y: 70 Z: -530
+[17Jul2024 21:42:40.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[17Jul2024 21:42:40.132] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 21:42:57.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/26932, l='ServerLevel[world]', x=404.53, y=70.57, z=-530.56] died: hvice was shot by hvice
+[17Jul2024 21:45:03.426] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 21:45:11.541] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID ae55fc28-4a0a-4453-b0fb-f19fe8fb2a42
+[17Jul2024 21:45:11.542] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 432 Y: 52 Z: -544
+[17Jul2024 21:45:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was doomed to fall by Zombified Piglin
+[17Jul2024 21:45:11.547] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved

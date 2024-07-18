@@ -1391,6 +1391,7 @@
       "minecraft:hoglin": "2024-05-30 23:39:54 -0400",
       "minecraft:guardian": "2024-06-02 01:50:15 -0400",
       "minecraft:vindicator": "2024-06-02 02:05:24 -0400",
+      "minecraft:magma_cube": "2024-07-17 21:54:02 -0400",
       "minecraft:spider": "2024-04-05 22:56:54 -0300",
       "minecraft:creeper": "2024-04-05 22:56:55 -0300",
       "minecraft:wither": "2024-06-13 23:22:08 -0400",
@@ -6279,6 +6280,12 @@
   "majruszsdifficulty:bleeding_cactus": {
     "criteria": {
       "bleeding_applied": "2024-07-17 20:27:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-07-17 21:54:05 -0400"
     },
     "done": true
   },
