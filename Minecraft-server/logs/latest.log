@@ -559,3 +559,45 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [17Jul2024 21:45:11.542] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 432 Y: 52 Z: -544
 [17Jul2024 21:45:11.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was doomed to fall by Zombified Piglin
 [17Jul2024 21:45:11.547] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 22:02:52.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[17Jul2024 22:03:10.041] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[17Jul2024 22:05:38.537] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 7faafb03-ad03-4f71-ac36-e2fb1e891d1a
+[17Jul2024 22:05:38.538] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 506 Y: 66 Z: -456
+[17Jul2024 22:05:38.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was doomed to fall
+[17Jul2024 22:05:38.541] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 22:10:51.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b6dbb89b-ee2a-4705-9f92-442d4659e65b
+[17Jul2024 22:10:51.224] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 420 Y: 18 Z: -447
+[17Jul2024 22:10:51.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Wither Skeleton
+[17Jul2024 22:10:51.229] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[17Jul2024 22:15:09.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[17Jul2024 22:15:49.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8779ms or 175 ticks behind
+[17Jul2024 22:15:55.067] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 28.07287891) to VERY_LOW (avg. 5.90362414)
+[17Jul2024 22:16:25.224] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 12.81118726) to LOW (avg. 21.67092255)
+[17Jul2024 22:21:16.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.68176555633545) to LOW (avg. 23.222116470336914)
+[17Jul2024 22:21:23.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.222116470336914) to VERY_LOW (avg. 18.899333953857422)
+[17Jul2024 22:21:37.780] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/39288, l='ServerLevel[world]', x=2938.38, y=120.06, z=-3510.22] died, message: 'Nitwit was slain by Ghost'
+[17Jul2024 22:21:42.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39289, l='ServerLevel[world]', x=2940.70, y=124.00, z=-3510.92] died, message: 'Unemployed was slain by Ghost'
+[17Jul2024 22:21:50.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39285, l='ServerLevel[world]', x=2938.30, y=124.06, z=-3514.50] died, message: 'Unemployed was slain by Ghost'
+[17Jul2024 22:21:55.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39290, l='ServerLevel[world]', x=2946.49, y=122.54, z=-3509.94] died, message: 'Unemployed was slain by Ghost'
+[17Jul2024 22:21:59.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39286, l='ServerLevel[world]', x=2942.30, y=120.88, z=-3509.87] died, message: 'Unemployed was slain by Ghost'
+[17Jul2024 22:22:12.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/39287, l='ServerLevel[world]', x=2945.30, y=124.00, z=-3512.50] died, message: 'Unemployed was slain by Ghost'
+[17Jul2024 22:22:16.339] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.50407600402832) to LOW (avg. 29.612321853637695)
+[17Jul2024 22:22:31.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.612321853637695) to VERY_LOW (avg. 9.857958793640137)
+[17Jul2024 22:22:57.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[17Jul2024 22:22:57.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[17Jul2024 22:23:06.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.178.15.40:60575] logged in with entity id 41509 at (1031.3412912203362, 76.0, -1238.9675818312267)
+[17Jul2024 22:23:06.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[17Jul2024 22:23:06.544] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[17Jul2024 22:23:45.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[17Jul2024 22:23:45.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[17Jul2024 22:23:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jul2024 22:23:58.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jul2024 22:23:58.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jul2024 22:23:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jul2024 22:23:58.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jul2024 22:23:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jul2024 22:23:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jul2024 22:23:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jul2024 22:23:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jul2024 22:23:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jul2024 22:23:58.562] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
