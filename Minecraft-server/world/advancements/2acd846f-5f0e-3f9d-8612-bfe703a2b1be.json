@@ -6598,9 +6598,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+  "iceandfire:iceandfire/tame_amphithere": {
     "criteria": {
-      "has_item": "2024-07-22 01:47:22 -0400"
+      "tame_rat": "2024-07-22 01:30:21 -0400"
     },
     "done": true
   },
@@ -6610,15 +6610,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/amphithere_arrow": {
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
     "criteria": {
       "has_item": "2024-07-22 01:47:22 -0400"
     },
     "done": true
   },
-  "iceandfire:iceandfire/tame_amphithere": {
+  "iceandfire:recipes/combat/amphithere_arrow": {
     "criteria": {
-      "tame_rat": "2024-07-22 01:30:21 -0400"
+      "has_item": "2024-07-22 01:47:22 -0400"
     },
     "done": true
   },

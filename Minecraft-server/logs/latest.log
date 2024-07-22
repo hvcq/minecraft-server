@@ -1,474 +1,530 @@
-[22Jul2024 00:07:48.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
-net.minecraft.ReportedException: Loading entity NBT
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1950) ~[?:?]
-	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+[22Jul2024 19:06:50.090] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.21, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[22Jul2024 19:06:50.096] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21-internal by N/A; OS Linux arch amd64 version 5.15.153.1-microsoft-standard-WSL2
+[22Jul2024 19:06:50.957] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22Jul2024 19:06:51.011] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/hernan/juegos/minecraft-server/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22Jul2024 19:06:51.047] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 0 skipped entries ...
+[22Jul2024 19:06:51.062] [main/INFO] [APTweaks(Mods)/]: ✔ No need to update client side mods config file /home/hernan/juegos/minecraft-server/Minecraft-server/config/adaptive_performance_tweaks/client_side_mods.list
+[22Jul2024 19:06:51.063] [main/INFO] [APTweaks(Mods)/]: ✔ Processing 120 client sides mods with 3 skipped entries ...
+[22Jul2024 19:06:51.071] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ init with game dir /home/hernan/juegos/minecraft-server/Minecraft-server and mods dir /home/hernan/juegos/minecraft-server/Minecraft-server/mods for target SERVER
+[22Jul2024 19:06:51.071] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] ♻ Optimizing Duplicated Mods ...
+[22Jul2024 19:06:51.072] [main/INFO] [APTweaks(Mods)/]: [Duplicated Mods] checking ~95 mods in /home/hernan/juegos/minecraft-server/Minecraft-server/mods for duplication with file extension .jar ...
+[22Jul2024 19:06:51.192] [main/INFO] [APTweaks(Mods)/]: [Mod Optimizer] X Disable possible client side mods ...
+[22Jul2024 19:06:51.469] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/fmlcore/1.20.1-47.2.21/fmlcore-1.20.1-47.2.21.jar is missing mods.toml file
+[22Jul2024 19:06:51.472] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.2.21/javafmllanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[22Jul2024 19:06:51.473] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.2.21/lowcodelanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[22Jul2024 19:06:51.475] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/mclanguage/1.20.1-47.2.21/mclanguage-1.20.1-47.2.21.jar is missing mods.toml file
+[22Jul2024 19:06:51.602] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[22Jul2024 19:06:51.604] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[22Jul2024 19:06:52.949] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22Jul2024 19:06:52.985] [main/ERROR] [mixin/]: Mixin config okzoomer.mixins.json does not specify "minVersion" property
+[22Jul2024 19:06:53.044] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.leobeliik.extremesoundmuffler.MixinConnector]
+[22Jul2024 19:06:53.045] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[22Jul2024 19:06:53.060] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[22Jul2024 19:06:53.068] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[22Jul2024 19:06:53.117] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.15.0+mc1.20.1: 77 options available, 0 override(s) found
+[22Jul2024 19:06:53.117] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[22Jul2024 19:06:53.131] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[22Jul2024 19:06:53.155] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 125 options available, 0 override(s) found
+[22Jul2024 19:06:53.206] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[22Jul2024 19:06:53.251] [main/INFO] [Puzzles Lib/]: All mods {/home/hernan/juegos/minecraft-server/Minecraft-server/mods/journeymap-1.20.1-5.9.20-forge.jar#214!/=fuzs.puzzleslib.impl.core.ForgeModContainer@38159384, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/worldedit-mod-7.2.15.jar#244!/=fuzs.puzzleslib.impl.core.ForgeModContainer@55877274, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Iceberg-1.20.1-forge-1.1.21.jar#208!/=fuzs.puzzleslib.impl.core.ForgeModContainer@723e2d08, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/improvedmobs-1.20.1-1.12.4-forge.jar#211!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6d4a82, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/gpumemleakfix-1.20.1-1.8.jar#206!/=fuzs.puzzleslib.impl.core.ForgeModContainer@14f060b8, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/balm-forge-1.20.1-7.2.2.jar#186!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7a0ab480, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/workers-1.20.1-1.7.7.jar#243!/=fuzs.puzzleslib.impl.core.ForgeModContainer@79df80a4, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar#246!/=fuzs.puzzleslib.impl.core.ForgeModContainer@130cfc47, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/saturn-mc1.20.1-0.1.3.jar#229!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4eeab3e, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/JustEnoughResources-1.20.1-1.4.0.247.jar#215!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2b6fb197, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/citadel-2.5.4-1.20.1.jar#194!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2eb0cefe, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar#249!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5a2ae1ab, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/tombstone-1.20.1-8.6.6.jar#237!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2bec068b, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ferritecore-6.0.1-forge.jar#205!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7d59e968, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/memorysettings-1.20.1-5.4.jar#219!/=fuzs.puzzleslib.impl.core.ForgeModContainer@55361f03, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/AnvilNeverTooExpensive-1.20.1-1.1.jar#184!/=fuzs.puzzleslib.impl.core.ForgeModContainer@581c9bb7, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/canary-mc1.20.1-0.3.3.jar#193!/=fuzs.puzzleslib.impl.core.ForgeModContainer@138f0661, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBridges-1.20-Forge-4.0.3.jar#255!/=fuzs.puzzleslib.impl.core.ForgeModContainer@212fafd1, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/tenshilib-1.20.1-1.7.6-forge.jar#236!/=fuzs.puzzleslib.impl.core.ForgeModContainer@448462f0, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar#251!/=fuzs.puzzleslib.impl.core.ForgeModContainer@787988f4, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar#235!/=fuzs.puzzleslib.impl.core.ForgeModContainer@132e3594, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/CraterLib-Forge-1.20-1.1.1.jar#197!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4f235107, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/connectivity-1.20.1-5.5.jar#196!/=fuzs.puzzleslib.impl.core.ForgeModContainer@28d739f1, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar#250!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1c5d3a37, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar#241!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7e3d2ebd, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/portablemobs-1.2.0-forge-mc1.20.jar#225!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2b43f314, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Fastload-Reforged-mc1.20.1-3.4.0.jar#204!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3a4a5f3c, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/okzoomer-forge-1.20-3.0.1.jar#223!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4f3356c0, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar#234!/=fuzs.puzzleslib.impl.core.ForgeModContainer@586cc15d, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar#248!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6c835217, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/modernfix-forge-5.15.0+mc1.20.1.jar#220!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4584304, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Prism-1.20.1-forge-1.0.5.jar#226!/=fuzs.puzzleslib.impl.core.ForgeModContainer@51888019, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/iceandfire-2.1.13-1.20.1-beta-4.jar#207!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6f50d55c, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/repurposed_structures-7.1.15+1.20.1-forge.jar#228!/=fuzs.puzzleslib.impl.core.ForgeModContainer@19b5214b, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/music_player-forge-1.20.1-2.7.0.236.jar#222!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5fb3111a, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/DungeonsArise-1.20.x-2.1.58-release.jar#200!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4aaecabd, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Bookshelf-Forge-1.20.1-20.1.9.jar#192!/=fuzs.puzzleslib.impl.core.ForgeModContainer@23bd0c81, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/trashslot-forge-1.20-15.1.0.jar#238!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1332dec4, /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar#257!/=fuzs.puzzleslib.impl.core.ForgeModContainer@544e3679, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/stealing_villagers-forge-1.20.1-1.0.0.jar#233!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6889f56f, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Jade-1.20.1-forge-11.7.1.jar#212!/=fuzs.puzzleslib.impl.core.ForgeModContainer@231b35fb, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/waystones-forge-1.20-14.1.3.jar#242!/=fuzs.puzzleslib.impl.core.ForgeModContainer@26da1ba2, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/SimpleRPC-forge-1.20-3.2.4.jar#231!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3820cfe, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/bettervillage-forge-1.20.1-3.2.0.jar#191!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2407a36c, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar#247!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5ec9eefa, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar#252!/=fuzs.puzzleslib.impl.core.ForgeModContainer@28b8f98a, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/extremesoundmuffler-3.41-forge-1.20.jar#202!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3b4ef59f, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/embeddium-0.3.9+mc1.20.1.jar#201!/=fuzs.puzzleslib.impl.core.ForgeModContainer@22cb3d59, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/jei-1.20.1-forge-15.3.0.4.jar#213!/=fuzs.puzzleslib.impl.core.ForgeModContainer@33e4b9c4, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/alexsmobs-1.22.8.jar#182!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5cff729b, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar#254!/=fuzs.puzzleslib.impl.core.ForgeModContainer@10d18696, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/u_team_core-forge-1.20.1-5.1.4.269.jar#240!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6b8b5020, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227_/META-INF/jarjar/puzzlesaccessapi-forge-8.0.7.jar#276!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7d37ee0c, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/immersive_aircraft-0.7.5+1.20.1-forge.jar#210!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5a7b309b, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/appleskin-forge-mc1.20.1-2.5.1.jar#185!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4602f874, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/libraryferret-forge-1.20.1-4.0.0.jar#216!/=fuzs.puzzleslib.impl.core.ForgeModContainer@7739aac4, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar#180!/=fuzs.puzzleslib.impl.core.ForgeModContainer@353c6da1, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/=fuzs.puzzleslib.impl.core.ForgeModContainer@36c07c75, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/FallingTree-1.20.1-4.3.4.jar#203!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6750e381, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5d850a25, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/TravelersBackpack-1.20.1-9.1.12.jar#239!/=fuzs.puzzleslib.impl.core.ForgeModContainer@b022551, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsApi-1.20-Forge-4.0.4.jar#245!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3e14d390, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/spark-1.10.53-forge.jar#232!/=fuzs.puzzleslib.impl.core.ForgeModContainer@5eb87338, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Searchables-forge-1.20.1-1.0.2.jar#230!/=fuzs.puzzleslib.impl.core.ForgeModContainer@2b999ee8, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209_/META-INF/jars/mixinextras-forge-0.3.5.jar#272!/=fuzs.puzzleslib.impl.core.ForgeModContainer@31ab1e67, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BetterBurning-Forge-1.20.1-9.0.2.jar#188!/=fuzs.puzzleslib.impl.core.ForgeModContainer@29bbc391, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/betterfoliage-5.0.2.jar#189!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3487442d, /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-universal.jar#262!/=fuzs.puzzleslib.impl.core.ForgeModContainer@530ee28b, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar#253!/=fuzs.puzzleslib.impl.core.ForgeModContainer@3a3f96ab, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/alexscaves-1.1.4.jar#181!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4def7d36, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BenefitsofReading-Forge-1.20.X-1.0.0.jar#187!/=fuzs.puzzleslib.impl.core.ForgeModContainer@43c7fe8a, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/clientcrafting-1.20.1-1.8.jar#195!/=fuzs.puzzleslib.impl.core.ForgeModContainer@67f946c3, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar#183!/=fuzs.puzzleslib.impl.core.ForgeModContainer@21b51e59, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/majrusz-library-forge-1.20.1-7.0.8.jar#217!/=fuzs.puzzleslib.impl.core.ForgeModContainer@1785d194, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/movingelevators-1.4.7-forge-mc1.20.1.jar#221!/=fuzs.puzzleslib.impl.core.ForgeModContainer@6b4a4e40, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar#198!/=fuzs.puzzleslib.impl.core.ForgeModContainer@46a8c2b4, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/cupboard-1.20.1-2.6.jar#199!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4f664bee, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BetterPingDisplay-1.20.1-1.1.jar#190!/=fuzs.puzzleslib.impl.core.ForgeModContainer@76563ae7, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar#218!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4fd74223, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/accommodation_-1.1.0.jar#179!/=fuzs.puzzleslib.impl.core.ForgeModContainer@4fea840f, /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Placebo-1.20.1-8.6.1.jar#224!/=fuzs.puzzleslib.impl.core.ForgeModContainer@32ae8f27}
+[22Jul2024 19:06:53.251] [main/INFO] [Puzzles Lib/]: Scheme for journeymap: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/journeymap-1.20.1-5.9.20-forge.jar#214!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for worldedit: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/worldedit-mod-7.2.15.jar#244!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for iceberg: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Iceberg-1.20.1-forge-1.1.21.jar#208!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for improvedmobs: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/improvedmobs-1.20.1-1.12.4-forge.jar#211!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for gpumemleakfix: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/gpumemleakfix-1.20.1-1.8.jar#206!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for balm: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/balm-forge-1.20.1-7.2.2.jar#186!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for workers: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/workers-1.20.1-1.7.7.jar#243!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for betterdeserttemples: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar#246!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for saturn: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/saturn-mc1.20.1-0.1.3.jar#229!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for jeresources: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/JustEnoughResources-1.20.1-1.4.0.247.jar#215!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for citadel: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/citadel-2.5.4-1.20.1.jar#194!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for betterjungletemples: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterJungleTemples-1.20-Forge-2.0.4.jar#249!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for tombstone: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/tombstone-1.20.1-8.6.6.jar#237!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for ferritecore: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ferritecore-6.0.1-forge.jar#205!/
+[22Jul2024 19:06:53.252] [main/INFO] [Puzzles Lib/]: Scheme for memorysettings: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/memorysettings-1.20.1-5.4.jar#219!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for ante: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/AnvilNeverTooExpensive-1.20.1-1.1.jar#184!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for canary: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/canary-mc1.20.1-0.3.3.jar#193!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for yungsbridges: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBridges-1.20-Forge-4.0.3.jar#255!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for tenshilib: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/tenshilib-1.20.1-1.7.6-forge.jar#236!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for betterfortresses: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar#251!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for supermartijn642corelib: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar#235!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for craterlib: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/CraterLib-Forge-1.20-1.1.1.jar#197!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for connectivity: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/connectivity-1.20.1-5.5.jar#196!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for bettermineshafts: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar#250!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for universalenchants: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/UniversalEnchants-v8.0.0-1.20.1-Forge.jar#241!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for portablemobs: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/portablemobs-1.2.0-forge-mc1.20.jar#225!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for fastload: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Fastload-Reforged-mc1.20.1-3.4.0.jar#204!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for okzoomer: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/okzoomer-forge-1.20-3.0.1.jar#223!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for supermartijn642configlib: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar#234!/
+[22Jul2024 19:06:53.253] [main/INFO] [Puzzles Lib/]: Scheme for betterendisland: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterEndIsland-1.20-Forge-2.0.6.jar#248!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for modernfix: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/modernfix-forge-5.15.0+mc1.20.1.jar#220!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for prism: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Prism-1.20.1-forge-1.0.5.jar#226!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for iceandfire: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/iceandfire-2.1.13-1.20.1-beta-4.jar#207!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for repurposed_structures: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/repurposed_structures-7.1.15+1.20.1-forge.jar#228!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for musicplayer: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/music_player-forge-1.20.1-2.7.0.236.jar#222!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for dungeons_arise: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/DungeonsArise-1.20.x-2.1.58-release.jar#200!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for bookshelf: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Bookshelf-Forge-1.20.1-20.1.9.jar#192!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for trashslot: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/trashslot-forge-1.20-15.1.0.jar#238!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for minecraft: /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar#257!/
+[22Jul2024 19:06:53.254] [main/INFO] [Puzzles Lib/]: Scheme for stealing_villagers: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/stealing_villagers-forge-1.20.1-1.0.0.jar#233!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for jade: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Jade-1.20.1-forge-11.7.1.jar#212!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for waystones: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/waystones-forge-1.20-14.1.3.jar#242!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for simplerpc: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/SimpleRPC-forge-1.20-3.2.4.jar#231!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for bettervillage: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/bettervillage-forge-1.20.1-3.2.0.jar#191!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for betterdungeons: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterDungeons-1.20-Forge-4.0.3.jar#247!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for betteroceanmonuments: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar#252!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for extremesoundmuffler: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/extremesoundmuffler-3.41-forge-1.20.jar#202!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for embeddium: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/embeddium-0.3.9+mc1.20.1.jar#201!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for jei: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/jei-1.20.1-forge-15.3.0.4.jar#213!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for alexsmobs: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/alexsmobs-1.22.8.jar#182!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for betterwitchhuts: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar#254!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for uteamcore: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/u_team_core-forge-1.20.1-5.1.4.269.jar#240!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for puzzlesaccessapi: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for immersive_aircraft: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/immersive_aircraft-0.7.5+1.20.1-forge.jar#210!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for appleskin: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/appleskin-forge-mc1.20.1-2.5.1.jar#185!/
+[22Jul2024 19:06:53.255] [main/INFO] [Puzzles Lib/]: Scheme for libraryferret: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/libraryferret-forge-1.20.1-4.0.0.jar#216!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for adaptive_performance_tweaks_core: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar#180!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for immediatelyfast: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for fallingtree: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/FallingTree-1.20.1-4.3.4.jar#203!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for puzzleslib: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/PuzzlesLib-v8.1.20-1.20.1-Forge.jar#227!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for travelersbackpack: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/TravelersBackpack-1.20.1-9.1.12.jar#239!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for yungsapi: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsApi-1.20-Forge-4.0.4.jar#245!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for spark: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/spark-1.10.53-forge.jar#232!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for searchables: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Searchables-forge-1.20.1-1.0.2.jar#230!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for mixinextras: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/ImmediatelyFast-Forge-1.2.10+1.20.4.jar#209!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for betterburning: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BetterBurning-Forge-1.20.1-9.0.2.jar#188!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for betterfoliage: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/betterfoliage-5.0.2.jar#189!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for forge: /home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraftforge/forge/1.20.1-47.2.21/forge-1.20.1-47.2.21-universal.jar#262!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for betterstrongholds: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar#253!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for alexscaves: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/alexscaves-1.1.4.jar#181!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for benefitsofreading: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BenefitsofReading-Forge-1.20.X-1.0.0.jar#187!/
+[22Jul2024 19:06:53.256] [main/INFO] [Puzzles Lib/]: Scheme for clientcrafting: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/clientcrafting-1.20.1-1.8.jar#195!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for ambientenvironment: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar#183!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for majruszlibrary: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/majrusz-library-forge-1.20.1-7.0.8.jar#217!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for movingelevators: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/movingelevators-1.4.7-forge-mc1.20.1.jar#221!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for creativecore: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/CreativeCore_FORGE_v2.11.25_mc1.20.1.jar#198!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for cupboard: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/cupboard-1.20.1-2.6.jar#199!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for betterpingdisplay: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/BetterPingDisplay-1.20.1-1.1.jar#190!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for majruszsdifficulty: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/majruszs-difficulty-forge-1.20.1-1.9.10.jar#218!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for accommodation_: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/accommodation_-1.1.0.jar#179!/
+[22Jul2024 19:06:53.257] [main/INFO] [Puzzles Lib/]: Scheme for placebo: /home/hernan/juegos/minecraft-server/Minecraft-server/mods/Placebo-1.20.1-8.6.1.jar#224!/
+[22Jul2024 19:06:53.259] [main/INFO] [Puzzles Lib/]: Loading 81 mods:
+	- accommodation_ 1.0.0
+	- adaptive_performance_tweaks_core 10.2.0
+	- alexscaves 1.1.4
+	- alexsmobs 1.22.8
+	- ambientenvironment 11.0.0.1
+	- ante 1.1
+	- appleskin 2.5.1+mc1.20.1
+	- balm 7.2.2
+	- benefitsofreading 1.0.0
+	- betterburning 9.0.2
+	- betterdeserttemples 1.20-Forge-3.0.3
+	- betterdungeons 1.20-Forge-4.0.3
+	- betterendisland 1.20-Forge-2.0.6
+	- betterfoliage 5.0.2
+	- betterfortresses 1.20-Forge-2.0.6
+	- betterjungletemples 1.20-Forge-2.0.4
+	- bettermineshafts 1.20-Forge-4.0.4
+	- betteroceanmonuments 1.20-Forge-3.0.4
+	- betterpingdisplay 1.1
+	- betterstrongholds 1.20-Forge-4.0.3
+	- bettervillage 3.1.0
+	- betterwitchhuts 1.20-Forge-3.0.3
+	- bookshelf 20.1.9
+	- canary 0.3.3
+	- citadel 2.5.4
+	- clientcrafting 1.20.1-1.8
+	- connectivity 1.20.1-5.5
+	- craterlib 1.1.1
+	- creativecore 2.11.25
+	- cupboard 1.20.1-2.6
+	- dungeons_arise 2.1.58-1.20.x
+	- embeddium 0.3.9+mc1.20.1
+		\-- rubidium 0.7.1
+	- extremesoundmuffler 3.41-forge-1.20
+	- fallingtree 4.3.4
+	- fastload 3.4.0
+	- ferritecore 6.0.1
+	- forge 47.2.21
+	- gpumemleakfix 1.20.1-1.8
+	- iceandfire 2.1.13-1.20.1-beta-4
+	- iceberg 1.1.21
+	- immediatelyfast 1.2.10+1.20.4
+		\-- mixinextras 0.3.5
+	- immersive_aircraft 0.7.5+1.20.1
+	- improvedmobs 1.20.1-1.12.4
+	- jade 11.7.1
+	- jei 15.3.0.4
+	- jeresources 1.4.0.247
+	- journeymap 5.9.20
+	- libraryferret 4.0.0
+	- majruszlibrary 7.0.8
+	- majruszsdifficulty 1.9.10
+	- memorysettings 1.20.1-5.4
+	- minecraft 1.20.1
+	- modernfix 5.15.0+mc1.20.1
+	- movingelevators 1.4.7
+	- musicplayer 2.7.0.236
+	- okzoomer 3.0.1
+	- placebo 8.6.1
+	- portablemobs 1.2.0
+	- prism 1.0.5
+	- puzzleslib 8.1.20
+		\-- puzzlesaccessapi 8.0.7
+	- repurposed_structures 7.1.15+1.20.1-forge
+	- saturn 0.1.3
+	- searchables 1.0.2
+	- simplerpc 3.2.4
+	- spark 1.10.53
+	- stealing_villagers 1.0.0
+	- supermartijn642configlib 1.1.8
+	- supermartijn642corelib 1.1.17
+	- tenshilib 1.20.1-1.7.6
+	- tombstone 8.6.6
+	- trashslot 15.1.0
+	- travelersbackpack 9.1.12
+	- universalenchants 8.0.0
+	- uteamcore 5.1.4.269
+	- waystones 14.1.3
+	- workers 1.7.7
+	- worldedit 7.2.15+6463-5ca4dff
+	- yungsapi 1.20-Forge-4.0.4
+	- yungsbridges 1.20-Forge-4.0.3
+[22Jul2024 19:06:53.756] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:53.768] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:54.095] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AnvilScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.AnvilScreen)
+[22Jul2024 19:06:54.095] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AnvilScreen was not found ante.mixins.json:AnvilScreenMixin
+[22Jul2024 19:06:54.134] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[22Jul2024 19:06:54.208] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER
+[22Jul2024 19:06:54.209] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/LevelRenderer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/LevelRenderer for invalid dist DEDICATED_SERVER)
+[22Jul2024 19:06:54.209] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.LevelRenderer was not found movingelevators.mixins.json:sodium.LevelRendererMixinSodium
+[22Jul2024 19:06:54.212] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/MultiBufferSource$BufferSource (java.lang.ClassNotFoundException: net.minecraft.client.renderer.MultiBufferSource$BufferSource)
+[22Jul2024 19:06:54.260] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[22Jul2024 19:06:54.860] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.701 s after launch)
+[22Jul2024 19:06:54.942] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[22Jul2024 19:06:54.942] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[22Jul2024 19:06:54.998] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[22Jul2024 19:06:54.998] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[22Jul2024 19:06:55.163] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:55.164] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:55.823] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 959 milliseconds
+[22Jul2024 19:06:56.202] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:56.202] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[22Jul2024 19:06:57.532] [main/WARN] [mixin/]: Method overwrite conflict for m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin, previously written by com.abdelaziz.saturn.mixin.leaks.biome_temperature_cache.BiomeMixin. Skipping method.
+[22Jul2024 19:06:57.864] [modloading-worker-0/WARN] [APTweaks(Core)/]: ⚠ The log level for APTweaks(Core) is set to ALL, this will log all debug information and will cause performance issues. This is expected in a developer environment or during large-scale troubleshooting. However, rest assured, to mitigate performance concerns, the debug mode for this module has been automatically adjusted to an info level! If you require debug information, simply use the /aptweaks debug <module> command to re-enable debug mode.
+[22Jul2024 19:06:57.864] [modloading-worker-0/WARN] [APTweaks(Core)/]: Adjusting log level for APTweaks(Core) from ALL to INFO, for performance reasons!
+[22Jul2024 19:06:57.866] [modloading-worker-0/INFO] [APTweaks(Core)/]: Changing log level for APTweaks(Core) from ALL to INFO
+[22Jul2024 19:06:57.869] [modloading-worker-0/INFO] [APTweaks(Core)/]: Thanks for using Adaptive Performance Tweaks: Core (https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core). I hope you enjoy the mod. :)
+[22Jul2024 19:06:57.875] [modloading-worker-0/INFO] [APTweaks(Core)/]: Register Adaptive Performance Tweaks: Core common config ...
+[22Jul2024 19:06:57.883] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[22Jul2024 19:06:57.898] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[22Jul2024 19:06:58.035] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.036] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22Jul2024 19:06:58.161] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
+[22Jul2024 19:06:58.163] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
+[22Jul2024 19:06:58.195] [modloading-worker-0/INFO] [Simple RPC/]: Loading config file from /home/hernan/juegos/minecraft-server/Minecraft-server/config/simple-rpc-server.toml
+[22Jul2024 19:06:58.207] [modloading-worker-0/INFO] [CraterLib/]: Registered simple-rpc-server.toml successfully!
+[22Jul2024 19:06:58.222] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.21, for MC 1.20.1 with MCP 20230612.114412
+[22Jul2024 19:06:58.222] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.21 Initialized
+[22Jul2024 19:06:58.245] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[22Jul2024 19:06:58.245] [modloading-worker-0/ERROR] [Embeddium/]: Failed to update fingerprint
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at me.jellysquid.mods.sodium.client.data.fingerprint.FingerprintMeasure.create(FingerprintMeasure.java:19) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.updateFingerprint(SodiumClientMod.java:100) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at me.jellysquid.mods.sodium.client.SodiumClientMod.<init>(SodiumClientMod.java:41) ~[embeddium-0.3.9+mc1.20.1.jar%23201!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.2.21.jar%23259!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[22Jul2024 19:06:58.330] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: memorysettings.json
+[22Jul2024 19:06:58.333] [modloading-worker-0/WARN] [com.memorysettings.MemorysettingsMod/]: You have less memory allocated(1988mb) than recommended for this pack, the minimum is: 2500mb.
+The recommended amount for your system is: 4189 mb.
+
+[22Jul2024 19:06:58.336] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:miner_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:lumberjack_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:farmer_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:merchant_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:shepherd_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:fisherman_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:cattle_farmer_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:chicken_farmer_block]
+[22Jul2024 19:06:58.337] [modloading-worker-0/INFO] [workers/]: Registering POI for ResourceKey[minecraft:block / workers:swineherd_block]
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for miner with POI net.minecraftforge.registries.RegistryObject@84ce06a
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for lumberjack with POI net.minecraftforge.registries.RegistryObject@2324e55
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for farmer with POI net.minecraftforge.registries.RegistryObject@b5b6294e
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for merchant with POI net.minecraftforge.registries.RegistryObject@e3fd43b3
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for shepherd with POI net.minecraftforge.registries.RegistryObject@dc7f439a
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for fisherman with POI net.minecraftforge.registries.RegistryObject@2b647820
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for cattle_farmer with POI net.minecraftforge.registries.RegistryObject@2fbf1d36
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for chicken_farmer with POI net.minecraftforge.registries.RegistryObject@8de71318
+[22Jul2024 19:06:58.338] [modloading-worker-0/INFO] [workers/]: Registering profession for swineherd with POI net.minecraftforge.registries.RegistryObject@5a68aad6
+[22Jul2024 19:06:58.419] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for universalenchants:main
+[22Jul2024 19:06:58.455] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[22Jul2024 19:06:58.478] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[22Jul2024 19:07:01.206] [main/INFO] [Puzzles Lib/]: Loading common config for universalenchants
+[22Jul2024 19:07:01.261] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[22Jul2024 19:07:01.373] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[22Jul2024 19:07:01.373] [modloading-worker-0/INFO] [com.gpumemleakfix.Gpumemleakfix/]: gpumemleakfix mod initialized
+[22Jul2024 19:07:01.416] [modloading-worker-0/INFO] [workers/]: Messages registered
+[22Jul2024 19:07:01.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[22Jul2024 19:07:01.765] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[22Jul2024 19:07:01.765] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3e8d7e68]
+[22Jul2024 19:07:01.771] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[22Jul2024 19:07:01.785] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22Jul2024 19:07:01.802] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[22Jul2024 19:07:01.803] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[22Jul2024 19:07:01.803] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[22Jul2024 19:07:01.803] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[22Jul2024 19:07:01.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Found status: AHEAD Current: 0.1.3 Target: null
+[22Jul2024 19:07:01.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[22Jul2024 19:07:01.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[22Jul2024 19:07:01.958] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/ProgressiveDifficulty/update.json
+[22Jul2024 19:07:01.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsdifficulty] Found status: UP_TO_DATE Current: 1.9.10 Target: null
+[22Jul2024 19:07:01.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
+[22Jul2024 19:07:02.247] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[22Jul2024 19:07:02.257] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22Jul2024 19:07:02.273] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22Jul2024 19:07:02.276] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22Jul2024 19:07:02.278] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[22Jul2024 19:07:02.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: OUTDATED Current: 2.7.0.236 Target: 2.7.0.267
+[22Jul2024 19:07:02.764] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22Jul2024 19:07:02.831] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22Jul2024 19:07:03.240] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/assets/.mcassetsroot' uses unexpected schema
+[22Jul2024 19:07:03.240] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/hernan/juegos/minecraft-server/Minecraft-server/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23257!/data/.mcassetsroot' uses unexpected schema
+[22Jul2024 19:07:03.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.9.20 Target: 5.10.1
+[22Jul2024 19:07:03.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[22Jul2024 19:07:04.601] [main/INFO] [APTweaks(Core)/]: Registering /aptweaks commands for Adaptive Performance Tweaks: Core ...
+[22Jul2024 19:07:04.671] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[22Jul2024 19:07:04.704] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[22Jul2024 19:07:05.227] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[22Jul2024 19:07:05.311] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2306 advancements
+[22Jul2024 19:07:05.316] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[22Jul2024 19:07:05.343] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+     - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
+     - You can find the datapack URL in the `compatibility` section of the Better Villages description.
+     - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
+[22Jul2024 19:07:05.344] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[22Jul2024 19:07:05.426] [main/ERROR] [Puzzles Lib/]: Calling server config when it is not yet available! This is a bug! Message: Config data is missing
+java.lang.Exception: Config not yet available
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.lambda$testAvailable$2(ConfigDataHolderImpl.java:88) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at com.mojang.datafixers.util.Either$Right.ifRight(Either.java:109) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.testAvailable(ConfigDataHolderImpl.java:87) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.getOrCreateDefaultConfig(ConfigDataHolderImpl.java:54) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigDataHolderImpl.getConfig(ConfigDataHolderImpl.java:49) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.api.config.v3.ConfigHolder.get(ConfigHolder.java:42) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.config.ConfigHolderRegistry.get(ConfigHolderRegistry.java:16) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at net.minecraft.world.item.HorseArmorItem.m_6473_(HorseArmorItem.java:527) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at ovh.corail.tombstone.ModTombstone.lambda$static$3(ModTombstone.java:73) ~[tombstone-1.20.1-8.6.6.jar%23237!/:8.6.6]
+	at net.minecraft.world.item.enchantment.EnchantmentCategory.m_7454_(EnchantmentCategory.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at fuzs.universalenchants.core.ForgeAbstractions.defaultEnchantmentDataBuilder(ForgeAbstractions.java:44) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180) ~[?:?]
+	at java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?]
 	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
 	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
 	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
 	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
 	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
-	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at fuzs.universalenchants.world.item.enchantment.data.AdditionalEnchantmentDataProvider.getEnchantmentDataEntries(AdditionalEnchantmentDataProvider.java:50) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.universalenchants.world.item.enchantment.serialize.EnchantmentHoldersManager.loadAll(EnchantmentHoldersManager.java:42) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.universalenchants.UniversalEnchants.lambda$registerHandlers$1(UniversalEnchants.java:48) ~[UniversalEnchants-v8.0.0-1.20.1-Forge.jar%23241!/:8.0.0]
+	at fuzs.puzzleslib.impl.event.ForgeEventInvokerRegistryImpl.lambda$registerEventHandlers$44(ForgeEventInvokerRegistryImpl.java:389) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.api.event.v1.core.ForgeEventInvokerRegistry.lambda$register$0(ForgeEventInvokerRegistry.java:25) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at fuzs.puzzleslib.impl.event.ForgeEventInvokerRegistryImpl$ForgeEventInvoker.lambda$register$1(ForgeEventInvokerRegistryImpl.java:725) ~[PuzzlesLib-v8.1.20-1.20.1-Forge.jar%23227!/:8.1.20]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:260) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:252) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraft.server.ReloadableServerResources.m_206868_(ReloadableServerResources.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.WorldLoader.m_244809_(WorldLoader.java:44) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
 	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalStateException: Entity has invalid position
-	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
-	... 33 more
-[22Jul2024 00:19:12.317] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID f8703a59-3545-4786-a333-7055a8e3953f
-[22Jul2024 00:19:12.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 837 Y: 26 Z: -445
-[22Jul2024 00:19:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 blew up
-[22Jul2024 00:19:12.328] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:19:58.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.73226547241211) to LOW (avg. 20.003250122070312)
-[22Jul2024 00:20:19.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/778, l='ServerLevel[world]', x=164.70, y=94.54, z=32.62] died, message: 'Unemployed was slain by Zombie'
-[22Jul2024 00:20:21.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.854442596435547) to VERY_LOW (avg. 18.473512649536133)
-[22Jul2024 00:20:23.259] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/523, l='ServerLevel[world]', x=60.30, y=108.00, z=2.94] died, message: 'Unemployed hit the ground too hard whilst trying to escape Spider'
-[22Jul2024 00:21:01.316] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/32606, l='ServerLevel[world]', x=211.35, y=86.25, z=97.19] died, message: 'Unemployed was slain by Zombie'
-[22Jul2024 00:21:23.116] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/811, l='ServerLevel[world]', x=173.10, y=82.75, z=105.30] died, message: 'Farmer was slain by Zombie'
-[22Jul2024 00:22:58.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Skeleton
-[22Jul2024 00:22:58.979] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:23:02.424] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID a03c3195-c8d6-4909-8aad-0fa7c972992d
-[22Jul2024 00:23:02.426] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 829 Y: 24 Z: -448
-[22Jul2024 00:23:02.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
-[22Jul2024 00:23:02.432] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[22Jul2024 00:23:07.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.7005038) to LOW (avg. 15.38342887)
-[22Jul2024 00:24:28.723] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/34983, l='ServerLevel[world]', x=829.05, y=32.93, z=-444.46] died: hvice was shot by hvice
-[22Jul2024 00:25:03.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 fell from a high place
-[22Jul2024 00:25:03.006] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:26:04.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[22Jul2024 00:26:04.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[22Jul2024 00:26:30.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/522, l='ServerLevel[world]', x=61.53, y=103.00, z=1.58] died, message: 'Unemployed was shot by Skeleton'
-[22Jul2024 00:27:11.260] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/711, l='ServerLevel[world]', x=134.03, y=88.00, z=82.58] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie'
-[22Jul2024 00:27:24.415] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/36442, l='ServerLevel[world]', x=200.87, y=88.00, z=122.26] died, message: 'Fletcher was shot by Skeleton'
-[22Jul2024 00:27:46.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/770, l='ServerLevel[world]', x=167.07, y=95.00, z=31.50] died, message: 'Unemployed was shot by Skeleton'
-[22Jul2024 00:27:56.066] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/777, l='ServerLevel[world]', x=165.47, y=95.09, z=33.11] died, message: 'Unemployed was shot by Skeleton'
-[22Jul2024 00:28:07.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/780, l='ServerLevel[world]', x=165.34, y=95.52, z=33.26] died, message: 'Unemployed was shot by Skeleton'
-[22Jul2024 00:28:56.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/714, l='ServerLevel[world]', x=136.64, y=77.77, z=107.21] died, message: 'Unemployed was slain by Zombie'
-[22Jul2024 00:28:58.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/727, l='ServerLevel[world]', x=135.72, y=77.00, z=105.93] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:28:59.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/730, l='ServerLevel[world]', x=137.46, y=77.00, z=104.77] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:28:59.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/720, l='ServerLevel[world]', x=139.06, y=78.02, z=105.07] died, message: 'Nitwit was slain by Zombie Villager'
-[22Jul2024 00:29:04.614] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/726, l='ServerLevel[world]', x=152.75, y=74.00, z=118.69] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:07.264] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/717, l='ServerLevel[world]', x=138.85, y=78.56, z=113.85] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:09.163] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/723, l='ServerLevel[world]', x=168.30, y=73.00, z=112.39] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:10.561] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/864, l='ServerLevel[world]', x=133.30, y=78.00, z=114.87] died, message: 'Unemployed burned to death'
-[22Jul2024 00:29:10.862] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/725, l='ServerLevel[world]', x=138.39, y=77.00, z=118.50] died, message: 'Unemployed was slain by Zombie'
-[22Jul2024 00:29:12.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/795, l='ServerLevel[world]', x=150.23, y=95.00, z=47.71] died, message: 'Unemployed was blown up by Creeper'
-[22Jul2024 00:29:13.217] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/728, l='ServerLevel[world]', x=123.07, y=69.00, z=106.42] died, message: 'Nitwit was slain by Zombie'
-[22Jul2024 00:29:13.863] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/722, l='ServerLevel[world]', x=164.51, y=75.00, z=89.28] died, message: 'Nitwit was slain by Zombie Villager'
-[22Jul2024 00:29:14.266] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/713, l='ServerLevel[world]', x=132.93, y=77.00, z=110.70] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:15.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/716, l='ServerLevel[world]', x=158.06, y=74.00, z=89.05] died, message: 'Nitwit was slain by Zombie Villager'
-[22Jul2024 00:29:17.317] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/712, l='ServerLevel[world]', x=126.30, y=68.00, z=107.42] died, message: 'Nitwit was slain by Zombie Villager'
-[22Jul2024 00:29:18.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/800, l='ServerLevel[world]', x=145.95, y=95.00, z=49.70] died, message: 'Unemployed was blown up by Creeper'
-[22Jul2024 00:29:19.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/718, l='ServerLevel[world]', x=119.53, y=75.00, z=106.47] died, message: 'Nitwit was slain by Zombie Villager'
-[22Jul2024 00:29:22.214] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/724, l='ServerLevel[world]', x=126.48, y=73.36, z=105.97] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:22.310] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/721, l='ServerLevel[world]', x=177.63, y=71.00, z=128.26] died, message: 'Unemployed bled to death'
-[22Jul2024 00:29:24.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/719, l='ServerLevel[world]', x=131.97, y=77.00, z=118.38] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:25.364] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/871, l='ServerLevel[world]', x=152.44, y=75.00, z=92.50] died, message: 'Armorer was slain by Zombie Villager'
-[22Jul2024 00:29:30.366] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/695, l='ServerLevel[world]', x=143.60, y=94.39, z=47.70] died, message: 'Unemployed was blown up by Creeper'
-[22Jul2024 00:29:30.513] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/729, l='ServerLevel[world]', x=147.38, y=86.00, z=82.30] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:33.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/872, l='ServerLevel[world]', x=154.70, y=84.00, z=94.24] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:34.913] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/715, l='ServerLevel[world]', x=154.52, y=84.00, z=95.59] died, message: 'Unemployed was slain by Zombie Villager'
-[22Jul2024 00:29:41.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
-[22Jul2024 00:29:41.173] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:31:04.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37999, l='ServerLevel[world]', x=92.62, y=63.00, z=-202.36] died, message: 'Farmer was slain by Zombie'
-[22Jul2024 00:31:30.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37941, l='ServerLevel[world]', x=105.26, y=67.77, z=-176.60] died, message: 'Farmer was slain by Zombie Villager'
-[22Jul2024 00:32:32.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37951, l='ServerLevel[world]', x=-16.92, y=69.00, z=-220.58] died, message: 'Unemployed was slain by Zombie'
-[22Jul2024 00:32:38.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37993, l='ServerLevel[world]', x=-19.55, y=69.00, z=-225.89] died, message: 'Farmer was slain by Zombie'
-[22Jul2024 00:32:58.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/37776, l='ServerLevel[world]', x=80.49, y=70.00, z=-201.61] died, message: 'Farmer bled to death'
-[22Jul2024 00:33:01.612] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/37911, l='ServerLevel[world]', x=4.70, y=63.00, z=-197.80] died, message: 'Nitwit hit the ground too hard'
-[22Jul2024 00:33:35.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
-[22Jul2024 00:33:35.119] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:34:34.215] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39668, l='ServerLevel[world]', x=59.63, y=62.94, z=-215.69] died, message: 'Farmer was slain by Zombie'
-[22Jul2024 00:35:05.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39741, l='ServerLevel[world]', x=-14.58, y=63.92, z=-249.58] died, message: 'Farmer bled to death'
-[22Jul2024 00:35:15.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/39780, l='ServerLevel[world]', x=14.14, y=62.59, z=-257.00] died, message: 'Farmer was slain by Zombie'
-[22Jul2024 00:36:29.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:52479] logged in with entity id 40643 at (829.4402225739401, 33.0, -452.4007446296884)
-[22Jul2024 00:36:29.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[22Jul2024 00:36:29.160] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[22Jul2024 00:36:36.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie Villager
-[22Jul2024 00:36:36.479] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 00:36:51.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.381723403930664) to LOW (avg. 20.24472999572754)
-[22Jul2024 00:37:06.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.24472999572754) to VERY_LOW (avg. 18.66141700744629)
-[22Jul2024 00:37:58.747] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.10305404663086) to HIGH (avg. 51.68158721923828)
-[22Jul2024 00:38:06.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.68158721923828) to VERY_LOW (avg. 18.879638671875)
-[22Jul2024 00:38:28.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.416122436523438) to LOW (avg. 21.620771408081055)
-[22Jul2024 00:38:43.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.620771408081055) to VERY_LOW (avg. 19.67333984375)
-[22Jul2024 00:40:29.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of narum0000) moved wrongly! 0.3176331235041516
-[22Jul2024 00:47:51.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:47:51.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:47:51.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:47:51.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:47:51.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:47:51.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=40, z=-447} BlockPos{x=824, y=40, z=-448}
-[22Jul2024 00:52:57.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6829ms or 136 ticks behind
-[22Jul2024 00:52:58.149] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.564373970031738) to VERY_HIGH (avg. 149.05853271484375)
-[22Jul2024 00:52:58.935] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[22Jul2024 00:52:58.937] [Worker-Main-83/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[22Jul2024 00:52:59.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from LOW (avg. 15.38342887) to VERY_LOW (avg. 3.30208262)
-[22Jul2024 00:52:59.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 20.23523953) to VERY_LOW (avg. 5.6232491)
-[22Jul2024 00:53:05.428] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 149.05853271484375) to VERY_LOW (avg. 10.359601974487305)
-[22Jul2024 00:57:21.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.96248528) to LOW (avg. 15.67112127)
-[22Jul2024 01:16:33.022] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 3c63798e-adbc-4c8e-bfa1-9d0c7dea1411
-[22Jul2024 01:16:33.024] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 6728 Y: 87 Z: -3326
-[22Jul2024 01:16:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
-[22Jul2024 01:16:33.031] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[22Jul2024 01:16:35.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.538192749023438) to LOW (avg. 27.02633285522461)
-[22Jul2024 01:16:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.02633285522461) to VERY_LOW (avg. 17.178264617919922)
-[22Jul2024 01:16:50.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 5723.173470748948,20.099999999999994,-2053.368063045101
-[22Jul2024 01:17:34.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Gone Bananas!]
-[22Jul2024 01:26:25.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[22Jul2024 01:26:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[22Jul2024 01:28:41.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:44359] logged in with entity id 60322 at (6921.262422813742, 117.0, -3423.142721929901)
-[22Jul2024 01:28:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
-[22Jul2024 01:28:41.769] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
-[22Jul2024 01:29:13.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Dragon Growth Hormone]
-[22Jul2024 01:29:29.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID eb4f10c5-6d92-4873-9bb5-bf585b588b0a
-[22Jul2024 01:29:29.619] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 6921 Y: 94 Z: -3423
-[22Jul2024 01:29:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Amphithere
-[22Jul2024 01:29:29.628] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
-[22Jul2024 01:30:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Jungle Fliers]
-[22Jul2024 01:30:27.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6627381268260536
-[22Jul2024 01:30:28.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3569557910161217
-[22Jul2024 01:30:31.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4030864804927138
-[22Jul2024 01:30:50.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.41614421255737205
-[22Jul2024 01:30:52.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5421670410090704
-[22Jul2024 01:31:04.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3329576575753241
-[22Jul2024 01:31:16.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4499831120373191
-[22Jul2024 01:31:18.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8254717707795065
-[22Jul2024 01:31:18.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8277997878001438
-[22Jul2024 01:31:20.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.681967038428787
-[22Jul2024 01:31:21.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7932483947201079
-[22Jul2024 01:31:22.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.28298240485739506
-[22Jul2024 01:31:24.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7071841985057878
-[22Jul2024 01:31:24.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7717967634492922
-[22Jul2024 01:31:26.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4371240657251791
-[22Jul2024 01:31:26.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6663110812161277
-[22Jul2024 01:31:27.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8230443451731126
-[22Jul2024 01:31:28.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8289679883215348
-[22Jul2024 01:31:29.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8229060394379272
-[22Jul2024 01:31:30.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8034594834061581
-[22Jul2024 01:31:32.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6382312726969449
-[22Jul2024 01:31:35.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6696068876173534
-[22Jul2024 01:31:35.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.38721810625853614
-[22Jul2024 01:31:37.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4395269222565195
-[22Jul2024 01:31:49.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3872187443865879
-[22Jul2024 01:31:49.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5262466359812695
-[22Jul2024 01:31:49.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5262466359812695
-[22Jul2024 01:31:53.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7637151114254863
-[22Jul2024 01:31:54.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7708341944136261
-[22Jul2024 01:31:54.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7822140732157145
-[22Jul2024 01:31:57.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.778076284739909
-[22Jul2024 01:31:59.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298822602930674
-[22Jul2024 01:32:00.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830339298566568
-[22Jul2024 01:32:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304455083129326
-[22Jul2024 01:32:02.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305070492288167
-[22Jul2024 01:32:06.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7685775050187509
-[22Jul2024 01:32:08.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303383567770624
-[22Jul2024 01:32:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304461891272595
-[22Jul2024 01:32:09.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8222711433089326
-[22Jul2024 01:32:10.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8287005717141439
-[22Jul2024 01:32:14.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7442332734605283
-[22Jul2024 01:32:15.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7898910073617591
-[22Jul2024 01:32:16.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294421791988518
-[22Jul2024 01:32:17.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301297936257854
-[22Jul2024 01:32:30.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! -6823.283400395839,-42.0,3212.3371811454444
-[22Jul2024 01:32:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.51304054260254) to LOW (avg. 20.05564308166504)
-[22Jul2024 01:32:40.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3469693041264244
-[22Jul2024 01:32:42.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8106956273765176
-[22Jul2024 01:32:44.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2563869648411082
-[22Jul2024 01:32:45.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -4.321757832351977,9.149949081939866,1.6710688680173007
-[22Jul2024 01:32:48.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7827906102526051
-[22Jul2024 01:32:50.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828395405805479
-[22Jul2024 01:32:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8292292650812247
-[22Jul2024 01:32:53.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4100474339605719
-[22Jul2024 01:32:54.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8050379785142788
-[22Jul2024 01:32:56.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7936249418936655
-[22Jul2024 01:32:58.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6433558828650819
-[22Jul2024 01:32:58.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.716316045330794
-[22Jul2024 01:33:00.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7555656802911391
-[22Jul2024 01:33:02.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8225410515856849
-[22Jul2024 01:33:02.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8261111099634276
-[22Jul2024 01:33:05.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830440061987214
-[22Jul2024 01:33:06.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305058691254521
-[22Jul2024 01:33:08.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084456092113
-[22Jul2024 01:33:08.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084767105998
-[22Jul2024 01:33:09.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084861877242
-[22Jul2024 01:33:10.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084870202946
-[22Jul2024 01:33:11.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084871371082
-[22Jul2024 01:33:12.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303503901236549
-[22Jul2024 01:33:14.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304772032018699
-[22Jul2024 01:33:15.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304927198636022
-[22Jul2024 01:33:16.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302639434194281
-[22Jul2024 01:33:16.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303770454341657
-[22Jul2024 01:33:17.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304614024003741
-[22Jul2024 01:33:27.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.30084744517324125
-[22Jul2024 01:33:30.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8264834841521138
-[22Jul2024 01:33:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8188609987046521
-[22Jul2024 01:33:32.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7654922789341808
-[22Jul2024 01:33:32.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7654922789341808
-[22Jul2024 01:33:33.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8258450023549659
-[22Jul2024 01:33:36.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8246221122744491
-[22Jul2024 01:33:37.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8271857982806792
-[22Jul2024 01:34:01.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3870041816527851
-[22Jul2024 01:34:03.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8155680737714577
-[22Jul2024 01:34:18.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8247410217168162
-[22Jul2024 01:34:19.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8279644138341247
-[22Jul2024 01:34:19.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8282536328722145
-[22Jul2024 01:34:20.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301080668988795
-[22Jul2024 01:34:20.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304545234032497
-[22Jul2024 01:34:28.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -4.694348581881968,9.625304504571915,0.45553745829056425
-[22Jul2024 01:34:29.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8154843250746147
-[22Jul2024 01:34:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.319576263427734) to VERY_LOW (avg. 16.516529083251953)
-[22Jul2024 01:34:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Rotten to the Core]
-[22Jul2024 01:34:51.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303458279046516
-[22Jul2024 01:34:52.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304489128591077
-[22Jul2024 01:34:55.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084484935806
-[22Jul2024 01:34:56.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084787805305
-[22Jul2024 01:34:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803041173
-[22Jul2024 01:34:58.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803424461
-[22Jul2024 01:35:02.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:03.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:06.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -7.441473985250923,7.645247607511152,0.7026778328490764
-[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -8.268304428056581,8.502086763594605,0.7807531476100849
-[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -9.095134870862239,9.359818902240434,0.8588284623710933
-[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -9.921965313667897,10.218338651506286,0.9369037771321018
-[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -10.748795756473555,11.077553073339004,1.0149790918931103
-[22Jul2024 01:35:06.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -11.575626199279213,11.937380196375699,1.0930544066541188
-[22Jul2024 01:35:06.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:10.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:11.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:12.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.779531478881836) to LOW (avg. 26.340225219726562)
-[22Jul2024 01:35:14.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
-[22Jul2024 01:35:14.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8231669157948487
-[22Jul2024 01:35:15.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
-[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
-[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
-[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
-[22Jul2024 01:35:18.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8295150563829714
-[22Jul2024 01:35:20.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.340225219726562) to VERY_LOW (avg. 18.238492965698242)
-[22Jul2024 01:35:21.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305070054055534
-[22Jul2024 01:35:22.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084306353826
-[22Jul2024 01:35:24.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084798037039
-[22Jul2024 01:35:26.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803431728
-[22Jul2024 01:35:31.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4162804945898089
-[22Jul2024 01:35:33.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7710540736575365
-[22Jul2024 01:35:46.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
-[22Jul2024 01:35:46.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
-[22Jul2024 01:36:06.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
-[22Jul2024 01:36:06.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
-[22Jul2024 01:36:13.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5619155545234058
-[22Jul2024 01:36:13.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7832800983076534
-[22Jul2024 01:36:16.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.801438688651643
-[22Jul2024 01:36:17.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8238824758137591
-[22Jul2024 01:36:18.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8300305188603903
-[22Jul2024 01:36:19.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8157521145405066
-[22Jul2024 01:36:20.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8174021491950207
-[22Jul2024 01:36:20.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.644142150878906) to LOW (avg. 23.1761531829834)
-[22Jul2024 01:36:22.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8447853183342342
-[22Jul2024 01:36:22.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69575, l='ServerLevel[world]', x=3996.37, y=92.00, z=-3170.28] died, message: 'Unemployed suffocated in a wall'
-[22Jul2024 01:36:23.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.708652078649664
-[22Jul2024 01:36:26.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8239510447974953
-[22Jul2024 01:36:28.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302329025402485
-[22Jul2024 01:36:28.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304542245661947
-[22Jul2024 01:36:37.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2621106083242921
-[22Jul2024 01:36:40.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8199972660434878
-[22Jul2024 01:36:41.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.740940482158026
-[22Jul2024 01:36:41.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7994085984487246
-[22Jul2024 01:36:44.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304403606481707
-[22Jul2024 01:36:48.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084882317645
-[22Jul2024 01:36:50.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.881488800048828) to VERY_LOW (avg. 17.202003479003906)
-[22Jul2024 01:36:52.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084908395455
-[22Jul2024 01:36:54.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
-[22Jul2024 01:36:56.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
-[22Jul2024 01:36:56.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
-[22Jul2024 01:36:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
-[22Jul2024 01:36:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
-[22Jul2024 01:36:58.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8091603204040974
-[22Jul2024 01:36:59.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8066259820750654
-[22Jul2024 01:37:02.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8043713197509603
-[22Jul2024 01:37:02.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8160514553374638
-[22Jul2024 01:37:04.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7685240556620389
-[22Jul2024 01:37:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7757746848113004
-[22Jul2024 01:37:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.640867233276367) to LOW (avg. 24.50078582763672)
-[22Jul2024 01:37:18.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2606635136578694
-[22Jul2024 01:37:19.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7540190021186484
-[22Jul2024 01:37:20.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.821458019715752
-[22Jul2024 01:37:30.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.38692660510781585
-[22Jul2024 01:37:33.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8262512579545914
-[22Jul2024 01:37:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.93566131591797) to VERY_LOW (avg. 18.954204559326172)
-[22Jul2024 01:37:45.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8040852943217166
-[22Jul2024 01:37:46.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8261788821024876
-[22Jul2024 01:37:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304071515514511
-[22Jul2024 01:37:49.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305035098451395
-[22Jul2024 01:37:49.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305078997451084
-[22Jul2024 01:37:50.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.954204559326172) to LOW (avg. 23.977161407470703)
-[22Jul2024 01:37:51.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084804866696
-[22Jul2024 01:37:53.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084886671241
-[22Jul2024 01:37:55.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887277945
-[22Jul2024 01:37:56.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
-[22Jul2024 01:37:59.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
-[22Jul2024 01:38:00.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
-[22Jul2024 01:38:03.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294480750711355
-[22Jul2024 01:38:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305041849363385
-[22Jul2024 01:38:08.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828181175940299
-[22Jul2024 01:38:11.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8287370223561399
-[22Jul2024 01:38:12.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304214767676129
-[22Jul2024 01:38:14.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186697612325687
-[22Jul2024 01:38:15.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8453693445257381
-[22Jul2024 01:38:17.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.32791319587720424
-[22Jul2024 01:38:19.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7583921189342181
-[22Jul2024 01:38:20.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8134387009594952
-[22Jul2024 01:38:21.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8461865438379427
-[22Jul2024 01:38:23.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828676992223826
-[22Jul2024 01:38:24.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304448571289434
-[22Jul2024 01:38:32.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8121733447159875
-[22Jul2024 01:38:32.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8136742286544512
-[22Jul2024 01:38:32.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8170883999743936
-[22Jul2024 01:38:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.57745361328125) to VERY_LOW (avg. 18.158935546875)
-[22Jul2024 01:38:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8297978255275715
-[22Jul2024 01:38:39.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830507959637401
-[22Jul2024 01:38:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.158935546875) to LOW (avg. 23.61857795715332)
-[22Jul2024 01:38:43.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135260535
-[22Jul2024 01:38:47.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
-[22Jul2024 01:38:51.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
-[22Jul2024 01:38:54.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8348924310115484
-[22Jul2024 01:38:57.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.61857795715332) to VERY_LOW (avg. 14.757095336914062)
-[22Jul2024 01:38:58.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4856633140227348
-[22Jul2024 01:39:01.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8193553280693128
-[22Jul2024 01:39:02.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294747390878755
-[22Jul2024 01:39:05.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301865427607447
-[22Jul2024 01:39:11.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508473359694
-[22Jul2024 01:39:11.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508473359694
-[22Jul2024 01:39:19.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
-[22Jul2024 01:39:26.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
-[22Jul2024 01:39:30.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
-[22Jul2024 01:39:32.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3891717245803733
-[22Jul2024 01:39:43.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8157200927373386
-[22Jul2024 01:39:51.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8162987740809658
-[22Jul2024 01:39:52.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8466079314066052
-[22Jul2024 01:39:57.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8156769372734646
-[22Jul2024 01:39:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8215125297196216
-[22Jul2024 01:39:57.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.482683181762695) to LOW (avg. 21.061790466308594)
-[22Jul2024 01:39:58.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298214669940704
-[22Jul2024 01:39:59.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8300354030203173
-[22Jul2024 01:39:59.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302550591892828
-[22Jul2024 01:40:00.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305033230748176
-[22Jul2024 01:40:01.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305077241906528
-[22Jul2024 01:40:03.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085037914828
-[22Jul2024 01:40:05.414] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.061790466308594) to VERY_LOW (avg. 18.110071182250977)
-[22Jul2024 01:40:12.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7399878011874871
-[22Jul2024 01:40:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.110071182250977) to LOW (avg. 21.411741256713867)
-[22Jul2024 01:40:14.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294666331023374
-[22Jul2024 01:40:15.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304775057719066
-[22Jul2024 01:40:17.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305083822520412
-[22Jul2024 01:40:19.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085038841065
-[22Jul2024 01:40:21.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8208186901512929
-[22Jul2024 01:40:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8233259499090365
-[22Jul2024 01:40:21.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.825330440662801
-[22Jul2024 01:40:22.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303589249283596
-[22Jul2024 01:40:24.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830506655146034
-[22Jul2024 01:40:27.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085045727999
-[22Jul2024 01:40:27.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.411741256713867) to VERY_LOW (avg. 16.980241775512695)
-[22Jul2024 01:40:29.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508505831073
-[22Jul2024 01:40:31.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058448813
-[22Jul2024 01:40:33.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
-[22Jul2024 01:40:33.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
-[22Jul2024 01:40:35.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
-[22Jul2024 01:40:39.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3279124605453925
-[22Jul2024 01:40:41.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.82146726320059
-[22Jul2024 01:40:42.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.829676476405399
-[22Jul2024 01:40:44.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305042267927812
-[22Jul2024 01:40:45.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305083921377487
-[22Jul2024 01:40:46.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084310676475
-[22Jul2024 01:40:46.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508449795725
-[22Jul2024 01:40:49.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186706745519233
-[22Jul2024 01:40:49.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186706745519233
-[22Jul2024 01:40:50.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8242443964929759
-[22Jul2024 01:40:51.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:51.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:51.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
-[22Jul2024 01:40:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
-[22Jul2024 01:40:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
-[22Jul2024 01:40:52.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
-[22Jul2024 01:40:52.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
-[22Jul2024 01:40:53.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8204945001392284
-[22Jul2024 01:40:54.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8187498948693648
-[22Jul2024 01:40:56.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8369395551459113
-[22Jul2024 01:40:57.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8275796175082022
-[22Jul2024 01:40:58.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8297406557331535
-[22Jul2024 01:40:59.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304043513584667
-[22Jul2024 01:41:02.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8290910472431864
-[22Jul2024 01:41:03.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304372453857827
-[22Jul2024 01:41:05.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305078058804027
-[22Jul2024 01:41:06.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084610658885
-[22Jul2024 01:41:06.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084784162696
-[22Jul2024 01:41:08.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084903208667
-[22Jul2024 01:41:09.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084906643994
-[22Jul2024 01:41:10.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084907307577
-[22Jul2024 01:41:11.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490735768
-[22Jul2024 01:41:12.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298493358301537
-[22Jul2024 01:41:13.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7256388882248951
-[22Jul2024 01:41:14.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6355231595961559
-[22Jul2024 01:41:14.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.26057299580735166
-[22Jul2024 01:41:18.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3008757024874069
-[22Jul2024 01:41:20.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.45620386476809643
-[22Jul2024 01:41:20.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5253957209162012
-[22Jul2024 01:41:22.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4129662889530549
-[22Jul2024 01:41:40.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6579995556536729
-[22Jul2024 01:41:41.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7753146809249118
-[22Jul2024 01:41:42.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8175821116047801
-[22Jul2024 01:41:43.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4152632374071781
-[22Jul2024 01:42:29.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [An Ear-Shattering Roar]
-[22Jul2024 01:46:45.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5196938963732547
-[22Jul2024 01:46:46.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6908847722558755
-[22Jul2024 01:46:47.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2606472642380218
-[22Jul2024 01:46:47.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.39648038172087013
-[22Jul2024 01:46:48.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7494913155728224
-[22Jul2024 02:01:15.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 8996c83f-c6f6-496c-a66d-d3154f819479
-[22Jul2024 02:01:15.477] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 882 Y: 69 Z: -1276
-[22Jul2024 02:01:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
-[22Jul2024 02:01:15.487] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 02:01:21.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['narum0000'/84643, l='ServerLevel[world]', x=886.27, y=69.06, z=-1283.14] died: narum0000 was slain by Grave Guardian
-[22Jul2024 02:04:06.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/86314, l='ServerLevel[world]', x=130.91, y=104.00, z=-761.09] died, message: 'Unemployed bled to death'
-[22Jul2024 02:04:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Skeleton
-[22Jul2024 02:04:18.534] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
-[22Jul2024 02:10:40.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
-[22Jul2024 02:10:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
-[22Jul2024 02:10:56.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
-[22Jul2024 02:10:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
-[22Jul2024 02:11:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[22Jul2024 02:11:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[22Jul2024 02:11:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[22Jul2024 02:11:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22Jul2024 02:11:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22Jul2024 02:11:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22Jul2024 02:11:25.515] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.2.21.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+[22Jul2024 19:07:05.542] [main/INFO] [majruszlibrary/]: [majruszsdifficulty.json] Reloading configuration file took 6 milliseconds
+[22Jul2024 19:07:05.543] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
+[22Jul2024 19:07:06.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22Jul2024 19:07:06.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22Jul2024 19:07:06.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22Jul2024 19:07:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22Jul2024 19:07:06.088] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22Jul2024 19:07:06.128] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22Jul2024 19:07:06.222] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22Jul2024 19:07:06.223] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22Jul2024 19:07:06.223] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22Jul2024 19:07:06.224] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22Jul2024 19:07:06.250] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22Jul2024 19:07:06.261] [Server thread/INFO] [Puzzles Lib/]: Loading server config for universalenchants
+[22Jul2024 19:07:06.331] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficult factors EASY: 0.9, NORMAL: 1.0, PEACEFUL: 1.0 and HARD: 2.0
+[22Jul2024 19:07:06.332] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 1/3 - Server took about 18.068 sec to load ...
+[22Jul2024 19:07:06.433] [Server thread/INFO] [spark/]: Starting background profiler...
+[22Jul2024 19:07:06.773] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22Jul2024 19:07:07.731] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to HARD with a 2.0 factor.
+[22Jul2024 19:07:07.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22Jul2024 19:07:07.740] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
+[22Jul2024 19:07:09.394] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 89846 ms
+[22Jul2024 19:07:09.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.147s)! For help, type "help"
+[22Jul2024 19:07:09.436] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22Jul2024 19:07:09.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Max number of remote players is set to 20
+[22Jul2024 19:07:09.439] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 2/3 - Server took about 21.175 sec to starting (∆: 3.107 secs)...
+[22Jul2024 19:07:09.493] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[22Jul2024 19:07:09.495] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ⏲ Phase 3/3 - Server took about 21.23 sec to be available and ready to play (∆: 0.055 secs) ...
+[22Jul2024 19:07:09.495] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:overworld
+[22Jul2024 19:07:09.495] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:the_nether
+[22Jul2024 19:07:09.496] [Server thread/INFO] [APTweaks(Core)/]: Found dimension minecraft:the_end
+[22Jul2024 19:07:09.496] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22Jul2024 19:07:09.497] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22Jul2024 19:07:09.546] [Server thread/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Jul2024 19:07:11.331] [Server thread/WARN] [ModernFix/]: Dedicated server took 23.172 seconds to load
+[22Jul2024 19:07:12.447] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 50.0) to LOW (avg. 29.10893440246582)
+[22Jul2024 19:07:13.336] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 45.0) to LOW (avg. 16.27555367)
+[22Jul2024 19:07:13.337] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.09191927)
+[22Jul2024 19:07:13.338] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_end changed from NORMAL (avg. 45.0) to VERY_LOW (avg. 0.047250099999999996)
+[22Jul2024 19:07:18.257] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:949) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+[22Jul2024 19:07:18.259] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[22Jul2024 19:07:18.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.12 Target: 9.1.14
+[22Jul2024 19:07:18.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[22Jul2024 19:07:19.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA_OUTDATED Current: 20.1.9 Target: 20.2.13
+[22Jul2024 19:07:19.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[22Jul2024 19:07:19.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: OUTDATED Current: 5.1.4.269 Target: 5.1.4.312
+[22Jul2024 19:07:19.119] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[22Jul2024 19:07:19.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[22Jul2024 19:07:19.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22Jul2024 19:07:19.525] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.21 Target: 47.3.0
+[22Jul2024 19:07:19.526] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[22Jul2024 19:07:27.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.10893440246582) to VERY_LOW (avg. 1.9179933071136475)
+[22Jul2024 19:07:34.527] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.net.http.HttpTimeoutException: request timed out
+	at jdk.internal.net.http.HttpClientImpl.send(HttpClientImpl.java:949) ~[java.net.http:?]
+	at jdk.internal.net.http.HttpClientFacade.send(HttpClientFacade.java:133) ~[java.net.http:?]
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:139) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.2.21.jar%23258!/:?]
+[22Jul2024 19:07:34.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [workers] Starting version check at https://raw.githubusercontent.com/talhanation/workers/main/update.json
+[22Jul2024 19:07:34.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [workers] Found status: OUTDATED Current: 1.7.7 Target: 1.7.8
+[22Jul2024 19:07:34.570] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[22Jul2024 19:07:34.817] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA_OUTDATED Current: 1.0.2 Target: 1.0.3
+[22Jul2024 19:07:34.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[22Jul2024 19:07:35.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[22Jul2024 19:07:35.179] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[22Jul2024 19:07:35.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.6.6 Target: 8.6.7
+[22Jul2024 19:07:35.198] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalenchants] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/universalenchants.json
+[22Jul2024 19:07:35.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [universalenchants] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[22Jul2024 19:07:35.217] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Starting version check at https://updates.blamejared.com/get?n=AmbientEnvironment&gv=1.20.1
+[22Jul2024 19:07:35.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [ambientenvironment] Found status: BETA Current: 11.0.0.1 Target: 11.0.0.1
+[22Jul2024 19:07:35.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[22Jul2024 19:07:35.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.20 Target: 8.1.21
+[22Jul2024 19:07:35.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterburning] Starting version check at https://updates.blamejared.com/get?n=betterburning&gv=1.20.1
+[22Jul2024 19:07:35.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterburning] Found status: BETA Current: 9.0.2 Target: 9.0.2
+[22Jul2024 19:07:35.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[22Jul2024 19:07:35.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[22Jul2024 19:09:47.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:42755] logged in with entity id 925 at (1003.3000000119209, 69.0, -1267.828874529106)
+[22Jul2024 19:09:47.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[22Jul2024 19:09:47.401] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[22Jul2024 19:09:49.589] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 1.4232362508773804) to LOW (avg. 26.175432205200195)
+[22Jul2024 19:10:12.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.248903274536133) to VERY_LOW (avg. 16.443876266479492)
+[22Jul2024 19:11:12.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.540225982666016) to LOW (avg. 21.388839721679688)
+[22Jul2024 19:11:27.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.388839721679688) to VERY_LOW (avg. 17.503019332885742)
+[22Jul2024 19:12:19.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.214576721191406) to LOW (avg. 30.277271270751953)
+[22Jul2024 19:12:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.277271270751953) to VERY_LOW (avg. 19.817211151123047)
+[22Jul2024 19:15:04.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.459081649780273) to LOW (avg. 20.4293212890625)
+[22Jul2024 19:15:19.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.4293212890625) to VERY_LOW (avg. 18.42703628540039)
+[22Jul2024 19:17:34.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.508447647094727) to LOW (avg. 20.276514053344727)
+[22Jul2024 19:17:49.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.276514053344727) to VERY_LOW (avg. 18.282739639282227)
+[22Jul2024 19:21:19.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.073741912841797) to LOW (avg. 22.32929229736328)
+[22Jul2024 19:21:42.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.431167602539062) to VERY_LOW (avg. 17.12931251525879)
+[22Jul2024 19:23:34.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.42916488647461) to LOW (avg. 20.49607276916504)
+[22Jul2024 19:23:49.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.49607276916504) to VERY_LOW (avg. 18.324419021606445)
+[22Jul2024 19:24:19.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.022525787353516) to LOW (avg. 20.447683334350586)
+[22Jul2024 19:24:27.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.447683334350586) to VERY_LOW (avg. 19.88797378540039)
+[22Jul2024 19:24:42.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.88797378540039) to LOW (avg. 25.229896545410156)
+[22Jul2024 19:24:57.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.229896545410156) to VERY_LOW (avg. 19.024215698242188)
+[22Jul2024 19:25:05.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID afdc0933-918f-4490-9f98-51f84f195ab2
+[22Jul2024 19:25:05.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3417 Y: 75 Z: -2732
+[22Jul2024 19:25:05.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Husk
+[22Jul2024 19:25:05.260] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 19:25:15.501] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['hvice'/9794, l='ServerLevel[world]', x=3418.70, y=75.23, z=-2729.87] died: hvice was shot by hvice
+[22Jul2024 19:26:19.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.08553123474121) to LOW (avg. 20.475984573364258)
+[22Jul2024 19:26:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.475984573364258) to VERY_LOW (avg. 19.375511169433594)
+[22Jul2024 19:26:42.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.375511169433594) to LOW (avg. 20.29122543334961)
+[22Jul2024 19:26:57.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.29122543334961) to VERY_LOW (avg. 18.359798431396484)
+[22Jul2024 19:27:04.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.359798431396484) to LOW (avg. 21.991817474365234)
+[22Jul2024 19:27:12.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.991817474365234) to VERY_LOW (avg. 19.67002296447754)
+[22Jul2024 19:27:51.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[22Jul2024 19:27:51.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[22Jul2024 19:28:37.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:54157] logged in with entity id 11175 at (3418.320116601781, 98.0, -2746.9424230131185)
+[22Jul2024 19:28:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[22Jul2024 19:28:37.674] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[22Jul2024 19:29:42.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.423755645751953) to LOW (avg. 22.09994888305664)
+[22Jul2024 19:29:57.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.09994888305664) to VERY_LOW (avg. 15.582406044006348)
+[22Jul2024 19:32:19.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.592527389526367) to LOW (avg. 20.829933166503906)
+[22Jul2024 19:32:34.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.829933166503906) to VERY_LOW (avg. 16.103456497192383)
+[22Jul2024 19:33:19.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.666961669921875) to LOW (avg. 20.670082092285156)
+[22Jul2024 19:33:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.670082092285156) to VERY_LOW (avg. 18.589752197265625)
+[22Jul2024 19:37:34.500] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 0b56c475-e50f-4ef0-bc73-780a6051302c
+[22Jul2024 19:37:34.500] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3653 Y: 113 Z: -2948
+[22Jul2024 19:37:34.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 19:37:34.512] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 19:38:12.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.200517654418945) to LOW (avg. 20.45871353149414)
+[22Jul2024 19:38:34.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.202957153320312) to VERY_LOW (avg. 18.412586212158203)
+[22Jul2024 19:40:29.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[22Jul2024 19:40:29.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[22Jul2024 19:43:04.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:36407] logged in with entity id 15600 at (3630.9570543878162, 104.0, -3017.4678250109428)
+[22Jul2024 19:43:04.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[22Jul2024 19:43:04.345] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[22Jul2024 19:43:04.585] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 2.0845699310302734) to LOW (avg. 20.728639602661133)
+[22Jul2024 19:43:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.799694061279297) to VERY_LOW (avg. 13.001293182373047)
+[22Jul2024 19:50:07.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved wrongly!
+[22Jul2024 19:50:57.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.32305335998535) to LOW (avg. 20.423099517822266)
+[22Jul2024 19:51:11.604] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 6dc87aea-f566-411a-a85f-6307c4b01f4c
+[22Jul2024 19:51:11.604] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3413 Y: 104 Z: -3299
+[22Jul2024 19:51:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
+[22Jul2024 19:51:11.615] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 19:51:12.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.423099517822266) to VERY_LOW (avg. 17.974559783935547)
