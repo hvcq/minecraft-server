@@ -449,3 +449,26 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [22Jul2024 01:46:47.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2606472642380218
 [22Jul2024 01:46:47.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.39648038172087013
 [22Jul2024 01:46:48.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7494913155728224
+[22Jul2024 02:01:15.475] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 8996c83f-c6f6-496c-a66d-d3154f819479
+[22Jul2024 02:01:15.477] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 882 Y: 69 Z: -1276
+[22Jul2024 02:01:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
+[22Jul2024 02:01:15.487] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[22Jul2024 02:01:21.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['narum0000'/84643, l='ServerLevel[world]', x=886.27, y=69.06, z=-1283.14] died: narum0000 was slain by Grave Guardian
+[22Jul2024 02:04:06.416] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/86314, l='ServerLevel[world]', x=130.91, y=104.00, z=-761.09] died, message: 'Unemployed bled to death'
+[22Jul2024 02:04:18.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was shot by Skeleton
+[22Jul2024 02:04:18.534] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[22Jul2024 02:10:40.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[22Jul2024 02:10:40.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[22Jul2024 02:10:56.614] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[22Jul2024 02:10:56.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[22Jul2024 02:11:24.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jul2024 02:11:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jul2024 02:11:24.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jul2024 02:11:25.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jul2024 02:11:25.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jul2024 02:11:25.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jul2024 02:11:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jul2024 02:11:25.515] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
