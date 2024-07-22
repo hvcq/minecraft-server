@@ -5590,3 +5590,359 @@ java.net.http.HttpTimeoutException: request timed out
 [21Jul2024 23:31:50.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=651, y=118, z=-437} BlockPos{x=654, y=118, z=-437}
 [21Jul2024 23:31:50.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=651, y=118, z=-437} BlockPos{x=655, y=118, z=-437}
 [21Jul2024 23:31:52.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=117, z=-437} BlockPos{x=658, y=117, z=-437}
+[21Jul2024 23:35:04.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 23:35:04.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 23:35:06.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Those Were the Days]
+[21Jul2024 23:35:52.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Those Were the Days]
+[21Jul2024 23:36:38.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [War Pigs]
+[21Jul2024 23:39:16.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has reached the goal [A little cleaning is necessary]
+[21Jul2024 23:40:04.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 23:40:04.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 23:40:59.817] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 5c357e48-7d50-4068-bb49-3a78b85b5397
+[21Jul2024 23:40:59.820] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 748 Y: 68 Z: -437
+[21Jul2024 23:40:59.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
+[21Jul2024 23:40:59.822] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:748, y:68, z:-438, dim:minecraft:the_nether]
+[21Jul2024 23:40:59.825] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[21Jul2024 23:41:02.765] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[21Jul2024 23:41:02.841] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[21Jul2024 23:41:26.121] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID efe5301f-06bb-495e-9769-ffcafaed57cc
+[21Jul2024 23:41:26.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 744 Y: 73 Z: -436
+[21Jul2024 23:41:26.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[21Jul2024 23:41:26.126] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:744, y:73, z:-437, dim:minecraft:the_nether]
+[21Jul2024 23:41:26.128] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:41:26.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['narum0000'/18631, l='ServerLevel[world]', x=742.35, y=72.68, z=-432.45] died: narum0000 was burnt to a crisp whilst fighting hvice
+[21Jul2024 23:41:28.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.03795051574707) to LOW (avg. 30.192272186279297)
+[21Jul2024 23:41:29.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/19063, l='ServerLevel[world]', x=739.47, y=73.00, z=-438.98] died: hvice was slain by narum0000
+[21Jul2024 23:41:30.124] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 4b525417-0921-4c2e-9f7d-15cb137391ec
+[21Jul2024 23:41:30.127] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 740 Y: 73 Z: -440
+[21Jul2024 23:41:30.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was slain by Zombie
+[21Jul2024 23:41:30.129] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:740, y:73, z:-441, dim:minecraft:the_nether]
+[21Jul2024 23:41:30.134] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[21Jul2024 23:41:36.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.192272186279297) to VERY_LOW (avg. 16.329017639160156)
+[21Jul2024 23:41:47.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['narum0000'/19794, l='ServerLevel[world]', x=736.52, y=72.54, z=-438.54] died: narum0000 was burnt to a crisp whilst fighting hvice
+[21Jul2024 23:43:07.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 0fa5a286-09e3-48b1-9ab0-284b99c7dced
+[21Jul2024 23:43:07.319] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 747 Y: 73 Z: -432
+[21Jul2024 23:43:07.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Stray
+[21Jul2024 23:43:07.322] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:745, y:72, z:-436, dim:minecraft:the_nether]
+[21Jul2024 23:43:07.324] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:43:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[21Jul2024 23:43:59.563] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:745, y:67, z:-434, dim:minecraft:the_nether]
+[21Jul2024 23:43:59.577] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:44:06.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.56961727142334) to LOW (avg. 20.335975646972656)
+[21Jul2024 23:44:13.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.335975646972656) to VERY_LOW (avg. 12.541299819946289)
+[21Jul2024 23:44:32.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [It's not time to tan]
+[21Jul2024 23:45:04.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 23:45:04.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 23:45:07.115] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/21563, l='ServerLevel[world]', x=749.47, y=65.00, z=-435.20] died: hvice was shot by narum0000
+[21Jul2024 23:49:12.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has reached the goal [Powder Snow Walk]
+[21Jul2024 23:50:04.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 23:50:04.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 23:50:14.512] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 60e4d04f-dfb5-49a8-b810-e88d81f4c7c7
+[21Jul2024 23:50:14.513] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 744 Y: 33 Z: -414
+[21Jul2024 23:50:14.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Piglin Brute
+[21Jul2024 23:50:14.515] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:744, y:33, z:-415, dim:minecraft:the_nether]
+[21Jul2024 23:50:14.522] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:51:38.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Who is Cutting Onions?]
+[21Jul2024 23:55:04.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2024 23:55:04.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2024 23:57:24.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:24.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:24.710] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:24.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:24.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:25.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:57:26.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:26.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:27.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:28.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:28.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:28.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:30.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:30.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:30.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:30.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:30.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:31.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:32.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:32.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:32.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:34.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:34.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.412] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.513] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:35.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:37.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.111] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.611] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:38.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.011] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.211] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.411] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:39.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:58:40.962] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 6146c122-69bc-411a-a6b7-c6740661eb73
+[21Jul2024 23:58:40.964] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 750 Y: 36 Z: -398
+[21Jul2024 23:58:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Piglin Brute
+[21Jul2024 23:58:40.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:754, y:36, z:-399, dim:minecraft:the_nether]
+[21Jul2024 23:58:40.972] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:58:43.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 8.910099029541016) to LOW (avg. 21.855606079101562)
+[21Jul2024 23:58:47.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Piglin Brute
+[21Jul2024 23:58:47.324] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[21Jul2024 23:58:51.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.855606079101562) to VERY_LOW (avg. 18.236852645874023)
+[21Jul2024 23:59:09.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:09.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:09.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:09.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:09.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:09.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:10.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:13.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.215] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.314] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.716] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:14.814] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:16.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:16.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.115] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.217] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.416] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.615] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.717] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.816] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:17.917] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.016] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.116] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.216] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.415] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.815] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:18.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.015] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.214] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:19.517] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:33.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:33.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:33.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:33.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.414] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:34.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:36.612] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:36.713] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:36.812] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:36.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.012] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.714] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:37.914] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.212] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.313] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.413] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.512] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.813] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:38.912] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:39.013] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jul2024 23:59:39.112] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Jul2024 00:00:04.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2024 00:00:04.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2024 00:05:04.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2024 00:05:04.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2024 00:07:48.423] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[22Jul2024 00:07:48.423] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[22Jul2024 00:07:48.423] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[22Jul2024 00:07:48.423] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[22Jul2024 00:07:48.423] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[22Jul2024 00:07:48.424] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/core_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/topology/physical_package_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu4/cpu_capacity
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/core_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/topology/physical_package_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu5/cpu_capacity
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[22Jul2024 00:07:48.425] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/core_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/topology/physical_package_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu6/cpu_capacity
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/core_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/topology/physical_package_id
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu7/cpu_capacity
+[22Jul2024 00:07:48.426] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[22Jul2024 00:07:48.643] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[22Jul2024 00:07:48.644] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@6042d663
+[22Jul2024 00:07:48.648] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@2f92e0f4
+[22Jul2024 00:07:48.730] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[22Jul2024 00:07:48.731] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[22Jul2024 00:07:48.735] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Exception loading entity: 
+net.minecraft.ReportedException: Loading entity NBT
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1765) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.EntityType.m_185988_(EntityType.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.Util.m_137521_(Util.java:419) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.EntityType.m_20642_(EntityType.java:529) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.EntityType.m_20669_(EntityType.java:607) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.EntityType.m_20645_(EntityType.java:563) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.world.entity.EntityType$1.m_147056_(EntityType.java:584) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1950) ~[?:?]
+	at net.minecraft.world.entity.EntityType$1.tryAdvance(EntityType.java:583) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:921) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_223456_(EntityStorage.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalStateException: Entity has invalid position
+	at net.minecraft.world.entity.Entity.m_20258_(Entity.java:1759) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?]
+	... 33 more
+[22Jul2024 00:10:04.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2024 00:10:04.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2024 00:15:04.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2024 00:15:04.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2024 00:19:12.317] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID f8703a59-3545-4786-a333-7055a8e3953f
+[22Jul2024 00:19:12.318] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 837 Y: 26 Z: -445
+[22Jul2024 00:19:12.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 blew up
+[22Jul2024 00:19:12.320] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:836, y:26, z:-445, dim:minecraft:the_nether]
+[22Jul2024 00:19:12.328] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved

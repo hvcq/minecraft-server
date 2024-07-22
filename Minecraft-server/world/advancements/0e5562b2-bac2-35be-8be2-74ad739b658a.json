@@ -586,6 +586,7 @@
       "potato": "2024-05-18 00:56:19 -0400",
       "bread": "2024-04-02 23:12:41 -0300",
       "golden_apple": "2024-04-06 01:15:55 -0300",
+      "golden_carrot": "2024-07-21 23:50:17 -0400",
       "cooked_rabbit": "2024-04-02 23:52:00 -0300",
       "cooked_chicken": "2024-06-30 00:41:28 -0400"
     },
@@ -1612,10 +1613,12 @@
       "minecraft:pillager": "2024-04-07 22:54:56 -0400",
       "minecraft:blaze": "2024-06-08 01:27:20 -0400",
       "minecraft:skeleton": "2024-04-05 22:58:16 -0300",
+      "minecraft:ghast": "2024-07-21 23:45:26 -0400",
       "minecraft:guardian": "2024-07-05 23:39:41 -0400",
       "minecraft:vindicator": "2024-06-14 01:11:21 -0400",
       "minecraft:magma_cube": "2024-07-21 23:14:30 -0400",
       "minecraft:spider": "2024-04-05 22:58:44 -0300",
+      "minecraft:piglin_brute": "2024-07-21 23:41:51 -0400",
       "minecraft:creeper": "2024-05-19 01:48:09 -0400",
       "minecraft:slime": "2024-05-17 22:15:02 -0400",
       "minecraft:phantom": "2024-06-29 21:58:44 -0400",
@@ -1624,6 +1627,7 @@
       "minecraft:wither_skeleton": "2024-06-04 02:33:29 -0400",
       "minecraft:husk": "2024-06-04 01:44:28 -0400",
       "minecraft:cave_spider": "2024-04-05 22:48:31 -0300",
+      "minecraft:piglin": "2024-07-21 23:35:34 -0400",
       "minecraft:enderman": "2024-05-18 01:04:34 -0400",
       "minecraft:silverfish": "2024-05-19 00:50:45 -0400",
       "minecraft:stray": "2024-06-04 02:27:05 -0400",
@@ -4595,6 +4599,7 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
+      "has_prevent_burn": "2024-07-21 23:44:32 -0400",
       "has_prevent_lightning": "2024-06-04 01:45:48 -0400",
       "has_prevent_fall": "2024-06-13 01:37:23 -0400"
     },
@@ -5837,6 +5842,102 @@
   "tombstone:adventure/impregnator": {
     "criteria": {
       "coded_trigger": "2024-07-15 00:42:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-07-21 23:51:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-07-21 23:51:38 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_frost_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-07-21 23:49:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2024-07-21 23:44:32 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-07-21 23:51:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-07-21 23:37:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2024-07-21 23:39:16 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-07-21 23:35:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-07-21 23:37:53 -0400"
     },
     "done": true
   },

@@ -467,6 +467,7 @@
       "cooked_cod": "2024-05-30 22:40:44 -0400",
       "bread": "2024-04-03 00:06:46 -0300",
       "golden_apple": "2024-04-05 23:22:29 -0300",
+      "golden_carrot": "2024-07-21 23:49:06 -0400",
       "cod": "2024-06-03 22:41:55 -0400",
       "cooked_salmon": "2024-05-31 00:52:14 -0400",
       "carrot": "2024-06-12 22:50:01 -0400"
@@ -1393,6 +1394,7 @@
       "minecraft:vindicator": "2024-06-02 02:05:24 -0400",
       "minecraft:magma_cube": "2024-07-17 21:54:02 -0400",
       "minecraft:spider": "2024-04-05 22:56:54 -0300",
+      "minecraft:piglin_brute": "2024-07-21 23:36:26 -0400",
       "minecraft:creeper": "2024-04-05 22:56:55 -0300",
       "minecraft:wither": "2024-06-13 23:22:08 -0400",
       "minecraft:evoker": "2024-06-02 02:09:25 -0400",
@@ -6286,6 +6288,96 @@
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2024-07-17 21:54:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-07-21 23:37:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-07-21 23:45:34 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2024-07-22 00:15:01 -0400"
+    },
+    "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-07-21 23:36:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-07-21 23:45:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-07-21 23:45:35 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-07-21 23:35:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-07-21 23:45:34 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-07-21 23:43:53 -0400"
     },
     "done": true
   },
