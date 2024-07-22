@@ -1614,6 +1614,7 @@
       "minecraft:skeleton": "2024-04-05 22:58:16 -0300",
       "minecraft:guardian": "2024-07-05 23:39:41 -0400",
       "minecraft:vindicator": "2024-06-14 01:11:21 -0400",
+      "minecraft:magma_cube": "2024-07-21 23:14:30 -0400",
       "minecraft:spider": "2024-04-05 22:58:44 -0300",
       "minecraft:creeper": "2024-05-19 01:48:09 -0400",
       "minecraft:slime": "2024-05-17 22:15:02 -0400",
@@ -4621,7 +4622,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-06-04 01:58:02 -0400",
       "minecraft:nether_wastes": "2024-06-08 01:24:18 -0400",
-      "minecraft:soul_sand_valley": "2024-06-08 02:24:01 -0400"
+      "minecraft:soul_sand_valley": "2024-06-08 02:24:01 -0400",
+      "minecraft:warped_forest": "2024-07-21 23:08:35 -0400"
     },
     "done": false
   },
