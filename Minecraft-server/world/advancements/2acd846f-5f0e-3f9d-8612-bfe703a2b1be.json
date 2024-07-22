@@ -29,6 +29,7 @@
       "minecraft:sunflower_plains": "2024-04-03 00:12:40 -0300",
       "minecraft:birch_forest": "2024-04-05 23:39:15 -0300",
       "minecraft:bamboo_jungle": "2024-06-02 01:18:39 -0400",
+      "minecraft:savanna_plateau": "2024-07-22 01:34:27 -0400",
       "minecraft:beach": "2024-04-03 00:01:20 -0300",
       "minecraft:dark_forest": "2024-06-02 00:45:06 -0400",
       "minecraft:sparse_jungle": "2024-04-06 00:03:03 -0300",
@@ -6558,6 +6559,66 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-07-22 00:15:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-07-22 01:07:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-07-22 01:07:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-22 01:12:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2024-07-22 01:12:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-07-22 01:14:10 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2024-07-22 01:29:13 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-07-22 01:47:22 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2024-07-22 01:42:29 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-07-22 01:47:22 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_amphithere": {
+    "criteria": {
+      "tame_rat": "2024-07-22 01:30:21 -0400"
     },
     "done": true
   },

@@ -27,6 +27,7 @@
       "minecraft:cherry_grove": "2024-04-02 22:59:02 -0300",
       "minecraft:sunflower_plains": "2024-04-02 23:33:26 -0300",
       "minecraft:birch_forest": "2024-04-05 23:39:09 -0300",
+      "minecraft:bamboo_jungle": "2024-07-22 01:10:30 -0400",
       "minecraft:beach": "2024-04-02 23:51:06 -0300",
       "minecraft:dark_forest": "2024-06-05 00:03:02 -0400",
       "minecraft:sparse_jungle": "2024-04-06 00:01:30 -0300",
@@ -5881,6 +5882,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-22 01:12:57 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2024-07-22 00:18:50 -0400"
@@ -5917,6 +5924,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2024-07-22 01:34:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-07-22 00:09:01 -0400"
@@ -5935,6 +5948,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2024-07-22 01:06:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2024-07-22 00:18:50 -0400"
@@ -5947,9 +5966,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-07-22 01:17:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-07-22 00:18:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-22 01:12:57 -0400"
     },
     "done": true
   },
@@ -6031,9 +6062,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-22 01:17:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-22 01:17:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-07-21 23:37:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-22 01:17:17 -0400"
     },
     "done": true
   },

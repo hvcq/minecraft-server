@@ -129,3 +129,323 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [22Jul2024 00:52:59.156] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 20.23523953) to VERY_LOW (avg. 5.6232491)
 [22Jul2024 00:53:05.428] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 149.05853271484375) to VERY_LOW (avg. 10.359601974487305)
 [22Jul2024 00:57:21.656] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from VERY_LOW (avg. 14.96248528) to LOW (avg. 15.67112127)
+[22Jul2024 01:16:33.022] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 3c63798e-adbc-4c8e-bfa1-9d0c7dea1411
+[22Jul2024 01:16:33.024] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 6728 Y: 87 Z: -3326
+[22Jul2024 01:16:33.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
+[22Jul2024 01:16:33.031] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 01:16:35.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.538192749023438) to LOW (avg. 27.02633285522461)
+[22Jul2024 01:16:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.02633285522461) to VERY_LOW (avg. 17.178264617919922)
+[22Jul2024 01:16:50.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved too quickly! 5723.173470748948,20.099999999999994,-2053.368063045101
+[22Jul2024 01:17:34.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Gone Bananas!]
+[22Jul2024 01:26:25.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[22Jul2024 01:26:25.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[22Jul2024 01:28:41.712] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.3.48.192:44359] logged in with entity id 60322 at (6921.262422813742, 117.0, -3423.142721929901)
+[22Jul2024 01:28:41.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[22Jul2024 01:28:41.769] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[22Jul2024 01:29:13.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Dragon Growth Hormone]
+[22Jul2024 01:29:29.618] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID eb4f10c5-6d92-4873-9bb5-bf585b588b0a
+[22Jul2024 01:29:29.619] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 6921 Y: 94 Z: -3423
+[22Jul2024 01:29:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Amphithere
+[22Jul2024 01:29:29.628] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 01:30:21.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Jungle Fliers]
+[22Jul2024 01:30:27.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6627381268260536
+[22Jul2024 01:30:28.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3569557910161217
+[22Jul2024 01:30:31.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4030864804927138
+[22Jul2024 01:30:50.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.41614421255737205
+[22Jul2024 01:30:52.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5421670410090704
+[22Jul2024 01:31:04.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3329576575753241
+[22Jul2024 01:31:16.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4499831120373191
+[22Jul2024 01:31:18.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8254717707795065
+[22Jul2024 01:31:18.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8277997878001438
+[22Jul2024 01:31:20.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.681967038428787
+[22Jul2024 01:31:21.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7932483947201079
+[22Jul2024 01:31:22.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.28298240485739506
+[22Jul2024 01:31:24.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7071841985057878
+[22Jul2024 01:31:24.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7717967634492922
+[22Jul2024 01:31:26.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4371240657251791
+[22Jul2024 01:31:26.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6663110812161277
+[22Jul2024 01:31:27.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8230443451731126
+[22Jul2024 01:31:28.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8289679883215348
+[22Jul2024 01:31:29.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8229060394379272
+[22Jul2024 01:31:30.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8034594834061581
+[22Jul2024 01:31:32.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6382312726969449
+[22Jul2024 01:31:35.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6696068876173534
+[22Jul2024 01:31:35.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.38721810625853614
+[22Jul2024 01:31:37.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4395269222565195
+[22Jul2024 01:31:49.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3872187443865879
+[22Jul2024 01:31:49.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5262466359812695
+[22Jul2024 01:31:49.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5262466359812695
+[22Jul2024 01:31:53.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7637151114254863
+[22Jul2024 01:31:54.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7708341944136261
+[22Jul2024 01:31:54.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7822140732157145
+[22Jul2024 01:31:57.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.778076284739909
+[22Jul2024 01:31:59.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298822602930674
+[22Jul2024 01:32:00.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830339298566568
+[22Jul2024 01:32:00.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304455083129326
+[22Jul2024 01:32:02.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305070492288167
+[22Jul2024 01:32:06.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7685775050187509
+[22Jul2024 01:32:08.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303383567770624
+[22Jul2024 01:32:08.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304461891272595
+[22Jul2024 01:32:09.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8222711433089326
+[22Jul2024 01:32:10.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8287005717141439
+[22Jul2024 01:32:14.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7442332734605283
+[22Jul2024 01:32:15.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7898910073617591
+[22Jul2024 01:32:16.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294421791988518
+[22Jul2024 01:32:17.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301297936257854
+[22Jul2024 01:32:30.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 moved too quickly! -6823.283400395839,-42.0,3212.3371811454444
+[22Jul2024 01:32:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.51304054260254) to LOW (avg. 20.05564308166504)
+[22Jul2024 01:32:40.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3469693041264244
+[22Jul2024 01:32:42.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8106956273765176
+[22Jul2024 01:32:44.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2563869648411082
+[22Jul2024 01:32:45.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -4.321757832351977,9.149949081939866,1.6710688680173007
+[22Jul2024 01:32:48.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7827906102526051
+[22Jul2024 01:32:50.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828395405805479
+[22Jul2024 01:32:50.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8292292650812247
+[22Jul2024 01:32:53.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4100474339605719
+[22Jul2024 01:32:54.552] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8050379785142788
+[22Jul2024 01:32:56.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7936249418936655
+[22Jul2024 01:32:58.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6433558828650819
+[22Jul2024 01:32:58.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.716316045330794
+[22Jul2024 01:33:00.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7555656802911391
+[22Jul2024 01:33:02.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8225410515856849
+[22Jul2024 01:33:02.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8261111099634276
+[22Jul2024 01:33:05.279] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830440061987214
+[22Jul2024 01:33:06.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305058691254521
+[22Jul2024 01:33:08.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084456092113
+[22Jul2024 01:33:08.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084767105998
+[22Jul2024 01:33:09.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084861877242
+[22Jul2024 01:33:10.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084870202946
+[22Jul2024 01:33:11.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084871371082
+[22Jul2024 01:33:12.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303503901236549
+[22Jul2024 01:33:14.288] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304772032018699
+[22Jul2024 01:33:15.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304927198636022
+[22Jul2024 01:33:16.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302639434194281
+[22Jul2024 01:33:16.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303770454341657
+[22Jul2024 01:33:17.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304614024003741
+[22Jul2024 01:33:27.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.30084744517324125
+[22Jul2024 01:33:30.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8264834841521138
+[22Jul2024 01:33:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8188609987046521
+[22Jul2024 01:33:32.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7654922789341808
+[22Jul2024 01:33:32.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7654922789341808
+[22Jul2024 01:33:33.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8258450023549659
+[22Jul2024 01:33:36.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8246221122744491
+[22Jul2024 01:33:37.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8271857982806792
+[22Jul2024 01:34:01.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3870041816527851
+[22Jul2024 01:34:03.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8155680737714577
+[22Jul2024 01:34:18.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8247410217168162
+[22Jul2024 01:34:19.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8279644138341247
+[22Jul2024 01:34:19.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8282536328722145
+[22Jul2024 01:34:20.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301080668988795
+[22Jul2024 01:34:20.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304545234032497
+[22Jul2024 01:34:28.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -4.694348581881968,9.625304504571915,0.45553745829056425
+[22Jul2024 01:34:29.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8154843250746147
+[22Jul2024 01:34:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.319576263427734) to VERY_LOW (avg. 16.516529083251953)
+[22Jul2024 01:34:47.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 has made the advancement [Rotten to the Core]
+[22Jul2024 01:34:51.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303458279046516
+[22Jul2024 01:34:52.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304489128591077
+[22Jul2024 01:34:55.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084484935806
+[22Jul2024 01:34:56.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084787805305
+[22Jul2024 01:34:57.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803041173
+[22Jul2024 01:34:58.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803424461
+[22Jul2024 01:35:02.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:03.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:06.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -7.441473985250923,7.645247607511152,0.7026778328490764
+[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -8.268304428056581,8.502086763594605,0.7807531476100849
+[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -9.095134870862239,9.359818902240434,0.8588284623710933
+[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -9.921965313667897,10.218338651506286,0.9369037771321018
+[22Jul2024 01:35:06.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -10.748795756473555,11.077553073339004,1.0149790918931103
+[22Jul2024 01:35:06.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved too quickly! -11.575626199279213,11.937380196375699,1.0930544066541188
+[22Jul2024 01:35:06.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:10.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:11.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:12.788] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.779531478881836) to LOW (avg. 26.340225219726562)
+[22Jul2024 01:35:14.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803451626
+[22Jul2024 01:35:14.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8231669157948487
+[22Jul2024 01:35:15.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
+[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
+[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
+[22Jul2024 01:35:15.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8362356553436633
+[22Jul2024 01:35:18.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8295150563829714
+[22Jul2024 01:35:20.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.340225219726562) to VERY_LOW (avg. 18.238492965698242)
+[22Jul2024 01:35:21.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305070054055534
+[22Jul2024 01:35:22.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084306353826
+[22Jul2024 01:35:24.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084798037039
+[22Jul2024 01:35:26.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084803431728
+[22Jul2024 01:35:31.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4162804945898089
+[22Jul2024 01:35:33.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7710540736575365
+[22Jul2024 01:35:46.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
+[22Jul2024 01:35:46.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
+[22Jul2024 01:36:06.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
+[22Jul2024 01:36:06.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085260053673
+[22Jul2024 01:36:13.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5619155545234058
+[22Jul2024 01:36:13.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7832800983076534
+[22Jul2024 01:36:16.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.801438688651643
+[22Jul2024 01:36:17.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8238824758137591
+[22Jul2024 01:36:18.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8300305188603903
+[22Jul2024 01:36:19.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8157521145405066
+[22Jul2024 01:36:20.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8174021491950207
+[22Jul2024 01:36:20.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.644142150878906) to LOW (avg. 23.1761531829834)
+[22Jul2024 01:36:22.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8447853183342342
+[22Jul2024 01:36:22.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69575, l='ServerLevel[world]', x=3996.37, y=92.00, z=-3170.28] died, message: 'Unemployed suffocated in a wall'
+[22Jul2024 01:36:23.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.708652078649664
+[22Jul2024 01:36:26.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8239510447974953
+[22Jul2024 01:36:28.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302329025402485
+[22Jul2024 01:36:28.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304542245661947
+[22Jul2024 01:36:37.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2621106083242921
+[22Jul2024 01:36:40.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8199972660434878
+[22Jul2024 01:36:41.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.740940482158026
+[22Jul2024 01:36:41.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7994085984487246
+[22Jul2024 01:36:44.436] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304403606481707
+[22Jul2024 01:36:48.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084882317645
+[22Jul2024 01:36:50.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.881488800048828) to VERY_LOW (avg. 17.202003479003906)
+[22Jul2024 01:36:52.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084908395455
+[22Jul2024 01:36:54.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
+[22Jul2024 01:36:56.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
+[22Jul2024 01:36:56.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
+[22Jul2024 01:36:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
+[22Jul2024 01:36:56.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490840113
+[22Jul2024 01:36:58.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8091603204040974
+[22Jul2024 01:36:59.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8066259820750654
+[22Jul2024 01:37:02.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8043713197509603
+[22Jul2024 01:37:02.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8160514553374638
+[22Jul2024 01:37:04.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7685240556620389
+[22Jul2024 01:37:04.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7757746848113004
+[22Jul2024 01:37:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.640867233276367) to LOW (avg. 24.50078582763672)
+[22Jul2024 01:37:18.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2606635136578694
+[22Jul2024 01:37:19.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7540190021186484
+[22Jul2024 01:37:20.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.821458019715752
+[22Jul2024 01:37:30.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.38692660510781585
+[22Jul2024 01:37:33.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8262512579545914
+[22Jul2024 01:37:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.93566131591797) to VERY_LOW (avg. 18.954204559326172)
+[22Jul2024 01:37:45.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8040852943217166
+[22Jul2024 01:37:46.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8261788821024876
+[22Jul2024 01:37:47.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304071515514511
+[22Jul2024 01:37:49.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305035098451395
+[22Jul2024 01:37:49.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305078997451084
+[22Jul2024 01:37:50.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.954204559326172) to LOW (avg. 23.977161407470703)
+[22Jul2024 01:37:51.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084804866696
+[22Jul2024 01:37:53.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084886671241
+[22Jul2024 01:37:55.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887277945
+[22Jul2024 01:37:56.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
+[22Jul2024 01:37:59.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
+[22Jul2024 01:38:00.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084887286922
+[22Jul2024 01:38:03.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294480750711355
+[22Jul2024 01:38:06.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305041849363385
+[22Jul2024 01:38:08.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828181175940299
+[22Jul2024 01:38:11.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8287370223561399
+[22Jul2024 01:38:12.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304214767676129
+[22Jul2024 01:38:14.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186697612325687
+[22Jul2024 01:38:15.690] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8453693445257381
+[22Jul2024 01:38:17.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.32791319587720424
+[22Jul2024 01:38:19.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7583921189342181
+[22Jul2024 01:38:20.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8134387009594952
+[22Jul2024 01:38:21.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8461865438379427
+[22Jul2024 01:38:23.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.828676992223826
+[22Jul2024 01:38:24.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304448571289434
+[22Jul2024 01:38:32.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8121733447159875
+[22Jul2024 01:38:32.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8136742286544512
+[22Jul2024 01:38:32.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8170883999743936
+[22Jul2024 01:38:35.406] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.57745361328125) to VERY_LOW (avg. 18.158935546875)
+[22Jul2024 01:38:36.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8297978255275715
+[22Jul2024 01:38:39.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830507959637401
+[22Jul2024 01:38:42.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.158935546875) to LOW (avg. 23.61857795715332)
+[22Jul2024 01:38:43.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135260535
+[22Jul2024 01:38:47.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
+[22Jul2024 01:38:51.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
+[22Jul2024 01:38:54.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8348924310115484
+[22Jul2024 01:38:57.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.61857795715332) to VERY_LOW (avg. 14.757095336914062)
+[22Jul2024 01:38:58.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4856633140227348
+[22Jul2024 01:39:01.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8193553280693128
+[22Jul2024 01:39:02.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294747390878755
+[22Jul2024 01:39:05.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8301865427607447
+[22Jul2024 01:39:11.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508473359694
+[22Jul2024 01:39:11.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508473359694
+[22Jul2024 01:39:19.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
+[22Jul2024 01:39:26.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
+[22Jul2024 01:39:30.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085135338907
+[22Jul2024 01:39:32.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3891717245803733
+[22Jul2024 01:39:43.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8157200927373386
+[22Jul2024 01:39:51.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8162987740809658
+[22Jul2024 01:39:52.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8466079314066052
+[22Jul2024 01:39:57.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8156769372734646
+[22Jul2024 01:39:57.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8215125297196216
+[22Jul2024 01:39:57.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.482683181762695) to LOW (avg. 21.061790466308594)
+[22Jul2024 01:39:58.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298214669940704
+[22Jul2024 01:39:59.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8300354030203173
+[22Jul2024 01:39:59.292] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302550591892828
+[22Jul2024 01:40:00.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305033230748176
+[22Jul2024 01:40:01.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305077241906528
+[22Jul2024 01:40:03.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085037914828
+[22Jul2024 01:40:05.414] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.061790466308594) to VERY_LOW (avg. 18.110071182250977)
+[22Jul2024 01:40:12.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7399878011874871
+[22Jul2024 01:40:12.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.110071182250977) to LOW (avg. 21.411741256713867)
+[22Jul2024 01:40:14.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8294666331023374
+[22Jul2024 01:40:15.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304775057719066
+[22Jul2024 01:40:17.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305083822520412
+[22Jul2024 01:40:19.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085038841065
+[22Jul2024 01:40:21.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8208186901512929
+[22Jul2024 01:40:21.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8233259499090365
+[22Jul2024 01:40:21.545] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.825330440662801
+[22Jul2024 01:40:22.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8303589249283596
+[22Jul2024 01:40:24.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830506655146034
+[22Jul2024 01:40:27.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085045727999
+[22Jul2024 01:40:27.906] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.411741256713867) to VERY_LOW (avg. 16.980241775512695)
+[22Jul2024 01:40:29.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508505831073
+[22Jul2024 01:40:31.578] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058448813
+[22Jul2024 01:40:33.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
+[22Jul2024 01:40:33.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
+[22Jul2024 01:40:35.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305085058450846
+[22Jul2024 01:40:39.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3279124605453925
+[22Jul2024 01:40:41.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.82146726320059
+[22Jul2024 01:40:42.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.829676476405399
+[22Jul2024 01:40:44.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305042267927812
+[22Jul2024 01:40:45.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305083921377487
+[22Jul2024 01:40:46.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084310676475
+[22Jul2024 01:40:46.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508449795725
+[22Jul2024 01:40:49.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186706745519233
+[22Jul2024 01:40:49.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8186706745519233
+[22Jul2024 01:40:50.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8242443964929759
+[22Jul2024 01:40:51.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:51.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:51.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:51.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8302701628806199
+[22Jul2024 01:40:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
+[22Jul2024 01:40:52.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
+[22Jul2024 01:40:52.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
+[22Jul2024 01:40:52.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304933868638096
+[22Jul2024 01:40:53.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8204945001392284
+[22Jul2024 01:40:54.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8187498948693648
+[22Jul2024 01:40:56.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8369395551459113
+[22Jul2024 01:40:57.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8275796175082022
+[22Jul2024 01:40:58.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8297406557331535
+[22Jul2024 01:40:59.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304043513584667
+[22Jul2024 01:41:02.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8290910472431864
+[22Jul2024 01:41:03.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8304372453857827
+[22Jul2024 01:41:05.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305078058804027
+[22Jul2024 01:41:06.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084610658885
+[22Jul2024 01:41:06.979] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084784162696
+[22Jul2024 01:41:08.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084903208667
+[22Jul2024 01:41:09.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084906643994
+[22Jul2024 01:41:10.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8305084907307577
+[22Jul2024 01:41:11.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.830508490735768
+[22Jul2024 01:41:12.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8298493358301537
+[22Jul2024 01:41:13.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7256388882248951
+[22Jul2024 01:41:14.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6355231595961559
+[22Jul2024 01:41:14.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.26057299580735166
+[22Jul2024 01:41:18.783] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.3008757024874069
+[22Jul2024 01:41:20.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.45620386476809643
+[22Jul2024 01:41:20.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5253957209162012
+[22Jul2024 01:41:22.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4129662889530549
+[22Jul2024 01:41:40.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6579995556536729
+[22Jul2024 01:41:41.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7753146809249118
+[22Jul2024 01:41:42.185] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8175821116047801
+[22Jul2024 01:41:43.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.4152632374071781
+[22Jul2024 01:42:29.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [An Ear-Shattering Roar]
+[22Jul2024 01:46:45.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.5196938963732547
+[22Jul2024 01:46:46.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6908847722558755
+[22Jul2024 01:46:47.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.2606472642380218
+[22Jul2024 01:46:47.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.39648038172087013
+[22Jul2024 01:46:48.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7494913155728224
