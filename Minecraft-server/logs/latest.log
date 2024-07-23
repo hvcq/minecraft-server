@@ -528,3 +528,90 @@ java.net.http.HttpTimeoutException: request timed out
 [22Jul2024 19:51:11.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
 [22Jul2024 19:51:11.615] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [22Jul2024 19:51:12.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.423099517822266) to VERY_LOW (avg. 17.974559783935547)
+[22Jul2024 20:02:13.345] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b55c20ac-c9ec-45d0-8102-f2e29ac131d9
+[22Jul2024 20:02:13.346] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3697 Y: 109 Z: -2897
+[22Jul2024 20:02:13.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was energized by Lightning Dragon
+[22Jul2024 20:02:13.357] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:05:47.447] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 219ca286-2132-464a-a046-f1cb9a376705
+[22Jul2024 20:05:47.449] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3643 Y: 113 Z: -2948
+[22Jul2024 20:05:47.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was struck with lightning by Lightning Dragon
+[22Jul2024 20:05:47.461] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:06:04.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.84719467163086) to LOW (avg. 21.752452850341797)
+[22Jul2024 20:06:19.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.752452850341797) to VERY_LOW (avg. 15.715741157531738)
+[22Jul2024 20:06:40.445] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID ec85899a-227d-466c-b251-80875b701493
+[22Jul2024 20:06:40.446] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3619 Y: 100 Z: -2888
+[22Jul2024 20:06:40.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:06:40.456] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:08:37.197] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID d718609b-f51f-4a06-84db-10da8b763b34
+[22Jul2024 20:08:37.198] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3677 Y: 110 Z: -2919
+[22Jul2024 20:08:37.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was struck with lightning by Lightning Dragon
+[22Jul2024 20:08:37.211] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:10:07.251] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 86bd9f52-6095-47cf-90d1-20fc414c7f94
+[22Jul2024 20:10:07.252] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3649 Y: 113 Z: -2940
+[22Jul2024 20:10:07.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:10:07.260] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:12:28.797] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID ec7d01d9-2134-4941-a048-81718850cb6c
+[22Jul2024 20:12:28.798] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3677 Y: 109 Z: -2937
+[22Jul2024 20:12:28.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:12:28.808] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:15:38.354] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 4f45b9a1-6500-4e6a-80af-ce959eab6445
+[22Jul2024 20:15:38.355] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3649 Y: 113 Z: -2939
+[22Jul2024 20:15:38.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:15:38.361] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:16:02.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/28209, l='ServerLevel[world]', x=3651.46, y=111.00, z=-2937.57] died: hvice was slain by hvice using [hielo potente]
+[22Jul2024 20:17:12.091] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.659608840942383) to LOW (avg. 20.727628707885742)
+[22Jul2024 20:17:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.727628707885742) to VERY_LOW (avg. 14.505656242370605)
+[22Jul2024 20:18:28.752] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 9c7a3469-106b-45ce-93ec-87be855ff4ba
+[22Jul2024 20:18:28.753] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3661 Y: 111 Z: -2947
+[22Jul2024 20:18:28.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:18:28.759] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:18:48.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/29662, l='ServerLevel[world]', x=3663.36, y=109.00, z=-2946.53] died: hvice was shot by hvice
+[22Jul2024 20:19:09.004] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 7d332d20-ec57-438f-8bc4-1f15dd03443e
+[22Jul2024 20:19:09.005] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3673 Y: 110 Z: -2928
+[22Jul2024 20:19:09.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:19:09.013] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:19:35.601] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID d8182b23-363b-458b-9295-d7d381cc0c34
+[22Jul2024 20:19:35.602] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3650 Y: 113 Z: -2941
+[22Jul2024 20:19:35.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:19:35.610] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:19:36.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved wrongly!
+[22Jul2024 20:20:03.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID fb3ec53b-5613-45f4-9ae1-698ae88653f2
+[22Jul2024 20:20:03.650] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3646 Y: 112 Z: -2940
+[22Jul2024 20:20:03.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:20:03.662] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:22:11.145] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 712d951f-575d-480f-a7ca-55692d9b00e9
+[22Jul2024 20:22:11.146] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3652 Y: 113 Z: -2951
+[22Jul2024 20:22:11.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:22:11.151] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:22:48.753] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 35a8aa17-4360-44ad-9c51-8684ab4aa3a4
+[22Jul2024 20:22:48.754] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3657 Y: 111 Z: -2952
+[22Jul2024 20:22:48.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Lightning Dragon
+[22Jul2024 20:22:48.764] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:23:09.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[22Jul2024 20:23:09.054] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:23:25.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[22Jul2024 20:23:25.064] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:23:44.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Husk
+[22Jul2024 20:23:44.423] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:24:31.902] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/35436, l='ServerLevel[world]', x=3674.20, y=108.00, z=-2953.73] died: hvice was shot by hvice
+[22Jul2024 20:24:32.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/35424, l='ServerLevel[world]', x=3675.71, y=107.00, z=-2953.16] died: hvice was shot by hvice
+[22Jul2024 20:24:52.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[22Jul2024 20:24:52.056] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:24:59.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[22Jul2024 20:24:59.468] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:25:04.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.377161026000977) to LOW (avg. 20.238828659057617)
+[22Jul2024 20:25:19.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.238828659057617) to VERY_LOW (avg. 19.61513328552246)
+[22Jul2024 20:25:23.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/36893, l='ServerLevel[world]', x=3676.43, y=107.00, z=-2956.51] died: hvice was burnt to a crisp whilst fighting hvice
+[22Jul2024 20:25:28.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/36895, l='ServerLevel[world]', x=3683.87, y=107.00, z=-2957.79] died: hvice was burnt to a crisp whilst fighting hvice
+[22Jul2024 20:25:31.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/36894, l='ServerLevel[world]', x=3681.69, y=107.00, z=-2959.50] died: hvice was burnt to a crisp whilst fighting hvice
+[22Jul2024 20:25:32.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['hvice'/36891, l='ServerLevel[world]', x=3684.20, y=107.00, z=-2958.52] died: hvice was shot by hvice
+[22Jul2024 20:26:37.509] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 709e61da-74cc-49f9-93ad-7e76c23bc458
+[22Jul2024 20:26:37.509] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3633 Y: 90 Z: -2959
+[22Jul2024 20:26:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Ghost
+[22Jul2024 20:26:37.517] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[22Jul2024 20:30:27.084] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.792795181274414) to LOW (avg. 20.190349578857422)
+[22Jul2024 20:30:34.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.190349578857422) to VERY_LOW (avg. 19.16046142578125)
+[22Jul2024 20:30:49.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.16046142578125) to LOW (avg. 20.126916885375977)
+[22Jul2024 20:31:04.584] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.126916885375977) to VERY_LOW (avg. 18.883544921875)
+[22Jul2024 20:31:12.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.883544921875) to LOW (avg. 20.153928756713867)
+[22Jul2024 20:31:27.083] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.153928756713867) to VERY_LOW (avg. 17.398210525512695)
