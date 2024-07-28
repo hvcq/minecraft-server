@@ -548,3 +548,18 @@ java.net.http.HttpTimeoutException: request timed out
 [28Jul2024 18:29:03.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/52198, l='ServerLevel[world]', x=803.50, y=101.05, z=-458.54] died: hvice was shot by hvice
 [28Jul2024 18:29:40.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/52389, l='ServerLevel[world]', x=805.42, y=91.54, z=-459.52] died: hvice was shot by hvice
 [28Jul2024 18:30:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has completed the challenge [Return to Sender]
+[28Jul2024 18:35:23.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=795, y=123, z=-441} BlockPos{x=799, y=123, z=-448}
+[28Jul2024 18:49:53.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/52450, l='ServerLevel[world]', x=828.48, y=90.00, z=-448.30] died: hvice was shot by hvice
+[28Jul2024 18:55:02.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[28Jul2024 18:55:02.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[28Jul2024 18:55:25.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jul2024 18:55:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jul2024 18:55:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jul2024 18:55:25.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jul2024 18:55:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jul2024 18:55:25.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jul2024 18:55:25.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jul2024 18:55:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jul2024 18:55:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jul2024 18:55:25.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[28Jul2024 18:55:25.332] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
