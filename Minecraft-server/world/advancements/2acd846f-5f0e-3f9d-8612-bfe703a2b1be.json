@@ -6658,5 +6658,11 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-07-28 18:30:37 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

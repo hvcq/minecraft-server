@@ -517,3 +517,34 @@ java.net.http.HttpTimeoutException: request timed out
 [28Jul2024 17:42:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
 [28Jul2024 17:42:43.663] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [28Jul2024 17:47:32.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/36594, l='ServerLevel[world]', x=800.55, y=100.05, z=-465.55] died: hvice was shot by hvice
+[28Jul2024 17:49:37.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.52033805847168) to LOW (avg. 27.169639587402344)
+[28Jul2024 17:49:39.239] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 11.706948) to LOW (avg. 19.90615109)
+[28Jul2024 17:49:53.101] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.499412536621094) to HIGH (avg. 49.32061767578125)
+[28Jul2024 17:50:07.989] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.32061767578125) to LOW (avg. 20.524280548095703)
+[28Jul2024 17:50:45.487] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.382705688476562) to VERY_LOW (avg. 9.610329627990723)
+[28Jul2024 17:53:10.163] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID c5556704-5c4a-4a7d-b9c0-f89fc89635fc
+[28Jul2024 17:53:10.173] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 856 Y: 76 Z: -485
+[28Jul2024 17:53:10.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[28Jul2024 17:53:10.193] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:53:33.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[28Jul2024 17:53:33.602] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:53:57.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[28Jul2024 17:53:57.811] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:54:58.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[28Jul2024 17:54:58.549] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:55:14.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/41299, l='ServerLevel[world]', x=863.48, y=76.00, z=-480.69] died: hvice was slain by hvice using [hielo potente]
+[28Jul2024 17:55:26.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/41298, l='ServerLevel[world]', x=863.58, y=76.41, z=-482.70] died: hvice was slain by Zombified Piglin
+[28Jul2024 17:55:27.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by hvice
+[28Jul2024 17:55:27.702] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:55:45.489] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.214800834655762) to LOW (avg. 21.87774085998535)
+[28Jul2024 17:56:00.487] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.87774085998535) to VERY_LOW (avg. 9.506726264953613)
+[28Jul2024 17:59:07.987] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 9.280531883239746) to LOW (avg. 21.29674530029297)
+[28Jul2024 17:59:15.494] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.29674530029297) to VERY_LOW (avg. 11.948868751525879)
+[28Jul2024 18:05:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Enderman
+[28Jul2024 18:05:16.553] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 18:07:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[28Jul2024 18:07:40.811] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 18:09:19.669] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2231ms or 44 ticks behind
+[28Jul2024 18:29:03.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/52198, l='ServerLevel[world]', x=803.50, y=101.05, z=-458.54] died: hvice was shot by hvice
+[28Jul2024 18:29:40.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/52389, l='ServerLevel[world]', x=805.42, y=91.54, z=-459.52] died: hvice was shot by hvice
+[28Jul2024 18:30:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has completed the challenge [Return to Sender]
