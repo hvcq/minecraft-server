@@ -503,3 +503,17 @@ java.net.http.HttpTimeoutException: request timed out
 [28Jul2024 17:02:15.508] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [28Jul2024 17:03:17.094] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/20817, l='ServerLevel[world]', x=799.75, y=92.50, z=-464.45] died: hvice was burnt to a crisp whilst fighting hvice
 [28Jul2024 17:03:58.143] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/20816, l='ServerLevel[world]', x=799.51, y=96.97, z=-465.55] died: hvice was burnt to a crisp whilst fighting hvice
+[28Jul2024 17:12:46.148] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID fbbfab8b-a2b2-4ea5-8b07-bf071e36d547
+[28Jul2024 17:12:46.151] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 802 Y: 102 Z: -460
+[28Jul2024 17:12:46.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[28Jul2024 17:12:46.156] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:14:49.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/24349, l='ServerLevel[world]', x=805.42, y=101.05, z=-460.54] died: hvice was shot by hvice
+[28Jul2024 17:41:59.198] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 350be7d2-3468-40cc-9cdf-1f33196bedb4
+[28Jul2024 17:41:59.202] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 803 Y: 92 Z: -462
+[28Jul2024 17:41:59.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[28Jul2024 17:41:59.211] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:42:43.648] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b81f5831-eb0d-4cbb-b23f-8a3073b55548
+[28Jul2024 17:42:43.655] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 794 Y: 86 Z: -473
+[28Jul2024 17:42:43.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombified Piglin
+[28Jul2024 17:42:43.663] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[28Jul2024 17:47:32.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['hvice'/36594, l='ServerLevel[world]', x=800.55, y=100.05, z=-465.55] died: hvice was shot by hvice
