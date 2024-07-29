@@ -1,1 +1,14 @@
 [29Jul2024 00:17:13.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=824, y=66, z=-452} BlockPos{x=826, y=58, z=-453}
+[29Jul2024 00:49:33.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[29Jul2024 00:49:33.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[29Jul2024 00:49:56.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jul2024 00:49:56.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jul2024 00:49:56.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jul2024 00:49:56.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jul2024 00:49:57.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jul2024 00:49:57.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jul2024 00:49:57.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jul2024 00:49:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jul2024 00:49:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jul2024 00:49:57.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jul2024 00:49:57.157] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
