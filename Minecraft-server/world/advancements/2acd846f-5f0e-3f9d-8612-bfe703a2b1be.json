@@ -6682,6 +6682,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2024-08-03 15:17:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-08-03 15:17:32 -0400"
@@ -6739,12 +6745,6 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2024-08-03 15:17:32 -0400"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bandit_village": {
-    "criteria": {
-      "location0": "2024-08-03 15:17:02 -0400"
     },
     "done": true
   },
