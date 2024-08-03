@@ -7360,3 +7360,182 @@ Caused by: java.lang.IllegalStateException: Entity has invalid position
 [03Aug2024 00:19:20.967] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
 [03Aug2024 00:19:41.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Aug2024 00:19:41.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:20:30.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=121, z=-192} BlockPos{x=505, y=122, z=-191}
+[03Aug2024 00:20:32.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=122, z=-194} BlockPos{x=505, y=121, z=-194}
+[03Aug2024 00:20:32.193] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=122, z=-194} BlockPos{x=505, y=121, z=-195}
+[03Aug2024 00:20:33.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=122, z=-195} BlockPos{x=505, y=120, z=-197}
+[03Aug2024 00:20:33.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=122, z=-195} BlockPos{x=505, y=120, z=-197}
+[03Aug2024 00:20:33.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=505, y=122, z=-195} BlockPos{x=505, y=120, z=-197}
+[03Aug2024 00:20:44.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-205} BlockPos{x=503, y=123, z=-206}
+[03Aug2024 00:20:44.544] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-207} BlockPos{x=503, y=122, z=-206}
+[03Aug2024 00:20:44.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-207} BlockPos{x=503, y=122, z=-206}
+[03Aug2024 00:20:44.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-207} BlockPos{x=503, y=122, z=-206}
+[03Aug2024 00:20:44.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-207} BlockPos{x=503, y=122, z=-206}
+[03Aug2024 00:20:44.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=123, z=-207} BlockPos{x=503, y=122, z=-206}
+[03Aug2024 00:20:48.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=121, z=-220} BlockPos{x=503, y=121, z=-217}
+[03Aug2024 00:20:51.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=122, z=-225} BlockPos{x=503, y=122, z=-226}
+[03Aug2024 00:20:52.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Aug2024 00:20:52.794] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=122, z=-228} BlockPos{x=503, y=121, z=-227}
+[03Aug2024 00:20:56.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=503, y=122, z=-242} BlockPos{x=503, y=123, z=-238}
+[03Aug2024 00:20:59.391] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 00:21:00.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=501, y=123, z=-243} BlockPos{x=502, y=123, z=-244}
+[03Aug2024 00:21:01.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=501, y=123, z=-244} BlockPos{x=501, y=122, z=-244}
+[03Aug2024 00:21:02.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=122, z=-245} BlockPos{x=503, y=122, z=-245}
+[03Aug2024 00:21:03.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=122, z=-247} BlockPos{x=502, y=122, z=-246}
+[03Aug2024 00:21:04.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=122, z=-252} BlockPos{x=502, y=122, z=-248}
+[03Aug2024 00:21:04.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=121, z=-251} BlockPos{x=502, y=122, z=-252}
+[03Aug2024 00:21:04.795] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=121, z=-251} BlockPos{x=502, y=122, z=-252}
+[03Aug2024 00:21:07.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=502, y=123, z=-257} BlockPos{x=502, y=123, z=-258}
+[03Aug2024 00:21:29.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=504, y=124, z=-267} BlockPos{x=504, y=123, z=-268}
+[03Aug2024 00:22:05.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=507, y=121, z=-298} BlockPos{x=507, y=122, z=-297}
+[03Aug2024 00:22:46.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=510, y=122, z=-316} BlockPos{x=509, y=122, z=-317}
+[03Aug2024 00:22:47.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=121, z=-318} BlockPos{x=509, y=121, z=-319}
+[03Aug2024 00:22:47.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=121, z=-318} BlockPos{x=509, y=121, z=-319}
+[03Aug2024 00:22:47.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=121, z=-318} BlockPos{x=509, y=121, z=-319}
+[03Aug2024 00:22:47.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=121, z=-318} BlockPos{x=509, y=121, z=-319}
+[03Aug2024 00:22:47.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=508, y=121, z=-318} BlockPos{x=509, y=121, z=-319}
+[03Aug2024 00:22:50.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=509, y=122, z=-324} BlockPos{x=509, y=122, z=-325}
+[03Aug2024 00:22:57.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.56833839416504) to LOW (avg. 20.689414978027344)
+[03Aug2024 00:23:05.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.689414978027344) to VERY_LOW (avg. 18.774812698364258)
+[03Aug2024 00:23:15.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=444, y=122, z=-323} BlockPos{x=443, y=122, z=-323}
+[03Aug2024 00:23:17.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=442, y=122, z=-324} BlockPos{x=442, y=121, z=-323}
+[03Aug2024 00:23:17.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=441, y=121, z=-323} BlockPos{x=443, y=121, z=-323}
+[03Aug2024 00:23:21.385] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:21.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:21.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:21.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:21.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:21.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=439, y=122, z=-328} BlockPos{x=439, y=121, z=-327}
+[03Aug2024 00:23:45.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=440, y=121, z=-359} BlockPos{x=440, y=120, z=-359}
+[03Aug2024 00:24:41.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:24:41.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:24:42.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.47307777404785) to LOW (avg. 20.988548278808594)
+[03Aug2024 00:24:57.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.988548278808594) to VERY_LOW (avg. 18.763755798339844)
+[03Aug2024 00:29:41.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:29:41.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:34:04.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 00:34:07.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[03Aug2024 00:34:09.361] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Aug2024 00:34:41.695] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:34:41.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:35:32.806] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[03Aug2024 00:35:32.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[03Aug2024 00:35:32.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[03Aug2024 00:35:32.809] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[03Aug2024 00:35:32.810] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[03Aug2024 00:35:47.109] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_3
+[03Aug2024 00:35:47.109] [Worker-Main-121/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_2
+[03Aug2024 00:35:49.152] [Worker-Main-124/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:abyssal_ruins_0
+[03Aug2024 00:36:06.180] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_1 is being run through DFU (hash 33e1717980d67c88bcef4f90f82de4f1246c1d597f38712fa710f32c902994dc), this will cause launch time delays
+[03Aug2024 00:36:06.272] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_0 is being run through DFU (hash b319dfbdc567d87adb21d54e8609603b4e9e9933f411d144e54a9efec77b074c), this will cause launch time delays
+[03Aug2024 00:36:06.277] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_3 is being run through DFU (hash 4e928cb83afddb6a04dec38dfeb36e0a0f378c2e33e47f622725e9082b00b3fb), this will cause launch time delays
+[03Aug2024 00:36:07.259] [Worker-Main-125/DEBUG] [ModernFix/]: Structure alexscaves:abyssal_ruins_1 is being run through DFU (hash d1f776f1e47613d0d2f150ddb53693548859d3ad87c74a97a019bd4d775f1fb2), this will cause launch time delays
+[03Aug2024 00:36:08.064] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_2 is being run through DFU (hash 1d1ee602572333460956864a92b2f53f393c1c323bb6e773dadaef07d1fa0a82), this will cause launch time delays
+[03Aug2024 00:36:12.117] [Worker-Main-121/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_0 is being run through DFU (hash 04e5babb3b7b40c100ba982a0bef9200379bae3e0d962006e07dd308de6736e1), this will cause launch time delays
+[03Aug2024 00:36:14.535] [Worker-Main-121/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_1 is being run through DFU (hash e312aeb0d43b6cfe2743b69a481b155b9edcedae4cb67695a8f5198d039538d9), this will cause launch time delays
+[03Aug2024 00:36:24.311] [Worker-Main-120/DEBUG] [ModernFix/]: Structure alexscaves:deep_one_ruins_3 is being run through DFU (hash 83bd2c96c1756bbd206b05133ee0a8ca84526c06513d4c358a39db82852b9d94), this will cause launch time delays
+[03Aug2024 00:36:28.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[03Aug2024 00:36:28.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[03Aug2024 00:36:31.784] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[03Aug2024 00:36:31.789] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[03Aug2024 00:36:31.796] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[03Aug2024 00:36:31.803] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[03Aug2024 00:36:31.813] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[03Aug2024 00:36:31.820] [Worker-Main-125/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[03Aug2024 00:36:38.996] [Worker-Main-120/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[03Aug2024 00:36:43.339] [Worker-Main-146/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_2 is being run through DFU (hash 03b257e4edd3784c01d1e1288ddc7dc7bd284817cbc197519599c1d13e8057b1), this will cause launch time delays
+[03Aug2024 00:36:43.341] [Worker-Main-146/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_1 is being run through DFU (hash 666a7f51a7d39edc6d18a9cb7ab131bb03bb3d3cb8330c0e26baf82ee712fcb3), this will cause launch time delays
+[03Aug2024 00:36:43.342] [Worker-Main-146/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_1 is being run through DFU (hash c6cd90bd7c906c34f725d1ef672a34abb218f7d35262c00177e2fa482c3c3540), this will cause launch time delays
+[03Aug2024 00:36:48.548] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_skull_0 is being run through DFU (hash 1253ebb7a0107689368651eb71cf927c41bdec76a7b890fb2dad646896751dd3), this will cause launch time delays
+[03Aug2024 00:36:48.552] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_2 is being run through DFU (hash 5a8d22a48837fea81fea3ec99071babaf80711d832d0127650e9e4f9ed6f70f2), this will cause launch time delays
+[03Aug2024 00:36:51.065] [Worker-Main-125/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_tail_0 is being run through DFU (hash ffe9edd5718c8bd1c78e0e860f2b33e3a00fb95086d16924f6042fd84194707b), this will cause launch time delays
+[03Aug2024 00:36:53.529] [Worker-Main-123/DEBUG] [ModernFix/]: Structure alexscaves:whalefall_body_3 is being run through DFU (hash 54ad9e7dc3553fcd52df470ed7430cbb23da9537d10fb568a7de530495a30ba5), this will cause launch time delays
+[03Aug2024 00:37:07.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[03Aug2024 00:37:31.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of narum0000) moved wrongly! 0.3643603397138122
+[03Aug2024 00:37:31.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of narum0000) moved wrongly! 0.5856320905568282
+[03Aug2024 00:39:41.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:39:41.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:41:04.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID 8186a96f-eb09-4a2e-8f8b-81f083931554
+[03Aug2024 00:41:04.928] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2912 Y: 64 Z: -729
+[03Aug2024 00:41:04.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 was burnt to a crisp whilst fighting hvice
+[03Aug2024 00:41:04.953] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:2912, y:64, z:-730, dim:minecraft:overworld]
+[03Aug2024 00:41:04.954] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[03Aug2024 00:41:09.147] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Aug2024 00:41:09.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 00:44:37.469] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 1f7472ed-1122-4810-9a08-d96a8c5c5ce6
+[03Aug2024 00:44:37.470] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 2868 Y: 68 Z: -841
+[03Aug2024 00:44:37.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Cyclops
+[03Aug2024 00:44:37.474] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:2863, y:67, z:-845, dim:minecraft:overworld]
+[03Aug2024 00:44:37.483] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[03Aug2024 00:44:40.291] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Aug2024 00:44:41.723] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:44:41.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:46:11.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of narum0000) moved wrongly! 0.2599989866771466
+[03Aug2024 00:46:46.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 00:47:41.577] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[03Aug2024 00:47:41.578] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[03Aug2024 00:49:07.943] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[03Aug2024 00:49:07.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[03Aug2024 00:49:20.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 00:49:41.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:49:41.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:50:11.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/69432, l='ServerLevel[world]', x=3306.76, y=71.00, z=-945.79] died, message: 'Fisherman bled to death'
+[03Aug2024 00:52:06.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/69653, l='ServerLevel[world]', x=3330.55, y=72.00, z=-907.14] died, message: 'Scribe bled to death'
+[03Aug2024 00:52:07.921] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/69174, l='ServerLevel[world]', x=3277.50, y=69.00, z=-939.63] died, message: 'Butcher was slain by Zombie'
+[03Aug2024 00:52:16.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/69472, l='ServerLevel[world]', x=3309.70, y=72.00, z=-889.91] died, message: 'Fletcher was slain by Creeper'
+[03Aug2024 00:52:16.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/69434, l='ServerLevel[world]', x=3288.03, y=69.00, z=-960.75] died, message: 'Butcher was slain by Zombie'
+[03Aug2024 00:53:17.776] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 623343e2-5595-462f-b4dc-2faa0e75c406
+[03Aug2024 00:53:17.777] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3332 Y: 72 Z: -941
+[03Aug2024 00:53:17.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[03Aug2024 00:53:17.779] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:3332, y:72, z:-942, dim:minecraft:overworld]
+[03Aug2024 00:53:17.784] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[03Aug2024 00:53:20.169] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.095561981201172) to LOW (avg. 22.143596649169922)
+[03Aug2024 00:53:35.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.143596649169922) to VERY_LOW (avg. 12.562064170837402)
+[03Aug2024 00:54:11.575] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/70890, l='ServerLevel[world]', x=3372.55, y=60.00, z=-969.30] died: hvice was slain by narum0000
+[03Aug2024 00:54:41.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:54:41.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 00:57:42.818] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/69728, l='ServerLevel[world]', x=3409.27, y=64.00, z=-943.37] died, message: 'Farmer bled to death'
+[03Aug2024 00:58:00.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69564, l='ServerLevel[world]', x=3323.94, y=86.00, z=-854.60] died, message: 'Unemployed was slain by Zombie'
+[03Aug2024 00:58:02.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/69645, l='ServerLevel[world]', x=3331.10, y=87.05, z=-853.99] died, message: 'Fletcher was slain by Zombie'
+[03Aug2024 00:59:41.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 00:59:41.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 01:02:21.068] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/69654, l='ServerLevel[world]', x=3367.32, y=65.00, z=-915.34] died, message: 'Toolsmith hit the ground too hard'
+[03Aug2024 01:04:27.223] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for narum0000 with unique ID cb68dba6-102d-4e02-882b-f15086b45366
+[03Aug2024 01:04:27.225] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3257 Y: -1 Z: -974
+[03Aug2024 01:04:27.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 burned to death
+[03Aug2024 01:04:27.233] [Server thread/DEBUG] [tombstone/]: A new grave of the player narum0000 was created at position [x:3257, y:-1, z:-975, dim:minecraft:overworld]
+[03Aug2024 01:04:27.235] [Server thread/INFO] [tombstone/]: The player narum0000 has successfully been saved
+[03Aug2024 01:04:28.901] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_1
+[03Aug2024 01:04:30.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Aug2024 01:04:30.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_2
+[03Aug2024 01:04:41.700] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 01:04:41.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 01:04:47.619] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 183a6853-6459-4c2c-9ef2-1bf99b316d20
+[03Aug2024 01:04:47.622] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 3246 Y: 0 Z: -968
+[03Aug2024 01:04:47.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was blown up by Creeper
+[03Aug2024 01:04:47.623] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:3246, y:0, z:-969, dim:minecraft:overworld]
+[03Aug2024 01:04:47.632] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[03Aug2024 01:04:49.534] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of alexscaves:underground_cabin_0
+[03Aug2024 01:04:50.011] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.519428253173828) to LOW (avg. 22.696823120117188)
+[03Aug2024 01:05:05.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.696823120117188) to VERY_LOW (avg. 13.680702209472656)
+[03Aug2024 01:06:33.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3206, y=13, z=-950} BlockPos{x=3206, y=12, z=-950}
+[03Aug2024 01:09:41.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 01:09:41.697] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 01:12:38.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[03Aug2024 01:12:38.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[03Aug2024 01:12:39.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: narum0000 lost connection: Disconnected
+[03Aug2024 01:12:39.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: narum0000 left the game
+[03Aug2024 01:13:01.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2024 01:13:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2024 01:13:01.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2024 01:13:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2024 01:13:01.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2024 01:13:01.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2024 01:13:01.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Aug2024 01:13:01.706] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Aug2024 01:13:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2024 01:13:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2024 01:13:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2024 01:13:01.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2024 01:13:01.849] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[03Aug2024 01:13:01.850] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
