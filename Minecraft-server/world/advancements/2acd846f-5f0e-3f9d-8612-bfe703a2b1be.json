@@ -3347,9 +3347,10 @@
       "minecraft:crimson_forest": "2024-05-30 23:31:26 -0400",
       "minecraft:nether_wastes": "2024-05-31 00:03:51 -0400",
       "minecraft:soul_sand_valley": "2024-05-31 00:05:45 -0400",
-      "minecraft:warped_forest": "2024-06-08 02:07:56 -0400"
+      "minecraft:warped_forest": "2024-06-08 02:07:56 -0400",
+      "minecraft:basalt_deltas": "2024-08-03 00:01:31 -0400"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
@@ -5111,6 +5112,7 @@
   },
   "tombstone:adventure/death_master": {
     "criteria": {
+      "has_prevent_burn": "2024-08-02 23:55:34 -0400",
       "has_prevent_cold": "2024-06-21 01:56:52 -0400",
       "has_prevent_fall": "2024-07-01 00:34:51 -0400"
     },
@@ -6661,6 +6663,12 @@
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2024-07-28 18:30:37 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_burn": {
+    "criteria": {
+      "coded_trigger": "2024-08-02 23:55:34 -0400"
     },
     "done": true
   },
