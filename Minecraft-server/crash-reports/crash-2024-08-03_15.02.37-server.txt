@@ -1,0 +1,248 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 2024-08-03 15:02:37
+Description: Exception ticking world
+
+java.lang.OutOfMemoryError: Java heap space
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:97) ~[fastutil-8.5.9.jar%2390!/:?] {re:mixin}
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:114) ~[fastutil-8.5.9.jar%2390!/:?] {re:mixin}
+	at net.minecraft.nbt.CompoundTag$1.localvar$zmk001$useFasterCollection(CompoundTag.java:1074) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:38) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTagMixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128937_(NbtIo.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.getCachedUpgraded(CachingStructureManager.java:104) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:72) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructure(CachingStructureManager.java:37) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:1038) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007f0a318adc48.apply(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007f0a31b86608.apply(Unknown Source) ~[?:?] {}
+	at com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache$$Lambda/0x00007f0a31b807b0.apply(Unknown Source) ~[?:?] {}
+	at com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3571) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2247) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache.compute(LocalCache.java:4212) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache.computeIfAbsent(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement$$Lambda/0x00007f0a31b863c8.apply(Unknown Source) ~[?:?] {}
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?] {}
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:waystones.mixins.json:SinglePoolElementMixin,pl:mixin:APP:yungsapi.mixins.json:accessor.SinglePoolElementAccessor,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.SinglePoolElementAccessor,pl:mixin:A}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Suspected Mods: 
+	ModernFix (modernfix), Version: 5.15.0+mc1.20.1
+		Issue tracker URL: https://github.com/embeddedt/ModernFix/issues
+		at TRANSFORMER/modernfix@5.15.0+mc1.20.1/org.embeddedt.modernfix.structure.CachingStructureManager.getCachedUpgraded(CachingStructureManager.java:104)
+
+	Canary (canary), Version: 0.3.3
+		Issue tracker URL: https://github.com/AbdElAziz333/Canary/issues
+		Mixin class: com.abdelaziz.canary.mixin.alloc.nbt.CompoundTagMixin$Type
+		Target: net.minecraft.nbt.CompoundTag$1
+		at TRANSFORMER/minecraft@1.20.1/net.minecraft.nbt.CompoundTag$1.localvar$zmk001$useFasterCollection(CompoundTag.java:1074)
+Stacktrace:
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:97) ~[fastutil-8.5.9.jar%2390!/:?] {re:mixin}
+	at it.unimi.dsi.fastutil.objects.Object2ObjectOpenHashMap.<init>(Object2ObjectOpenHashMap.java:114) ~[fastutil-8.5.9.jar%2390!/:?] {re:mixin}
+	at net.minecraft.nbt.CompoundTag$1.localvar$zmk001$useFasterCollection(CompoundTag.java:1074) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:38) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:computing_frames,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTagMixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.nbt_memory_usage.CompoundTag1Mixin,pl:mixin:APP:canary.mixins.json:alloc.nbt.CompoundTagMixin$Type,pl:mixin:A}
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at net.minecraft.nbt.NbtIo.m_128937_(NbtIo.java:25) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.getCachedUpgraded(CachingStructureManager.java:104) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructureTag(CachingStructureManager.java:72) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at org.embeddedt.modernfix.structure.CachingStructureManager.readStructure(CachingStructureManager.java:37) ~[modernfix-forge-5.15.0+mc1.20.1.jar%23220!/:5.15.0+mc1.20.1] {re:mixin,re:classloading}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:1038) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007f0a318adc48.apply(Unknown Source) ~[?:?] {}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,re:classloading,pl:mixin:APP:modernfix-common.mixins.json:perf.dynamic_structure_manager.StructureManagerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.cache_upgraded_structures.StructureManagerMixin,pl:mixin:APP:repurposed_structures-common.mixins.json:structures.StructureTemplateManagerAccessor,pl:mixin:A}
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager$$Lambda/0x00007f0a31b86608.apply(Unknown Source) ~[?:?] {}
+	at com.google.common.cache.LocalCache.lambda$computeIfAbsent$0(LocalCache.java:4219) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache$$Lambda/0x00007f0a31b807b0.apply(Unknown Source) ~[?:?] {}
+	at com.google.common.cache.LocalCache$LoadingValueReference.compute(LocalCache.java:3571) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache$Segment.compute(LocalCache.java:2247) ~[guava-31.1-jre.jar%2374!/:?] {}
+	at com.google.common.cache.LocalCache.compute(LocalCache.java:4212) ~[guava-31.1-jre.jar%2374!/:?] {}
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['hvice'/929, l='ServerLevel[world]', x=-3366.61, y=62.07, z=-5509.75]]
+	Chunk stats: 4605
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (0,122,0), Section: (at 0,10,0 in 0,7,0; chunk contains blocks 0,-64,0 to 15,319,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 11202832 game time, 2701289 day time
+	Level name: world
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Level weather: Rain time: 57184 (now: false), thunder time: 50377 (now: false)
+	Known server brands: forge
+	Removed feature flags: 
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:896) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:APP:majruszlibrary-common.mixins.json:MixinMinecraftServer,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:majruszlibrary-common.mixins.json:MixinDedicatedServer,pl:mixin:APP:tombstone.mixins.json:DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:APP:majruszlibrary-common.mixins.json:MixinMinecraftServer,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:APP:majruszlibrary-common.mixins.json:MixinMinecraftServer,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23257!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:saturn.mixins.json:allocations.server_directory.MinecraftServerMixin,pl:mixin:APP:fastload.mixins.json:server.MinecraftServerMixin,pl:mixin:APP:citadel.mixins.json:MinecraftServerMixin,pl:mixin:APP:modernfix-common.mixins.json:perf.dedicated_reload_executor.MinecraftServerMixin,pl:mixin:APP:balm.mixins.json:MinecraftServerMixin,pl:mixin:APP:majruszlibrary-common.mixins.json:MixinMinecraftServer,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?] {re:mixin}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.20.1
+	Minecraft Version ID: 1.20.1
+	Operating System: Linux (amd64) version 5.15.153.1-microsoft-standard-WSL2
+	Java Version: 21-internal, N/A
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 590858760 bytes (563 MiB) / 2084569088 bytes (1988 MiB) up to 2084569088 bytes (1988 MiB)
+	CPUs: 8
+	Processor Vendor: GenuineIntel
+	Processor Name: 12th Gen Intel(R) Core(TM) i7-12650H
+	Identifier: Intel64 Family 6 Model 154 Stepping 3
+	Microarchitecture: Alder Lake
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 8
+	Graphics card #0 name: Microsoft Corporation
+	Graphics card #0 vendor: Microsoft Corporation
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: version: 00
+	Graphics card #1 name: Microsoft Corporation
+	Graphics card #1 vendor: Microsoft Corporation
+	Graphics card #1 VRAM (MB): 0.00
+	Graphics card #1 deviceId: unknown
+	Graphics card #1 versionInfo: version: 00
+	Virtual memory max (MB): 8069.02
+	Virtual memory used (MB): 3753.18
+	Swap memory total (MB): 4096.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 0 total; 
+	Server Running: true
+	Player Count: 1 / 20; [ServerPlayer['hvice'/929, l='ServerLevel[world]', x=-3366.61, y=62.07, z=-5509.75]]
+	Data Packs: vanilla, mod:okzoomer (incompatible), mod:saturn (incompatible), mod:betterdungeons, mod:fastload, mod:betterwitchhuts, mod:jei, mod:yungsbridges, mod:stealing_villagers, mod:betteroceanmonuments, mod:libraryferret, mod:connectivity (incompatible), mod:immersive_aircraft (incompatible), mod:iceberg (incompatible), mod:waystones, mod:workers (incompatible), mod:journeymap (incompatible), mod:citadel (incompatible), mod:alexscaves, mod:alexsmobs (incompatible), mod:travelersbackpack, mod:yungsapi, mod:bettervillage, mod:canary, mod:betterstrongholds, mod:bookshelf, mod:accommodation_, mod:betterdeserttemples, mod:ferritecore (incompatible), mod:cupboard (incompatible), mod:balm, mod:betterendisland, mod:jeresources, mod:betterburning (incompatible), mod:betterfortresses, mod:forge, mod:appleskin (incompatible), mod:bettermineshafts, mod:betterjungletemples, mod:worldedit (incompatible), mod:fallingtree (incompatible), mod:adaptive_performance_tweaks_core (incompatible), mod:musicplayer, mod:gpumemleakfix (incompatible), mod:prism (incompatible), mod:placebo (incompatible), mod:modernfix (incompatible), mod:mixinextras (incompatible), mod:clientcrafting (incompatible), mod:craterlib (incompatible), mod:simplerpc (incompatible), mod:uteamcore, mod:embeddium, mod:jade (incompatible), mod:creativecore, mod:spark (incompatible), mod:memorysettings (incompatible), mod:searchables (incompatible), mod:ambientenvironment (incompatible), mod:immediatelyfast (incompatible), mod:extremesoundmuffler, mod:betterfoliage (incompatible), mod:trashslot, mod:iceandfire, mod:betterpingdisplay (incompatible), mod:tombstone, mod:puzzlesaccessapi, mod:universalenchants, mod:puzzleslib, mod:supermartijn642configlib (incompatible), mod:supermartijn642corelib, mod:movingelevators, mod:benefitsofreading (incompatible), mod:tenshilib (incompatible), mod:portablemobs (incompatible), mod:majruszsdifficulty (incompatible), mod:majruszlibrary (incompatible), mod:ante (incompatible), mod:dungeons_arise, mod:repurposed_structures, mod:improvedmobs (incompatible)
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.9+10.0.9+main.dcd20f30
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.5.jar eventbus PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.21.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.21.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.21.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.21.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.20.1-47.2.21.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.9.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.9.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		saturn-mc1.20.1-0.1.3.jar                         |Saturn                        |saturn                        |0.1.3               |DONE      |Manifest: NOSIGNATURE
+		adaptive_performance_tweaks_core_1.20.1-10.2.0.jar|APTweaks: Core                |adaptive_performance_tweaks_co|10.2.0              |DONE      |Manifest: NOSIGNATURE
+		YungsBetterDungeons-1.20-Forge-4.0.3.jar          |YUNG's Better Dungeons        |betterdungeons                |1.20-Forge-4.0.3    |DONE      |Manifest: NOSIGNATURE
+		Fastload-Reforged-mc1.20.1-3.4.0.jar              |Fastload-Reforged             |fastload                      |3.4.0               |DONE      |Manifest: NOSIGNATURE
+		supermartijn642configlib-1.1.8-forge-mc1.20.jar   |SuperMartijn642's Config Libra|supermartijn642configlib      |1.1.8               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterWitchHuts-1.20-Forge-3.0.3.jar         |YUNG's Better Witch Huts      |betterwitchhuts               |1.20-Forge-3.0.3    |DONE      |Manifest: NOSIGNATURE
+		trashslot-forge-1.20-15.1.0.jar                   |TrashSlot                     |trashslot                     |15.1.0              |DONE      |Manifest: NOSIGNATURE
+		majruszs-difficulty-forge-1.20.1-1.9.10.jar       |Majrusz's Progressive Difficul|majruszsdifficulty            |1.9.10              |DONE      |Manifest: NOSIGNATURE
+		stealing_villagers-forge-1.20.1-1.0.0.jar         |Stealing the villagers        |stealing_villagers            |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar    |YUNG's Better Ocean Monuments |betteroceanmonuments          |1.20-Forge-3.0.4    |DONE      |Manifest: NOSIGNATURE
+		libraryferret-forge-1.20.1-4.0.0.jar              |Library ferret                |libraryferret                 |4.0.0               |DONE      |Manifest: NOSIGNATURE
+		connectivity-1.20.1-5.5.jar                       |Connectivity Mod              |connectivity                  |1.20.1-5.5          |DONE      |Manifest: NOSIGNATURE
+		immersive_aircraft-0.7.5+1.20.1-forge.jar         |Immersive Aircraft            |immersive_aircraft            |0.7.5+1.20.1        |DONE      |Manifest: NOSIGNATURE
+		music_player-forge-1.20.1-2.7.0.236.jar           |Music Player                  |musicplayer                   |2.7.0.236           |DONE      |Manifest: f4:a6:0b:ee:cb:8a:1a:ea:9f:9d:45:91:8f:8b:b3:ae:26:f3:bf:05:86:1d:90:9e:f6:32:2a:1a:ed:1d:ce:b0
+		gpumemleakfix-1.20.1-1.8.jar                      |Gpu memory leak fix           |gpumemleakfix                 |1.20.1-1.8          |DONE      |Manifest: NOSIGNATURE
+		waystones-forge-1.20-14.1.3.jar                   |Waystones                     |waystones                     |14.1.3              |DONE      |Manifest: NOSIGNATURE
+		journeymap-1.20.1-5.9.20-forge.jar                |Journeymap                    |journeymap                    |5.9.20              |DONE      |Manifest: NOSIGNATURE
+		Prism-1.20.1-forge-1.0.5.jar                      |Prism                         |prism                         |1.0.5               |DONE      |Manifest: NOSIGNATURE
+		Placebo-1.20.1-8.6.1.jar                          |Placebo                       |placebo                       |8.6.1               |DONE      |Manifest: NOSIGNATURE
+		modernfix-forge-5.15.0+mc1.20.1.jar               |ModernFix                     |modernfix                     |5.15.0+mc1.20.1     |DONE      |Manifest: NOSIGNATURE
+		jei-1.20.1-forge-15.3.0.4.jar                     |Just Enough Items             |jei                           |15.3.0.4            |DONE      |Manifest: NOSIGNATURE
+		citadel-2.5.4-1.20.1.jar                          |Citadel                       |citadel                       |2.5.4               |DONE      |Manifest: NOSIGNATURE
+		alexsmobs-1.22.8.jar                              |Alex's Mobs                   |alexsmobs                     |1.22.8              |DONE      |Manifest: NOSIGNATURE
+		TravelersBackpack-1.20.1-9.1.12.jar               |Traveler's Backpack           |travelersbackpack             |9.1.12              |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.20-Forge-4.0.4.jar                     |YUNG's API                    |yungsapi                      |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.5.jar                       |MixinExtras                   |mixinextras                   |0.3.5               |DONE      |Manifest: NOSIGNATURE
+		clientcrafting-1.20.1-1.8.jar                     |clientcrafting mod            |clientcrafting                |1.20.1-1.8          |DONE      |Manifest: NOSIGNATURE
+		Bookshelf-Forge-1.20.1-20.1.9.jar                 |Bookshelf                     |bookshelf                     |20.1.9              |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		CraterLib-Forge-1.20-1.1.1.jar                    |CraterLib                     |craterlib                     |1.1.1               |DONE      |Manifest: NOSIGNATURE
+		SimpleRPC-forge-1.20-3.2.4.jar                    |Simple RPC                    |simplerpc                     |3.2.4               |DONE      |Manifest: NOSIGNATURE
+		u_team_core-forge-1.20.1-5.1.4.269.jar            |U Team Core                   |uteamcore                     |5.1.4.269           |DONE      |Manifest: f4:a6:0b:ee:cb:8a:1a:ea:9f:9d:45:91:8f:8b:b3:ae:26:f3:bf:05:86:1d:90:9e:f6:32:2a:1a:ed:1d:ce:b0
+		YungsBetterDesertTemples-1.20-Forge-3.0.3.jar     |YUNG's Better Desert Temples  |betterdeserttemples           |1.20-Forge-3.0.3    |DONE      |Manifest: NOSIGNATURE
+		iceandfire-2.1.13-1.20.1-beta-4.jar               |Ice and Fire                  |iceandfire                    |2.1.13-1.20.1-beta-4|DONE      |Manifest: NOSIGNATURE
+		balm-forge-1.20.1-7.2.2.jar                       |Balm                          |balm                          |7.2.2               |DONE      |Manifest: NOSIGNATURE
+		JustEnoughResources-1.20.1-1.4.0.247.jar          |Just Enough Resources         |jeresources                   |1.4.0.247           |DONE      |Manifest: NOSIGNATURE
+		puzzlesaccessapi-forge-8.0.7.jar                  |Puzzles Access Api            |puzzlesaccessapi              |8.0.7               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar  |YUNG's Better Nether Fortresse|betterfortresses              |1.20-Forge-2.0.6    |DONE      |Manifest: NOSIGNATURE
+		forge-1.20.1-47.2.21-universal.jar                |Forge                         |forge                         |47.2.21             |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		embeddium-0.3.9+mc1.20.1.jar                      |Embeddium                     |embeddium                     |0.3.9+mc1.20.1      |DONE      |Manifest: NOSIGNATURE
+		DungeonsArise-1.20.x-2.1.58-release.jar           |When Dungeons Arise           |dungeons_arise                |2.1.58-1.20.x       |DONE      |Manifest: NOSIGNATURE
+		BetterPingDisplay-1.20.1-1.1.jar                  |Better Ping Display           |betterpingdisplay             |1.1                 |DONE      |Manifest: NOSIGNATURE
+		server-1.20.1-20230612.114412-srg.jar             |Minecraft                     |minecraft                     |1.20.1              |DONE      |Manifest: NOSIGNATURE
+		tenshilib-1.20.1-1.7.6-forge.jar                  |TenshiLib                     |tenshilib                     |1.20.1-1.7.6        |DONE      |Manifest: NOSIGNATURE
+		okzoomer-forge-1.20-3.0.1.jar                     |OkZoomer                      |okzoomer                      |3.0.1               |DONE      |Manifest: NOSIGNATURE
+		alexscaves-1.1.4.jar                              |Alex's Caves                  |alexscaves                    |1.1.4               |DONE      |Manifest: NOSIGNATURE
+		repurposed_structures-7.1.15+1.20.1-forge.jar     |Repurposed Structures         |repurposed_structures         |7.1.15+1.20.1-forge |DONE      |Manifest: NOSIGNATURE
+		Jade-1.20.1-forge-11.7.1.jar                      |Jade                          |jade                          |11.7.1              |DONE      |Manifest: NOSIGNATURE
+		CreativeCore_FORGE_v2.11.25_mc1.20.1.jar          |CreativeCore                  |creativecore                  |2.11.25             |DONE      |Manifest: NOSIGNATURE
+		BenefitsofReading-Forge-1.20.X-1.0.0.jar          |Benefits of Reading           |benefitsofreading             |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		supermartijn642corelib-1.1.17-forge-mc1.20.1.jar  |SuperMartijn642's Core Lib    |supermartijn642corelib        |1.1.17              |DONE      |Manifest: NOSIGNATURE
+		movingelevators-1.4.7-forge-mc1.20.1.jar          |Moving Elevators              |movingelevators               |1.4.7               |DONE      |Manifest: NOSIGNATURE
+		YungsBridges-1.20-Forge-4.0.3.jar                 |YUNG's Bridges                |yungsbridges                  |1.20-Forge-4.0.3    |DONE      |Manifest: NOSIGNATURE
+		spark-1.10.53-forge.jar                           |spark                         |spark                         |1.10.53             |DONE      |Manifest: NOSIGNATURE
+		portablemobs-1.2.0-forge-mc1.20.jar               |Portable Mobs                 |portablemobs                  |1.2.0               |DONE      |Manifest: NOSIGNATURE
+		memorysettings-1.20.1-5.4.jar                     |memorysettings mod            |memorysettings                |1.20.1-5.4          |DONE      |Manifest: NOSIGNATURE
+		Iceberg-1.20.1-forge-1.1.21.jar                   |Iceberg                       |iceberg                       |1.1.21              |DONE      |Manifest: NOSIGNATURE
+		workers-1.20.1-1.7.7.jar                          |Workers Mod                   |workers                       |1.7.7               |DONE      |Manifest: NOSIGNATURE
+		Searchables-forge-1.20.1-1.0.2.jar                |Searchables                   |searchables                   |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		bettervillage-forge-1.20.1-3.2.0.jar              |Better village                |bettervillage                 |3.1.0               |DONE      |Manifest: NOSIGNATURE
+		canary-mc1.20.1-0.3.3.jar                         |Canary                        |canary                        |0.3.3               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterStrongholds-1.20-Forge-4.0.3.jar       |YUNG's Better Strongholds     |betterstrongholds             |1.20-Forge-4.0.3    |DONE      |Manifest: NOSIGNATURE
+		tombstone-1.20.1-8.6.6.jar                        |Corail Tombstone              |tombstone                     |8.6.6               |DONE      |Manifest: NOSIGNATURE
+		UniversalEnchants-v8.0.0-1.20.1-Forge.jar         |Universal Enchants            |universalenchants             |8.0.0               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		AmbientEnvironment-forge-1.20.1-11.0.0.1.jar      |Ambient Environment           |ambientenvironment            |11.0.0.1            |DONE      |Manifest: NOSIGNATURE
+		worldedit-mod-7.2.15.jar                          |WorldEdit                     |worldedit                     |7.2.15+6463-5ca4dff |DONE      |Manifest: NOSIGNATURE
+		ImmediatelyFast-Forge-1.2.10+1.20.4.jar           |ImmediatelyFast               |immediatelyfast               |1.2.10+1.20.4       |DONE      |Manifest: NOSIGNATURE
+		accommodation_-1.1.0.jar                          |Accommodation                 |accommodation_                |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		appleskin-forge-mc1.20.1-2.5.1.jar                |AppleSkin                     |appleskin                     |2.5.1+mc1.20.1      |DONE      |Manifest: NOSIGNATURE
+		ferritecore-6.0.1-forge.jar                       |Ferrite Core                  |ferritecore                   |6.0.1               |DONE      |Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		cupboard-1.20.1-2.6.jar                           |Cupboard utilities            |cupboard                      |1.20.1-2.6          |DONE      |Manifest: NOSIGNATURE
+		YungsBetterEndIsland-1.20-Forge-2.0.6.jar         |YUNG's Better End Island      |betterendisland               |1.20-Forge-2.0.6    |DONE      |Manifest: NOSIGNATURE
+		PuzzlesLib-v8.1.20-1.20.1-Forge.jar               |Puzzles Lib                   |puzzleslib                    |8.1.20              |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		FallingTree-1.20.1-4.3.4.jar                      |FallingTree                   |fallingtree                   |4.3.4               |DONE      |Manifest: 3c:8e:df:6c:df:a6:2a:9f:af:64:ea:04:9a:cf:65:92:3b:54:93:0e:96:50:b4:52:e1:13:42:18:2b:ae:40:29
+		BetterBurning-Forge-1.20.1-9.0.2.jar              |BetterBurning                 |betterburning                 |9.0.2               |DONE      |Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		AnvilNeverTooExpensive-1.20.1-1.1.jar             |Anvil Never Too Expensive     |ante                          |1.1                 |DONE      |Manifest: NOSIGNATURE
+		extremesoundmuffler-3.41-forge-1.20.jar           |Extreme Sound Muffler         |extremesoundmuffler           |3.41-forge-1.20     |DONE      |Manifest: NOSIGNATURE
+		improvedmobs-1.20.1-1.12.4-forge.jar              |Improved Mobs Mod             |improvedmobs                  |1.20.1-1.12.4       |DONE      |Manifest: NOSIGNATURE
+		YungsBetterMineshafts-1.20-Forge-4.0.4.jar        |YUNG's Better Mineshafts      |bettermineshafts              |1.20-Forge-4.0.4    |DONE      |Manifest: NOSIGNATURE
+		majrusz-library-forge-1.20.1-7.0.8.jar            |Majrusz Library               |majruszlibrary                |7.0.8               |DONE      |Manifest: NOSIGNATURE
+		betterfoliage-5.0.2.jar                           |Better Foliage                |betterfoliage                 |5.0.2               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterJungleTemples-1.20-Forge-2.0.4.jar     |YUNG's Better Jungle Temples  |betterjungletemples           |1.20-Forge-2.0.4    |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: 9d9fc244-2b45-43fa-8636-d0c483ddf216
+	FML: 47.2
+	Forge: net.minecraftforge:47.2.21
