@@ -489,3 +489,17 @@ java.lang.Exception: Config not yet available
 [03Aug2024 19:45:19.011] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13296, l='ServerLevel[world]', x=-5793.60, y=103.00, z=-5831.36] died, message: 'Unemployed was killed by Zombie Villager using magic'
 [03Aug2024 19:52:44.813] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/17474, l='ServerLevel[world]', x=-5772.88, y=110.00, z=-5832.54] died, message: 'Nitwit was shot by Stray'
 [03Aug2024 19:52:46.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/17449, l='ServerLevel[world]', x=-5737.68, y=128.00, z=-5927.25] died, message: 'Farmer bled to death'
+[03Aug2024 19:59:13.560] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21188, l='ServerLevel[world]', x=-5821.41, y=104.00, z=-5877.31] died, message: 'Unemployed was slain by Zombie'
+[03Aug2024 20:00:22.563] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[03Aug2024 20:00:22.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[03Aug2024 20:00:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2024 20:00:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2024 20:00:31.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2024 20:00:31.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2024 20:00:31.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2024 20:00:31.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2024 20:00:32.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2024 20:00:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2024 20:00:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2024 20:00:32.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2024 20:00:32.054] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
