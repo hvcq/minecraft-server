@@ -724,3 +724,30 @@ java.lang.Exception: Config not yet available
 [05Aug2024 20:39:27.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18914, l='ServerLevel[world]', x=-6937.37, y=65.39, z=-4581.09] died, message: 'Unemployed was slain by Creeper'
 [05Aug2024 20:39:34.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19080, l='ServerLevel[world]', x=-7041.23, y=93.00, z=-4655.70] died, message: 'Unemployed was slain by Zombie'
 [05Aug2024 20:39:56.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18972, l='ServerLevel[world]', x=-6985.21, y=66.18, z=-4628.13] died, message: 'Unemployed bled to death'
+[05Aug2024 20:40:35.270] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID e35dcc7c-2f12-49ba-b1cb-9256be35f492
+[05Aug2024 20:40:35.279] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -6954 Y: 66 Z: -4613
+[05Aug2024 20:40:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Zombie
+[05Aug2024 20:40:35.306] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[05Aug2024 20:40:44.186] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18971, l='ServerLevel[world]', x=-6958.22, y=62.62, z=-4605.44] died, message: 'Unemployed was slain by Drowned'
+[05Aug2024 20:40:48.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/22083, l='ServerLevel[world]', x=-6941.54, y=91.00, z=-4524.54] died, message: 'Scribe was shot by Skeleton'
+[05Aug2024 20:41:17.993] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['hvice'/21581, l='ServerLevel[world]', x=-6975.69, y=63.00, z=-4600.10] died: hvice was slain by Iron Golem
+[05Aug2024 20:41:24.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/21885, l='ServerLevel[world]', x=-6975.50, y=63.00, z=-4609.02] died, message: 'Cleric was slain by Zombie'
+[05Aug2024 20:41:28.243] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/21896, l='ServerLevel[world]', x=-6985.46, y=64.00, z=-4611.41] died, message: 'Armorer was slain by Zombie'
+[05Aug2024 20:41:32.093] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/21851, l='ServerLevel[world]', x=-6947.31, y=63.00, z=-4617.28] died, message: 'Scribe was shot by hvice'
+[05Aug2024 20:41:43.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21855, l='ServerLevel[world]', x=-6988.75, y=65.00, z=-4637.77] died, message: 'Unemployed was slain by Zombie'
+[05Aug2024 20:41:44.193] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/22086, l='ServerLevel[world]', x=-6922.30, y=94.00, z=-4521.50] died, message: 'Shepherd was blown up by Zombie'
+[05Aug2024 20:41:48.040] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21933, l='ServerLevel[world]', x=-7003.41, y=64.00, z=-4581.70] died, message: 'Unemployed was slain by Zombie'
+[05Aug2024 20:41:54.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21934, l='ServerLevel[world]', x=-7005.08, y=65.00, z=-4566.26] died, message: 'Unemployed was slain by Zombie Villager'
+[05Aug2024 20:41:57.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/21935, l='ServerLevel[world]', x=-7005.43, y=64.61, z=-4566.55] died, message: 'Unemployed was slain by Zombie Villager'
+[05Aug2024 20:42:06.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/22097, l='ServerLevel[world]', x=-6916.46, y=89.00, z=-4520.94] died, message: 'Unemployed was slain by Husk'
+[05Aug2024 20:42:21.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19066, l='ServerLevel[world]', x=-7009.07, y=65.00, z=-4635.30] died, message: 'Nitwit bled to death'
+[05Aug2024 20:42:21.242] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19070, l='ServerLevel[world]', x=-7009.70, y=65.00, z=-4635.70] died, message: 'Unemployed was slain by Zombie Villager'
+[05Aug2024 20:42:24.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19067, l='ServerLevel[world]', x=-7006.44, y=68.06, z=-4631.04] died, message: 'Unemployed was slain by Zombie Villager'
+[05Aug2024 20:42:28.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19069, l='ServerLevel[world]', x=-7009.60, y=65.00, z=-4635.70] died, message: 'Unemployed was slain by Zombie'
+[05Aug2024 20:42:30.987] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/21931, l='ServerLevel[world]', x=-6948.55, y=64.00, z=-4580.67] died, message: 'Scribe was slain by Creeper'
+[05Aug2024 20:42:39.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/21983, l='ServerLevel[world]', x=-6947.64, y=63.94, z=-4587.01] died, message: 'Nitwit was slain by Creeper'
+[05Aug2024 20:48:15.889] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Timed out
+[05Aug2024 20:48:15.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[05Aug2024 20:49:17.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.151.35.229:38099] logged in with entity id 26168 at (-7354.5330518570345, 67.49520087700593, -4239.401006757172)
+[05Aug2024 20:49:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[05Aug2024 20:49:17.416] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
