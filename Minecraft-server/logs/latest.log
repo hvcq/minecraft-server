@@ -751,3 +751,22 @@ java.lang.Exception: Config not yet available
 [05Aug2024 20:49:17.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.151.35.229:38099] logged in with entity id 26168 at (-7354.5330518570345, 67.49520087700593, -4239.401006757172)
 [05Aug2024 20:49:17.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
 [05Aug2024 20:49:17.416] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[05Aug2024 21:25:50.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7896806010616781
+[05Aug2024 21:25:53.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6666754759300754
+[05Aug2024 21:25:55.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.8155537326933656
+[05Aug2024 21:26:01.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.6442527403946803
+[05Aug2024 21:26:03.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of hvice) moved wrongly! 0.7315424677701088
+[05Aug2024 21:40:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Essence Gathering]
+[05Aug2024 21:46:24.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[05Aug2024 21:46:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[05Aug2024 21:46:34.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[05Aug2024 21:46:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[05Aug2024 21:46:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[05Aug2024 21:46:34.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05Aug2024 21:46:34.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05Aug2024 21:46:34.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05Aug2024 21:46:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05Aug2024 21:46:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05Aug2024 21:46:34.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05Aug2024 21:46:34.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05Aug2024 21:46:35.043] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
