@@ -712,3 +712,15 @@ java.lang.Exception: Config not yet available
 [05Aug2024 19:54:43.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Aug2024 19:54:43.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [05Aug2024 19:54:44.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Aug2024 19:58:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Guns and Roses]
+[05Aug2024 20:24:49.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.444633483886719) to LOW (avg. 20.73076820373535)
+[05Aug2024 20:25:04.430] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.73076820373535) to VERY_LOW (avg. 12.385369300842285)
+[05Aug2024 20:37:11.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19029, l='ServerLevel[world]', x=-6969.40, y=68.00, z=-4594.17] died, message: 'Unemployed was slain by Zombie'
+[05Aug2024 20:37:14.891] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/19009, l='ServerLevel[world]', x=-6963.25, y=67.18, z=-4586.17] died, message: 'Armorer was slain by Zombie'
+[05Aug2024 20:37:50.788] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/19097, l='ServerLevel[world]', x=-6940.73, y=90.00, z=-4547.88] died, message: 'Scribe bled to death'
+[05Aug2024 20:38:26.991] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19081, l='ServerLevel[world]', x=-7012.67, y=63.00, z=-4624.69] died, message: 'Unemployed was shot by Skeleton'
+[05Aug2024 20:39:06.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18916, l='ServerLevel[world]', x=-6938.58, y=64.77, z=-4579.66] died, message: 'Unemployed was slain by Creeper'
+[05Aug2024 20:39:26.689] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/19036, l='ServerLevel[world]', x=-6984.96, y=94.00, z=-4538.48] died, message: 'Nitwit was slain by Spider'
+[05Aug2024 20:39:27.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18914, l='ServerLevel[world]', x=-6937.37, y=65.39, z=-4581.09] died, message: 'Unemployed was slain by Creeper'
+[05Aug2024 20:39:34.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19080, l='ServerLevel[world]', x=-7041.23, y=93.00, z=-4655.70] died, message: 'Unemployed was slain by Zombie'
+[05Aug2024 20:39:56.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18972, l='ServerLevel[world]', x=-6985.21, y=66.18, z=-4628.13] died, message: 'Unemployed bled to death'
