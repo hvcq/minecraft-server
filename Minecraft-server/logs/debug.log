@@ -5519,3 +5519,112 @@ java.lang.Exception: Config not yet available
 [10Aug2024 16:03:23.446] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
 [10Aug2024 16:03:51.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.378320693969727) to LOW (avg. 20.95538330078125)
 [10Aug2024 16:04:06.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.95538330078125) to VERY_LOW (avg. 12.293932914733887)
+[10Aug2024 16:05:28.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2024 16:05:28.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2024 16:08:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Fetch Me Their Souls!]
+[10Aug2024 16:10:28.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2024 16:10:28.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2024 16:11:41.285] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 455dbbcd-0070-40e8-95fc-c074e49b8729
+[10Aug2024 16:11:41.287] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 29 Y: 32 Z: -423
+[10Aug2024 16:11:41.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice tried to swim in lava to escape Bone Serpent
+[10Aug2024 16:11:41.292] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:30, y:32, z:-424, dim:minecraft:the_nether]
+[10Aug2024 16:11:41.293] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[10Aug2024 16:11:44.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.171379089355469) to LOW (avg. 21.005508422851562)
+[10Aug2024 16:11:51.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.005508422851562) to VERY_LOW (avg. 15.509697914123535)
+[10Aug2024 16:12:42.528] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID d1690752-dce8-4da4-afd6-b0686c454232
+[10Aug2024 16:12:42.529] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 33 Y: 32 Z: -422
+[10Aug2024 16:12:42.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Soul Vulture
+[10Aug2024 16:12:42.531] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:30, y:32, z:-420, dim:minecraft:the_nether]
+[10Aug2024 16:12:42.538] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[10Aug2024 16:13:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was burnt to a crisp whilst fighting Bone Serpent
+[10Aug2024 16:13:18.433] [Server thread/DEBUG] [tombstone/]: A new grave of the player hvice was created at position [x:31, y:37, z:-421, dim:minecraft:the_nether]
+[10Aug2024 16:13:18.436] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[10Aug2024 16:14:48.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:48.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:48.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:48.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.473] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:49.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.275] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:50.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.475] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:53.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:54.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:54.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:54.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:56.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:56.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.076] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.574] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.674] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.874] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:57.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:14:58.873] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.274] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.374] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.474] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.673] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.774] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.875] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:01.973] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:02.073] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:02.173] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:15:28.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2024 16:15:28.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2024 16:16:13.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Aug2024 16:18:10.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=36, y=57, z=-419} BlockPos{x=47, y=57, z=-389}
+[10Aug2024 16:18:14.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=56, z=-383} BlockPos{x=47, y=56, z=-381}
+[10Aug2024 16:20:28.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2024 16:20:28.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2024 16:21:59.244] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.121789932250977) to LOW (avg. 22.191551208496094)
+[10Aug2024 16:22:06.617] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.191551208496094) to VERY_LOW (avg. 16.832571029663086)
+[10Aug2024 16:22:49.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[10Aug2024 16:22:49.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[10Aug2024 16:22:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Aug2024 16:22:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Aug2024 16:22:57.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Aug2024 16:22:57.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Aug2024 16:22:57.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Aug2024 16:22:57.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Aug2024 16:22:57.993] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Aug2024 16:22:58.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Aug2024 16:22:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Aug2024 16:22:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Aug2024 16:22:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Aug2024 16:22:58.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Aug2024 16:22:58.040] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[10Aug2024 16:22:58.041] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

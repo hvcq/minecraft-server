@@ -6934,5 +6934,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-08-10 16:08:16 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
