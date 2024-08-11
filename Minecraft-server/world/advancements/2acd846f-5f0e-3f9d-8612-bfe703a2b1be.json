@@ -6940,5 +6940,41 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-08-11 15:00:16 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-08-11 15:00:16 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-08-11 15:00:16 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-08-11 15:00:16 -0400"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-08-11 15:00:16 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/impregnated_receptacle": {
+    "criteria": {
+      "coded_trigger": "2024-08-11 14:58:23 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
