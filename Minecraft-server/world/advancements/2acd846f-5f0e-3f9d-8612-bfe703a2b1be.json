@@ -6940,6 +6940,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/impregnated_receptacle": {
+    "criteria": {
+      "coded_trigger": "2024-08-11 14:58:23 -0400"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-08-11 15:00:16 -0400"
@@ -6970,9 +6976,69 @@
     },
     "done": true
   },
-  "tombstone:adventure/impregnated_receptacle": {
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
-      "coded_trigger": "2024-08-11 14:58:23 -0400"
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-08-11 19:33:17 -0400"
     },
     "done": true
   },
