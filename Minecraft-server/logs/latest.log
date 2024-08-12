@@ -463,3 +463,36 @@ java.lang.Exception: Config not yet available
 [11Aug2024 19:27:47.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=152, y=14, z=-153} BlockPos{x=158, y=16, z=-155}
 [11Aug2024 19:31:49.623] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 7.929662704467773) to LOW (avg. 22.011749267578125)
 [11Aug2024 19:31:57.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.011749267578125) to VERY_LOW (avg. 9.40252685546875)
+[11Aug2024 19:54:13.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice has made the advancement [Crafting a New Look]
+[11Aug2024 20:04:09.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[11Aug2024 20:04:09.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[11Aug2024 20:09:20.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hvice[/127.33.148.177:43917] logged in with entity id 17170 at (1005.6703949714561, 68.0, -1272.373903711954)
+[11Aug2024 20:09:20.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice joined the game
+[11Aug2024 20:09:20.746] [Server thread/INFO] [Jade/]: Syncing config to hvice (2acd846f-5f0e-3f9d-8612-bfe703a2b1be)
+[11Aug2024 20:18:17.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1066, y=62, z=-1428} BlockPos{x=1066, y=61, z=-1428}
+[11Aug2024 20:21:43.090] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 906fd3d8-d1db-450d-b004-7983909a8731
+[11Aug2024 20:21:43.096] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1074 Y: 64 Z: -1403
+[11Aug2024 20:21:43.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was slain by Tank
+[11Aug2024 20:21:43.118] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[11Aug2024 20:26:49.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice moved wrongly!
+[11Aug2024 20:34:16.181] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID 43616b60-3fb7-4834-a20f-9ba76f3feb61
+[11Aug2024 20:34:16.182] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1086 Y: 64 Z: -1413
+[11Aug2024 20:34:16.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice withered away whilst fighting Cerberus
+[11Aug2024 20:34:16.185] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[11Aug2024 20:43:37.332] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for hvice with unique ID b4e893a3-1eb3-4838-8497-2c1f56e63acb
+[11Aug2024 20:43:37.333] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: 1012 Y: 67 Z: -1329
+[11Aug2024 20:43:37.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice was shot by Skeleton
+[11Aug2024 20:43:37.339] [Server thread/INFO] [tombstone/]: The player hvice has successfully been saved
+[11Aug2024 20:55:32.478] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hvice lost connection: Disconnected
+[11Aug2024 20:55:32.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hvice left the game
+[11Aug2024 20:55:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Aug2024 20:55:41.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Aug2024 20:55:41.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Aug2024 20:55:41.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Aug2024 20:55:41.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Aug2024 20:55:41.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Aug2024 20:55:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Aug2024 20:55:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Aug2024 20:55:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Aug2024 20:55:41.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Aug2024 20:55:41.370] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
